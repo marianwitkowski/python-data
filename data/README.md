@@ -1,1 +1,1 @@
-Samples data
+Przykładowe dane z otodom.pl
