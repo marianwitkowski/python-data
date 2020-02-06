@@ -5,6 +5,8 @@
 - [Ogłoszenia w IT z nofluffjobs.com](https://github.com/marianwitkowski/python-data/blob/master/nofluffjobs-stat.ipynb
 ) 
 - [Ogłoszenia otodom.pl - Warszawa, mieszkania](https://github.com/marianwitkowski/python-data/blob/master/otodom.ipynb)
+- [Ogłoszenia domiporta.pl - Warszawa, mieszkania](https://github.com/marianwitkowski/python-data/blob/master/domiporta.ipynb)
+
 
 
 
