@@ -7,6 +7,7 @@
 - [Ogłoszenia otodom.pl - Warszawa, mieszkania](https://github.com/marianwitkowski/python-data/blob/master/otodom.ipynb)
 - [Ogłoszenia domiporta.pl - Warszawa, mieszkania](https://github.com/marianwitkowski/python-data/blob/master/domiporta.ipynb)
 - [Dane z pyszne.pl - Warszawa/Centrum](https://github.com/marianwitkowski/python-data/blob/master/pyszne.ipynb)
+- [Statystyka czasu dostawy z pyszne.pl - Warszawa/Centrum](https://github.com/marianwitkowski/python-data/blob/master/pyszne-stat.ipynb)
 
 
 
