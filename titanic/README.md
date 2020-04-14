@@ -5,7 +5,7 @@
 
 ### Predykcja przeżycia katastrofy
 
-Prezentacja algorytmów uczenia maszynowego na przykładzie utworzenia modelu pozwalającego na predykcję możliwości uratowania się z tonącego Titanica
+Prezentacja algorytmów uczenia maszynowego na przykładzie utworzenia modelu pozwalającego na predykcję możliwości uratowania się z tonącego Titanica.
 
 - <a href='titanic.csv'>Zbiór danych testowych - titanic.csv</a>
 - <a href='titanic.ipynb'>Predykcja przy użyciu 11 estymatorów, porównanie dokładności oraz wpływu skalowania danych</a>
