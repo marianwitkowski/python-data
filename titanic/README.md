@@ -11,4 +11,4 @@ Prezentacja algorytmów uczenia maszynowego na przykładzie utworzenia modelu po
 - <a href='titanic.ipynb'>Predykcja przy użyciu 11 estymatorów, porównanie dokładności oraz wpływu skalowania danych</a>
 - <a href='titanic_klasyfikacja.ipynb'>Predykcja przy użyciu prostej sieci w Tensorflow</a>
 
-<small>&copy;2020 <a target="_blank" href='https://www.linkedin.com/in/marianwitkowski/'>Marian Witkowski</a></small>
+<small>&copy;2020 <a target="blank" href='https://www.linkedin.com/in/marianwitkowski/'>Marian Witkowski</a></small>
