@@ -3,5 +3,5 @@
 
 <ul>
 <li><a href='search.py'>Skrypt parsujący</a>
-<li><a href='result.csv'>Przykładowe wyniki</a>
+<li><a href='result.csv'>Przykładowe wyniki (dla frazy "Programista Python")</a>
 </ul>
