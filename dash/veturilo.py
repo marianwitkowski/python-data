@@ -65,7 +65,7 @@ def update_graph(n_clicks,dropdown_station,ts_start, ts_stop):
                                  mode='lines', line={"color":"magenta"},
                                  name='średnia krocząca 2h'))
 
-        fig.update_layout(height=600, title_text=f'Dane historycznee - stacja {station_name}')
+        fig.update_layout(height=600, title_text=f'Dane historyczne - stacja {station_name}')
         return fig
     else:
         return {
