@@ -6,4 +6,4 @@
   <li><a href='analiza-ig-comments.ipynb'>Analiza komentarzy</a></li>
  </ul>
 
-<img src='ig-chart.png' border='0' />
+<img src='https://github.com/marianwitkowski/python-data/raw/master/instagram/ig-chart.png' border='0' />
