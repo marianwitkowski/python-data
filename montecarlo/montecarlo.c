@@ -1,7 +1,9 @@
 /*
-W celu zbudowania modułu (linked shard object library) z pliku *.c wykonaj komendę poniżej:
+(c) 2020 - Marian Witkowski
 
-cc -fPIC -shared -o montecarlo.so montecarlo.c
+W celu zbudowania modułu (linked shard object library) z pliku *.c wykonaj komendę poniżej:
+$ cc -fPIC -shared -o montecarlo.so montecarlo.c
+
 */
 
 #include <stdlib.h>
