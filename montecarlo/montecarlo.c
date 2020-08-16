@@ -1,3 +1,9 @@
+/*
+W celu zbudowania modułu (linked shard object library) z pliku *.c wykonaj komendę poniżej:
+
+cc -fPIC -shared -o montecarlo.so montecarlo.c
+*/
+
 #include <stdlib.h>
 #include <math.h>
 #define SEED 42
