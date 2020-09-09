@@ -1,0 +1,3013 @@
+Miasto,Dzielnica,Powierzchnia,Pokoje,Cena,Cena_m2
+Poznań,Podolany,73.0,,2750.0,37.67
+Warszawa,Mokotów,63.0,3.0,3500.0,55.56
+Warszawa,Żoliborz,40.0,1.0,1950.0,48.75
+Warszawa,Praga-Północ,39.4,2.0,2400.0,60.91
+Kraków,Stare Miasto,80.2,3.0,5000.0,62.34
+Łódź,Śródmieście,98.0,2.0,3400.0,34.69
+Kraków,Krowodrza,54.0,2.0,1600.0,29.63
+Kraków,Stare Miasto,30.0,2.0,2150.0,71.67
+Szczecin,Centrum,34.7,2.0,1850.0,53.31
+Kraków,Podgórze,71.0,1.0,2300.0,32.39
+Łódź,Śródmieście,47.0,2.0,1350.0,28.72
+Warszawa,Praga-Południe,55.0,3.0,4000.0,72.73
+Szczecin,Stare Miasto,50.0,2.0,3000.0,60.0
+Kraków,Prądnik Biały,42.0,2.0,1400.0,33.33
+Kraków,Stare Miasto,57.0,3.0,2000.0,35.09
+Warszawa,Mokotów,70.0,2.0,6000.0,85.71
+Warszawa,Ochota,86.5,4.0,5000.0,57.8
+Kraków,Krowodrza,40.0,2.0,1700.0,42.5
+Warszawa,Mokotów,84.0,3.0,3600.0,42.86
+Warszawa,Mokotów,112.0,4.0,6900.0,61.61
+Kraków,Czyżyny,43.0,2.0,2000.0,46.51
+Gdańsk,Stare Miasto,58.0,3.0,2600.0,44.83
+Warszawa,Saska Kępa,51.0,3.0,2400.0,47.06
+Warszawa,Praga-Północ,56.0,2.0,3500.0,62.5
+Kraków,Stare Miasto,140.0,3.0,15000.0,107.14
+Kraków,Os. Tysiąclecia,34.55,2.0,1500.0,43.42
+Kraków,Grzegórzki,29.0,1.0,1900.0,65.52
+Warszawa,Młynów,76.4,3.0,4000.0,52.36
+Warszawa,Praga-Północ,37.0,1.0,2000.0,54.05
+Poznań,Grunwald,33.0,1.0,1250.0,37.88
+małopolskie,Kraków,40.0,2.0,2100.0,52.5
+Warszawa,Wyględów,120.0,4.0,10000.0,83.33
+Warszawa,Śródmieście,33.67,2.0,1690.0,50.19
+Szczecin,Centrum,48.0,2.0,2000.0,41.67
+Warszawa,Służewiec,51.0,2.0,2690.0,52.75
+Kraków,Zabłocie,110.0,3.0,13000.0,118.18
+Kraków,Prądnik Biały,40.0,2.0,2000.0,50.0
+Kraków,Kazimierz,45.0,2.0,1900.0,42.22
+Warszawa,Śródmieście,35.0,2.0,2000.0,57.14
+Kraków,Krowodrza,50.0,2.0,2000.0,40.0
+Kraków,Stare Miasto,55.0,2.0,3500.0,63.64
+Gdańsk,Siedlce,41.0,2.0,2300.0,56.1
+Warszawa,Bemowo,49.0,2.0,2300.0,46.94
+Warszawa,Mokotów,60.0,3.0,3500.0,58.33
+Kraków,Stare Miasto,123.06,4.0,8561.0,69.57
+Warszawa,Ursynów,31.52,2.0,2200.0,69.8
+Kraków,Wola Justowska,55.0,2.0,1800.0,32.73
+Warszawa,Stara Praga,26.0,1.0,3600.0,138.46
+Wrocław,Ołtaszyn,45.0,2.0,1400.0,31.11
+Warszawa,Służew,53.0,2.0,2300.0,43.4
+Kraków,Os. Ruczaj,48.0,2.0,1400.0,29.17
+Gdańsk,Przymorze,40.0,2.0,2300.0,57.5
+Warszawa,Wola,51.0,2.0,4200.0,82.35
+małopolskie,Kraków,75.0,3.0,3500.0,46.67
+Kraków,Os. Ruczaj,49.0,2.0,2450.0,50.0
+Kraków,Krowodrza,59.0,2.0,1750.0,29.66
+Gdańsk,Oliwa,73.0,3.0,2800.0,38.36
+Warszawa,Ursynów,61.8,3.0,2800.0,45.31
+Warszawa,Śródmieście,60.0,2.0,2990.0,49.83
+Warszawa,Stary Imielin,49.0,2.0,1900.0,38.78
+Warszawa,Wilanów,151.0,5.0,8500.0,56.29
+Szczecin,Pogodno,33.7,2.0,1500.0,44.51
+Warszawa,Mokotów,50.0,2.0,2700.0,54.0
+pomorskie,Gdańsk,65.0,3.0,2300.0,35.38
+Kraków,Stare Miasto,36.0,1.0,1600.0,44.44
+Warszawa,Śródmieście,105.0,4.0,6000.0,57.14
+Kraków,Stare Miasto,55.0,2.0,2300.0,41.82
+Gdańsk,Wrzeszcz,40.0,2.0,2100.0,52.5
+małopolskie,Kraków,100.0,4.0,3500.0,35.0
+Warszawa,Śródmieście Południowe,70.0,2.0,5800.0,82.86
+Warszawa,Śródmieście,53.0,2.0,3500.0,66.04
+Wrocław,Ołbin,63.0,3.0,2000.0,31.75
+Kraków,Kazimierz,96.0,3.0,7500.0,78.13
+Warszawa,Nowolipki,54.0,2.0,2600.0,48.15
+Warszawa,Powiśle,136.0,4.0,8500.0,62.5
+Kraków,Grzegórzki,50.0,2.0,2000.0,40.0
+Kraków,Krowodrza,51.0,2.0,2250.0,44.12
+Kraków,Dąbie,34.25,2.0,2200.0,64.23
+Kraków,Dębniki,52.0,2.0,1900.0,36.54
+Kraków,Os. Podwawelskie,29.0,1.0,1500.0,51.72
+Szczecin,Pogodno,120.0,4.0,4000.0,33.33
+Wrocław,Śródmieście,50.0,3.0,2400.0,48.0
+Warszawa,Ochota,55.42,3.0,3400.0,61.35
+Gdańsk,Stare Miasto,95.0,4.0,3000.0,31.58
+Wrocław,Ołtaszyn,56.0,2.0,1900.0,33.93
+Gdańsk,Śródmieście,68.0,3.0,3800.0,55.88
+Wrocław,Stare Miasto,46.0,2.0,1960.0,42.61
+Warszawa,Ksawerów,43.38,2.0,2700.0,62.24
+Kraków,Prądnik Czerwony,41.0,2.0,1700.0,41.46
+Poznań,Grunwald,68.0,3.0,2600.0,38.24
+Szczecin,Warszewo,40.0,1.0,1350.0,33.75
+Warszawa,Wilanów,109.0,3.0,4900.0,44.95
+Warszawa,Mokotów,110.0,4.0,5000.0,45.45
+Warszawa,Śródmieście,39.2,2.0,2400.0,61.22
+Łódź,Śródmieście,62.0,3.0,2700.0,43.55
+Kraków,Grzegórzki,61.0,3.0,2900.0,47.54
+dolnośląskie,Wrocław,30.0,1.0,2600.0,86.67
+Kraków,Stare Miasto,66.0,3.0,3400.0,51.52
+Warszawa,Mokotów,120.0,3.0,8000.0,66.67
+Warszawa,Powiśle,60.0,2.0,2700.0,45.0
+Łódź,Julianów-Marysin-Rogi,142.0,4.0,4000.0,28.17
+Warszawa,Śródmieście,21.0,1.0,2900.0,138.1
+Wrocław,Stare Miasto,49.02,2.0,2500.0,51.0
+Warszawa,Bemowo,48.0,2.0,1800.0,37.5
+Gdańsk,Jasień,50.0,2.0,2100.0,42.0
+Warszawa,Stary Mokotów,45.0,2.0,2500.0,55.56
+Łódź,Górna,37.0,2.0,1100.0,29.73
+Szczecin,Centrum,39.14,2.0,2000.0,51.1
+Gdańsk,Śródmieście,86.77,4.0,3300.0,38.03
+Wrocław,Os. Stare Miasto,40.0,2.0,2100.0,52.5
+Łódź,Śródmieście,80.0,3.0,1100.0,13.75
+Warszawa,Stary Żoliborz,21.0,1.0,1800.0,85.71
+Warszawa,Wola,55.0,2.0,2700.0,49.09
+Kraków,Dębniki,48.0,2.0,2250.0,46.88
+Warszawa,Bemowo,51.0,2.0,1600.0,31.37
+Gdańsk,Chełm,72.4,4.0,2200.0,30.39
+Kraków,Bronowice,36.0,2.0,1500.0,41.67
+Warszawa,Mokotów,75.0,3.0,3500.0,46.67
+Kraków,Wieczysta,40.0,2.0,1300.0,32.5
+Warszawa,Śródmieście,50.0,2.0,2500.0,50.0
+Szczecin,Pogodno,100.0,4.0,4000.0,40.0
+Warszawa,Śródmieście,59.0,2.0,2800.0,47.46
+mazowieckie,Warszawa,149.0,4.0,6900.0,46.31
+Warszawa,Czyste,40.0,2.0,2300.0,57.5
+Gdańsk,Przymorze,40.0,2.0,2300.0,57.5
+Kraków,Podgórze,40.0,2.0,2000.0,50.0
+Kraków,Os. Prądnik Biały,28.0,1.0,1200.0,42.86
+Kraków,Prądnik Biały,50.0,1.0,1550.0,31.0
+Warszawa,Kabaty,57.3,3.0,3000.0,52.36
+Kraków,Stare Miasto,220.0,6.0,7000.0,31.82
+Wrocław,Grabiszyn-Grabiszynek,96.2,3.0,4500.0,46.78
+Gdańsk,Śródmieście,45.0,2.0,2100.0,46.67
+Warszawa,Ochota,45.0,2.0,2500.0,55.56
+Kraków,Kazimierz,29.0,1.0,1900.0,65.52
+Kraków,Grzegórzki,57.0,2.0,3000.0,52.63
+Kraków,Stare Miasto,60.0,3.0,2200.0,36.67
+Kraków,Prądnik Biały,75.0,3.0,2300.0,30.67
+Kraków,Stare Miasto,37.0,2.0,1800.0,48.65
+Kraków,Mydlniki,54.23,2.0,1600.0,29.5
+Warszawa,Śródmieście,150.0,3.0,13000.0,86.67
+Kraków,Rżąka,82.0,5.0,1800.0,21.95
+Łódź,Śródmieście,35.0,1.0,1550.0,44.29
+Warszawa,Mokotów,71.0,3.0,4800.0,67.61
+Kraków,Kazimierz,20.0,1.0,1600.0,80.0
+Warszawa,Śródmieście,78.0,2.0,3200.0,41.03
+Warszawa,Służewiec,92.0,3.0,3700.0,40.22
+Kraków,Stare Miasto,45.0,2.0,2550.0,56.67
+Wrocław,Krzyki,74.0,3.0,2400.0,32.43
+Kraków,Mistrzejowice,65.0,3.0,2000.0,30.77
+Wrocław,Stare Miasto,50.0,2.0,3700.0,74.0
+Gdańsk,Śródmieście,48.0,2.0,2650.0,55.21
+Warszawa,Śródmieście Północne,45.5,2.0,2500.0,54.95
+Warszawa,Wola,30.0,1.0,1100.0,36.67
+Warszawa,Natolin,47.8,2.0,1850.0,38.7
+małopolskie,Kraków,70.0,3.0,2700.0,38.57
+Gdańsk,Śródmieście,50.0,2.0,2100.0,42.0
+Warszawa,Śródmieście,38.0,1.0,3200.0,84.21
+Kraków,Dębniki,49.0,2.0,2190.0,44.69
+Warszawa,Wola,60.0,3.0,2900.0,48.33
+wielkopolskie,Poznań,32.0,1.0,1200.0,37.5
+Warszawa,Mokotów,18.0,1.0,1800.0,100.0
+Szczecin,Stare Miasto,59.0,3.0,3500.0,59.32
+Gdańsk,Piecki-Migowo,70.0,3.0,2600.0,37.14
+Warszawa,Żoliborz,31.0,2.0,2900.0,93.55
+Kraków,Stare Miasto,32.0,1.0,1350.0,42.19
+małopolskie,Kraków,49.0,2.0,2200.0,44.9
+Warszawa,Żoliborz,82.0,3.0,4000.0,48.78
+Kraków,Borek Fałęcki,35.0,1.0,1500.0,42.86
+małopolskie,Kraków,30.0,1.0,1600.0,53.33
+łódzkie,Łódź,83.0,3.0,2600.0,31.33
+Warszawa,Saska Kępa,55.0,2.0,2500.0,45.45
+Warszawa,Mokotów,27.0,1.0,1500.0,55.56
+Warszawa,Mokotów,98.0,3.0,5000.0,51.02
+małopolskie,Kraków,56.0,2.0,2100.0,37.5
+Wrocław,Krzyki,32.09,1.0,1400.0,43.63
+Warszawa,Śródmieście,52.0,2.0,2900.0,55.77
+Wrocław,Stare Miasto,50.0,3.0,1500.0,30.0
+Kraków,Stare Miasto,40.0,2.0,1800.0,45.0
+Warszawa,Muranów,50.0,2.0,2400.0,48.0
+Warszawa,Śródmieście,121.0,4.0,6200.0,51.24
+Wrocław,Krzyki,52.0,2.0,1900.0,36.54
+Kraków,Stare Miasto,39.0,2.0,2100.0,53.85
+Poznań,Stare Miasto,19.0,1.0,1250.0,65.79
+Poznań,Stare Miasto,45.0,2.0,2300.0,51.11
+małopolskie,Kraków,40.0,2.0,2100.0,52.5
+Kraków,Krowodrza,72.0,2.0,2200.0,30.56
+Kraków,Stare Miasto,110.0,3.0,4980.0,45.27
+Łódź,Śródmieście,40.0,2.0,2000.0,50.0
+Warszawa,Mokotów,45.0,2.0,3500.0,77.78
+Warszawa,Śródmieście,75.0,2.0,5500.0,73.33
+Kraków,Stare Miasto,39.0,2.0,1800.0,46.15
+małopolskie,Kraków,94.0,3.0,2400.0,25.53
+Warszawa,Śródmieście,61.4,2.0,3600.0,58.63
+Łódź,Śródmieście,63.0,1.0,1600.0,25.4
+Szczecin,Centrum,115.0,3.0,2800.0,24.35
+Warszawa,Śródmieście,47.0,2.0,2400.0,51.06
+Kraków,Stare Miasto,45.2,2.0,1990.0,44.03
+małopolskie,Kraków,108.0,3.0,6000.0,55.56
+Warszawa,Śródmieście,33.0,1.0,2300.0,69.7
+Warszawa,Stara Ochota,20.0,1.0,1600.0,80.0
+Warszawa,Włochy,33.0,2.0,3000.0,90.91
+Warszawa,Fort Bema,49.0,2.0,2600.0,53.06
+Kraków,Os. Kliny Zacisze,45.0,2.0,1500.0,33.33
+Warszawa,Ochota,37.0,2.0,4450.0,120.27
+Warszawa,Ursynów,51.0,2.0,1600.0,31.37
+Kraków,Dąbie,50.0,2.0,2050.0,41.0
+Kraków,Łobzów,42.0,3.0,1800.0,42.86
+Gdańsk,Przymorze,38.0,2.0,2600.0,68.42
+mazowieckie,Warszawa,42.2,2.0,3000.0,71.09
+Warszawa,Żoliborz,82.0,3.0,5000.0,60.98
+Kraków,Stare Miasto,44.25,2.0,2000.0,45.2
+Gdańsk,Oliwa,22.0,1.0,1650.0,75.0
+Kraków,Stare Miasto,89.0,3.0,5900.0,66.29
+Wrocław,Stare Miasto,52.0,2.0,2300.0,44.23
+Warszawa,Włochy,34.0,,1800.0,52.94
+Warszawa,Mokotów,42.0,2.0,2700.0,64.29
+Kraków,Bieńczyce,38.0,2.0,1200.0,31.58
+Łódź,Widzew,37.0,2.0,1400.0,37.84
+Warszawa,Mokotów,54.0,2.0,3000.0,55.56
+Warszawa,Mokotów,118.5,3.0,8500.0,71.73
+Warszawa,Odolany,47.0,2.0,2500.0,53.19
+Kraków,Krowodrza,30.0,1.0,1000.0,33.33
+Kraków,Stare Miasto,40.0,1.0,1600.0,40.0
+Warszawa,Wilanów,177.0,5.0,6550.0,37.01
+małopolskie,Kraków,53.0,2.0,2300.0,43.4
+Kraków,Nowa Huta,18.0,1.0,700.0,38.89
+Warszawa,Praga-Południe,62.0,2.0,1300.0,20.97
+Łódź,Śródmieście,70.75,3.0,1500.0,21.2
+Poznań,Jeżyce,53.9,2.0,2500.0,46.38
+Kraków,Os. Krowodrza Górka,43.0,2.0,1450.0,33.72
+Szczecin,Centrum,59.21,3.0,3000.0,50.67
+Kraków,Krowodrza,38.0,2.0,1600.0,42.11
+Warszawa,Mokotów,76.0,3.0,5500.0,72.37
+Warszawa,Fort Bema,91.0,4.0,2900.0,31.87
+Łódź,Polesie,42.0,2.0,1300.0,30.95
+Warszawa,Śródmieście,34.0,1.0,2200.0,64.71
+Kraków,Grzegórzki,66.0,3.0,3500.0,53.03
+Kraków,Os. Ruczaj,40.0,2.0,1700.0,42.5
+Szczecin,Centrum,78.0,3.0,4300.0,55.13
+Warszawa,Kabaty,55.0,2.0,2400.0,43.64
+Kraków,Os. Na Kozłówce,30.0,1.0,1080.0,36.0
+Warszawa,Saska Kępa,180.0,4.0,8500.0,47.22
+Warszawa,Tarchomin,43.9,2.0,1400.0,31.89
+małopolskie,Kraków,85.0,3.0,2800.0,32.94
+Szczecin,Gumieńce,43.0,2.0,1850.0,43.02
+małopolskie,Kraków,76.0,2.0,2200.0,28.95
+Kraków,Os. Prądnik Biały,44.0,2.0,1400.0,31.82
+Kraków,Grzegórzki,70.0,2.0,2100.0,30.0
+Kraków,Kazimierz,83.0,3.0,5300.0,63.86
+Warszawa,Skorosze,67.7,3.0,2700.0,39.88
+mazowieckie,Warszawa,84.0,3.0,6500.0,77.38
+Warszawa,Ochota,54.0,2.0,2300.0,42.59
+Kraków,Stare Miasto,149.0,4.0,7600.0,51.01
+Szczecin,Bezrzecze - Krzekowo,64.0,3.0,2200.0,34.38
+Szczecin,Centrum,41.28,2.0,3000.0,72.67
+Warszawa,Bemowo,65.86,3.0,1900.0,28.85
+Gdańsk,Przymorze,38.5,2.0,2200.0,57.14
+Kraków,Grzegórzki,47.0,2.0,2300.0,48.94
+Wrocław,Nadodrze,30.0,1.0,1600.0,53.33
+Szczecin,Centrum,51.0,2.0,1600.0,31.37
+dolnośląskie,Wrocław,30.0,1.0,1400.0,46.67
+Warszawa,Bielany,55.0,2.0,2300.0,41.82
+Warszawa,Mokotów,62.0,2.0,3800.0,61.29
+Kraków,Kazimierz,65.0,3.0,4300.0,66.15
+Warszawa,Mokotów,137.0,4.0,7500.0,54.74
+Warszawa,Śródmieście,25.0,1.0,1750.0,70.0
+Kraków,Grzegórzki,70.0,2.0,2000.0,28.57
+Kraków,Grzegórzki,36.0,2.0,1750.0,48.61
+Kraków,Podgórze,28.0,2.0,1800.0,64.29
+Warszawa,Wilanów,110.0,4.0,10000.0,90.91
+Łódź,Widzew,44.0,3.0,1300.0,29.55
+Gdańsk,Wrzeszcz,85.0,3.0,2600.0,30.59
+Poznań,Stare Miasto,30.0,1.0,1450.0,48.33
+Poznań,Naramowice,35.5,1.0,1200.0,33.8
+Wrocław,Klecina,39.0,2.0,2000.0,51.28
+Szczecin,Gumieńce,65.0,2.0,2000.0,30.77
+Wrocław,Stare Miasto,60.0,2.0,4500.0,75.0
+Gdańsk,Oliwa,45.0,2.0,2300.0,51.11
+Wrocław,Os. Stare Miasto,66.0,2.0,2500.0,37.88
+Kraków,Grzegórzki,61.0,3.0,3200.0,52.46
+Warszawa,Powiśle,80.1,3.0,8500.0,106.12
+Łódź,Śródmieście,70.0,3.0,2000.0,28.57
+Łódź,Bałuty,60.0,2.0,2000.0,33.33
+Kraków,Podgórze,38.0,2.0,2800.0,73.68
+Kraków,Stare Miasto,117.0,4.0,4800.0,41.03
+Warszawa,Powiśle,100.0,3.0,6500.0,65.0
+Gdańsk,Śródmieście,46.0,2.0,1900.0,41.3
+Warszawa,Śródmieście,55.0,2.0,2700.0,49.09
+Warszawa,Śródmieście,51.5,2.0,4500.0,87.38
+Kraków,Podgórze Duchackie,74.0,5.0,2900.0,39.19
+Warszawa,Muranów,33.0,1.0,3900.0,118.18
+Kraków,Krowodrza,50.0,2.0,1500.0,30.0
+Wrocław,Krzyki,15.0,1.0,1160.0,77.33
+Kraków,Stare Miasto,52.5,2.0,2100.0,40.0
+Kraków,Salwator,45.0,2.0,1400.0,31.11
+Poznań,Grunwald,53.0,3.0,1990.0,37.55
+Warszawa,Wilanów,86.0,3.0,4800.0,55.81
+Łódź,Śródmieście,38.0,1.0,2000.0,52.63
+Wrocław,Śródmieście,50.0,2.0,2000.0,40.0
+Warszawa,Międzylesie,144.0,,4500.0,31.25
+Warszawa,Praga-Południe,60.0,3.0,2600.0,43.33
+Warszawa,Muranów,59.0,2.0,2990.0,50.68
+Warszawa,Śródmieście,55.0,2.0,4500.0,81.82
+Poznań,Chwaliszewo,90.0,3.0,1828.0,20.31
+Kraków,Krowodrza,52.0,2.0,1850.0,35.58
+Łódź,Śródmieście,32.0,1.0,2000.0,62.5
+Kraków,Krowodrza,20.0,2.0,1150.0,57.5
+Warszawa,Mokotów,140.0,4.0,7000.0,50.0
+Kraków,Zabłocie,61.0,2.0,2550.0,41.8
+Wrocław,Wojszyce,94.0,4.0,3700.0,39.36
+Kraków,Nowa Huta,55.0,3.0,1800.0,32.73
+Warszawa,Wilanów,48.0,2.0,2400.0,50.0
+Szczecin,Pomorzany,39.0,2.0,1600.0,41.03
+Warszawa,Śródmieście,56.0,2.0,2900.0,51.79
+Kraków,Podgórze,74.0,4.0,1800.0,24.32
+Warszawa,Mokotów,108.0,3.0,6500.0,60.19
+Kraków,Grzegórzki,37.0,2.0,2500.0,67.57
+Kraków,Stare Miasto,40.0,2.0,1500.0,37.5
+Warszawa,Praga-Północ,39.44,1.0,1200.0,30.43
+pod budynkiem,,65.43,2.0,2700.0,41.27
+Warszawa,Praga-Północ,50.0,2.0,3800.0,76.0
+Kraków,Stare Miasto,30.0,1.0,2400.0,80.0
+Kraków,Dębniki,110.0,4.0,8500.0,77.27
+Wrocław,Stare Miasto,55.0,2.0,2500.0,45.45
+mazowieckie,Warszawa,75.0,3.0,6500.0,86.67
+małopolskie,Kraków,83.58,2.0,3350.0,40.08
+Kraków,Bronowice Małe,57.0,3.0,2250.0,39.47
+Warszawa,Śródmieście,97.0,3.0,9000.0,92.78
+Kraków,Stare Miasto,31.0,1.0,1500.0,48.39
+Kraków,Kurdwanów,66.0,3.0,1800.0,27.27
+Warszawa,Śródmieście,54.0,2.0,6400.0,118.52
+Wrocław,Stare Miasto,42.0,2.0,3400.0,80.95
+Wrocław,Złotniki,40.0,2.0,1800.0,45.0
+Łódź,Śródmieście,55.0,2.0,1500.0,27.27
+Warszawa,Kabaty,52.0,2.0,2400.0,46.15
+Warszawa,Śródmieście,30.0,1.0,1700.0,56.67
+Warszawa,Śródmieście,26.0,1.0,2399.0,92.27
+Warszawa,Stara Ochota,50.0,3.0,2800.0,56.0
+Kraków,Bieżanów-Prokocim,30.0,2.0,1800.0,60.0
+Kraków,Mistrzejowice,33.0,2.0,1450.0,43.94
+Warszawa,Śródmieście,23.4,1.0,1950.0,83.33
+Kraków,Podgórze,42.0,2.0,2100.0,50.0
+małopolskie,Kraków,44.0,2.0,2300.0,52.27
+Kraków,Krowodrza,36.0,2.0,1500.0,41.67
+Poznań,Piątkowo,27.8,1.0,1200.0,43.17
+Łódź,Śródmieście,64.0,2.0,2500.0,39.06
+Kraków,Stare Miasto,65.0,2.0,3500.0,53.85
+Warszawa,Bielany,38.0,2.0,1600.0,42.11
+Kraków,Stare Miasto,156.0,5.0,6900.0,44.23
+Łódź,Bałuty,45.0,2.0,1300.0,28.89
+Gdańsk,Śródmieście,57.18,2.0,3000.0,52.47
+Warszawa,Praga-Południe,35.0,1.0,1990.0,56.86
+Szczecin,Pomorzany,63.0,2.0,1600.0,25.4
+Wrocław,Śródmieście,51.0,2.0,2000.0,39.22
+Wrocław,Śródmieście,101.0,3.0,5000.0,49.5
+Warszawa,Ursus,90.0,3.0,4800.0,53.33
+Kraków,Stare Miasto,66.0,2.0,2000.0,30.3
+Kraków,Os. Krowodrza Górka,53.0,2.0,1900.0,35.85
+Gdańsk,Przymorze,40.0,2.0,2300.0,57.5
+Szczecin,Centrum,48.0,2.0,2999.0,62.48
+Łódź,Śródmieście-Wschód,50.0,1.0,1100.0,22.0
+Warszawa,Mokotów,35.0,2.0,1600.0,45.71
+Warszawa,Bielany,45.6,2.0,1900.0,41.67
+Warszawa,Mokotów,28.31,1.0,2500.0,88.31
+Kraków,Dębniki,38.0,2.0,1800.0,47.37
+Warszawa,Wola,82.0,4.0,3900.0,47.56
+Gdańsk,Wrzeszcz,118.0,4.0,6000.0,50.85
+Warszawa,Stare Miasto,56.0,2.0,5500.0,98.21
+Warszawa,Śródmieście,41.0,2.0,3700.0,90.24
+Szczecin,Bezrzecze - Krzekowo,66.66,3.0,2250.0,33.75
+Wrocław,Stare Miasto,44.0,1.0,1700.0,38.64
+Wrocław,Śródmieście,75.3,3.0,4000.0,53.12
+Kraków,Bieżanów-Prokocim,30.0,2.0,1100.0,36.67
+wielkopolskie,Poznań,33.0,1.0,1290.0,39.09
+Wrocław,Wojszyce,40.0,2.0,1999.0,49.98
+Kraków,Wola Duchacka,74.0,4.0,2800.0,37.84
+Warszawa,Wilanów,40.0,2.0,2500.0,62.5
+Warszawa,Mokotów,91.0,3.0,6000.0,65.93
+Kraków,Krowodrza,28.0,1.0,1600.0,57.14
+Gdańsk,Piecki-Migowo,41.0,2.0,2150.0,52.44
+Gdańsk,Przymorze,30.0,1.0,2100.0,70.0
+małopolskie,Kraków,50.0,2.0,2200.0,44.0
+dolnośląskie,Wrocław,32.0,1.0,1900.0,59.38
+Warszawa,Mokotów,213.0,5.0,12000.0,56.34
+Warszawa,Mokotów,60.0,3.0,2700.0,45.0
+Kraków,Stare Miasto,22.0,1.0,1500.0,68.18
+Kraków,Grzegórzki,60.0,3.0,3000.0,50.0
+Warszawa,Bielany,92.0,3.0,8000.0,86.96
+Wrocław,Stare Miasto,33.0,2.0,2000.0,60.61
+Kraków,Podgórze,28.0,1.0,2300.0,82.14
+Poznań,Winogrady,47.3,3.0,600.0,12.68
+Wrocław,Krzyki,47.3,2.0,2300.0,48.63
+małopolskie,Kraków,45.0,2.0,2300.0,51.11
+Warszawa,Targówek,60.0,2.0,2300.0,38.33
+pomorskie,Gdańsk,43.0,2.0,2400.0,55.81
+Kraków,Dębniki,52.0,2.0,1600.0,30.77
+mazowieckie,Warszawa,73.0,3.0,8000.0,109.59
+Kraków,Wola Duchacka,42.0,2.0,1200.0,28.57
+Wrocław,Stare Miasto,38.88,2.0,2600.0,66.87
+Kraków,Piasek,45.0,2.0,2700.0,60.0
+Kraków,Salwator,47.57,2.0,2300.0,48.35
+Warszawa,Wola,37.0,2.0,2500.0,67.57
+Warszawa,Mirów,103.0,4.0,6500.0,63.11
+Warszawa,Wilanów,64.0,2.0,3500.0,54.69
+Kraków,Stare Miasto,87.0,2.0,3700.0,42.53
+Kraków,Grzegórzki,54.0,2.0,2100.0,38.89
+Warszawa,Śródmieście Północne,38.0,2.0,5000.0,131.58
+Warszawa,Wilanów,80.3,2.0,3200.0,39.85
+Warszawa,Śródmieście,74.6,3.0,3900.0,52.28
+Warszawa,Bemowo,66.0,3.0,2200.0,33.33
+Kraków,Górka Narodowa,56.0,2.0,1500.0,26.79
+Kraków,Dębniki,68.0,3.0,3000.0,44.12
+Kraków,Stare Miasto,21.0,1.0,2800.0,133.33
+Łódź,Bałuty,55.6,2.0,2500.0,44.96
+Wrocław,Psie Pole,42.0,2.0,2100.0,50.0
+Warszawa,Ursynów,40.0,1.0,2000.0,50.0
+Warszawa,Natolin,55.0,2.0,2100.0,38.18
+Warszawa,Stary Mokotów,131.0,4.0,12000.0,91.6
+Gdańsk,Piecki-Migowo,71.0,4.0,2990.0,42.11
+Warszawa,Mokotów,74.0,3.0,3750.0,50.68
+Poznań,Jeżyce,62.0,2.0,1500.0,24.19
+przy budynku,,45.0,2.0,1900.0,42.22
+Łódź,Chojny-Dąbrowa,47.22,3.0,1200.0,25.41
+Warszawa,Śródmieście,40.0,2.0,2700.0,67.5
+Poznań,Stare Miasto,48.5,2.0,2100.0,43.3
+Warszawa,Wola,150.0,4.0,16000.0,106.67
+Kraków,Krowodrza,54.0,2.0,1800.0,33.33
+Kraków,Salwator,47.57,2.0,2300.0,48.35
+Warszawa,Stegny,193.0,4.0,12000.0,62.18
+Warszawa,Śródmieście,47.0,2.0,4000.0,85.11
+Kraków,Bronowice,25.0,1.0,1690.0,67.6
+Warszawa,Ursynów,52.0,2.0,2100.0,40.38
+Warszawa,Żoliborz,103.8,4.0,6500.0,62.62
+Kraków,Stare Miasto,40.91,2.0,1700.0,41.55
+Warszawa,Białołęka,53.9,2.0,1800.0,33.4
+Kraków,Os. Ruczaj,44.4,2.0,1600.0,36.04
+Warszawa,Śródmieście Południowe,53.0,2.0,2600.0,49.06
+Kraków,Kazimierz,70.0,3.0,2500.0,35.71
+Kraków,Prądnik Biały,41.0,2.0,1499.0,36.56
+Kraków,Stare Miasto,60.0,3.0,3600.0,60.0
+Warszawa,Ursus,54.0,3.0,2750.0,50.93
+Kraków,Stare Miasto,20.0,1.0,1000.0,50.0
+wielkopolskie,Poznań,31.0,1.0,1500.0,48.39
+Warszawa,Śródmieście Południowe,95.0,3.0,10000.0,105.26
+Kraków,Bronowice,60.0,3.0,2200.0,36.67
+Kraków,Kazimierz,57.0,3.0,2600.0,45.61
+Wrocław,Krzyki,84.0,4.0,2400.0,28.57
+Warszawa,Śródmieście,20.0,1.0,2050.0,102.5
+Warszawa,Muranów,42.0,2.0,1900.0,45.24
+małopolskie,Kraków,48.0,2.0,1900.0,39.58
+Kraków,Bronowice Wielkie,35.0,1.0,1500.0,42.86
+Warszawa,Szczęśliwice,56.0,2.0,2700.0,48.21
+Warszawa,Śródmieście,40.0,2.0,2900.0,72.5
+Poznań,Piątkowo,49.0,2.0,1650.0,33.67
+Kraków,Prądnik Biały,55.0,2.0,1700.0,30.91
+Warszawa,Białołęka,42.0,2.0,1700.0,40.48
+Poznań,Stare Miasto,21.0,1.0,1250.0,59.52
+Kraków,Stare Miasto,50.0,2.0,1950.0,39.0
+Wrocław,Krzyki,36.93,2.0,1950.0,52.8
+Warszawa,Mokotów,63.0,2.0,3800.0,60.32
+Warszawa,Mokotów,84.0,3.0,4500.0,53.57
+Kraków,Grzegórzki,37.0,2.0,2500.0,67.57
+Warszawa,Ochota,85.7,3.0,3700.0,43.17
+Poznań,Grunwald,46.0,2.0,1800.0,39.13
+Wrocław,Os. Stare Miasto,38.0,2.0,2000.0,52.63
+Kraków,Stare Miasto,56.0,2.0,2150.0,38.39
+Łódź,Polesie,47.0,2.0,2000.0,42.55
+Kraków,Stare Miasto,83.0,3.0,7000.0,84.34
+Kraków,Podgórze,33.0,1.0,1900.0,57.58
+Warszawa,Mokotów,140.0,4.0,6500.0,46.43
+Warszawa,Ochota,130.0,4.0,8000.0,61.54
+Warszawa,Mokotów,148.0,5.0,6000.0,40.54
+Poznań,Rataje,45.5,2.0,1600.0,35.16
+Łódź,Widzew,71.0,3.0,2500.0,35.21
+Wrocław,Plac Grunwaldzki,44.13,2.0,2600.0,58.92
+Kraków,Stare Miasto,58.0,2.0,2500.0,43.1
+Gdańsk,Śródmieście,44.0,2.0,2300.0,52.27
+małopolskie,Kraków,65.0,3.0,3400.0,52.31
+Kraków,Grzegórzki,37.0,2.0,2500.0,67.57
+Warszawa,Praga-Południe,86.0,4.0,4900.0,56.98
+Warszawa,Gocław,50.0,2.0,2500.0,50.0
+Kraków,Os. Ruczaj,45.0,2.0,1950.0,43.33
+dolnośląskie,Wrocław,36.0,2.0,2000.0,55.56
+Kraków,Prądnik Czerwony,39.0,2.0,1790.0,45.9
+Warszawa,Wola,126.6,5.0,5000.0,39.49
+Kraków,Kazimierz,43.4,2.0,2000.0,46.08
+Warszawa,Śródmieście,100.0,3.0,5500.0,55.0
+mazowieckie,Warszawa,55.0,2.0,2400.0,43.64
+Warszawa,Mokotów,76.0,3.0,5300.0,69.74
+Warszawa,Bemowo,70.0,3.0,3200.0,45.71
+Warszawa,Śródmieście,16.53,1.0,1800.0,108.89
+Kraków,Krowodrza,60.0,3.0,2500.0,41.67
+mazowieckie,warszawski zachodni,25.0,2.0,3750.0,150.0
+Warszawa,Wola,73.0,3.0,5500.0,75.34
+Warszawa,Śródmieście,342.55,6.0,25000.0,72.98
+Łódź,Śródmieście,96.0,3.0,2500.0,26.04
+Warszawa,Powiśle,280.0,7.0,27000.0,96.43
+Warszawa,Wola,45.3,2.0,3000.0,66.23
+Warszawa,Mokotów,45.0,2.0,2500.0,55.56
+Kraków,Os. Ruczaj,47.0,3.0,2350.0,50.0
+Wrocław,Krzyki,62.0,3.0,3000.0,48.39
+Kraków,Os. Ruczaj,21.0,1.0,1200.0,57.14
+Warszawa,Praga-Północ,30.0,1.0,2100.0,70.0
+Wrocław,Os. Stare Miasto,37.0,2.0,1950.0,52.7
+Kraków,Łobzów,55.0,2.0,1190.0,21.64
+Warszawa,Wola,47.0,2.0,3500.0,74.47
+Warszawa,Żoliborz,166.0,5.0,8900.0,53.61
+Warszawa,Mirów,50.0,2.0,4500.0,90.0
+Kraków,Górka Narodowa,59.4,3.0,2000.0,33.67
+Warszawa,Śródmieście Północne,51.0,2.0,5500.0,107.84
+mazowieckie,Warszawa,78.0,3.0,6800.0,87.18
+Warszawa,Mirów,42.0,2.0,2599.0,61.88
+Wrocław,Stare Miasto,45.8,3.0,2500.0,54.59
+Łódź,Bałuty,44.23,2.0,1200.0,27.13
+Kraków,Stare Miasto,92.62,3.0,6500.0,70.18
+Warszawa,Mokotów,106.29,3.0,5700.0,53.63
+Warszawa,Mokotów,27.0,2.0,1900.0,70.37
+Kraków,Stare Miasto,47.0,2.0,2300.0,48.94
+Poznań,Jeżyce,55.0,2.0,2000.0,36.36
+Warszawa,Rakowiec,56.3,3.0,2300.0,40.85
+Kraków,Zabłocie,72.3,3.0,3300.0,45.64
+wielkopolskie,Poznań,100.0,2.0,2400.0,24.0
+Wrocław,Fabryczna,18.5,1.0,1600.0,86.49
+Poznań,Sołacz,56.0,2.0,1750.0,31.25
+Kraków,Dębniki,56.0,3.0,2200.0,39.29
+Warszawa,Mokotów,41.0,2.0,2500.0,60.98
+Kraków,Łagiewniki,34.5,1.0,1150.0,33.33
+Warszawa,Śródmieście Północne,96.9,4.0,6900.0,71.21
+Warszawa,Śródmieście,132.0,4.0,11500.0,87.12
+Kraków,Prądnik Czerwony,68.5,3.0,1800.0,26.28
+Warszawa,Śródmieście,80.4,3.0,4200.0,52.24
+Kraków,Krowodrza,21.0,1.0,1400.0,66.67
+Warszawa,Stara Ochota,80.0,3.0,3500.0,43.75
+Warszawa,Praga-Północ,48.0,2.0,2200.0,45.83
+Kraków,Dębniki,36.0,2.0,1650.0,45.83
+Kraków,Górka Narodowa,55.43,3.0,2400.0,43.3
+Łódź,Śródmieście,62.0,2.0,2400.0,38.71
+Warszawa,Włochy,100.0,2.0,3500.0,35.0
+Warszawa,Stare Miasto,48.0,2.0,3500.0,72.92
+Gdańsk,Śródmieście,50.0,2.0,4300.0,86.0
+Wrocław,Śródmieście,52.0,2.0,2400.0,46.15
+Kraków,Podgórze,116.0,3.0,5000.0,43.1
+Wrocław,Krzyki,60.0,2.0,1950.0,32.5
+Warszawa,Ochota,23.17,1.0,1950.0,84.16
+Kraków,Salwator,33.0,1.0,1800.0,54.55
+Warszawa,Rembertów,75.0,3.0,2400.0,32.0
+Warszawa,Wola,61.0,3.0,5500.0,90.16
+Wrocław,Krzyki,63.0,4.0,2500.0,39.68
+Warszawa,Ochota,38.0,2.0,1800.0,47.37
+Kraków,Os. Ruczaj,69.0,3.0,2300.0,33.33
+Sopot,Dolny,94.0,3.0,8000.0,85.11
+małopolskie,Kraków,40.0,2.0,2500.0,62.5
+Kraków,Dębniki,57.0,3.0,4200.0,73.68
+Kraków,Grzegórzki,70.0,3.0,2800.0,40.0
+małopolskie,Kraków,45.36,3.0,1600.0,35.27
+wielkopolskie,Poznań,42.65,2.0,2500.0,58.62
+Wrocław,Stare Miasto,41.0,1.0,1700.0,41.46
+Warszawa,Mirów,45.0,2.0,3200.0,71.11
+Warszawa,Praga-Południe,56.0,2.0,2200.0,39.29
+dolnośląskie,Wrocław,59.0,2.0,2500.0,42.37
+Warszawa,Śródmieście,65.1,2.0,5500.0,84.49
+Wrocław,Krzyki,150.0,4.0,5000.0,33.33
+Kraków,Wawel,53.0,3.0,3500.0,66.04
+Warszawa,Bródno,42.0,2.0,1300.0,30.95
+Warszawa,Muranów,50.0,2.0,2200.0,44.0
+Łódź,Widzew,35.0,1.0,850.0,24.29
+Kraków,Prądnik Czerwony,43.0,2.0,1700.0,39.53
+Warszawa,Wilanów,58.0,2.0,3150.0,54.31
+Kraków,Bronowice Małe,48.88,3.0,2100.0,42.96
+Kraków,Os. Ruczaj,58.0,3.0,2500.0,43.1
+Warszawa,Nowolipki,57.0,2.0,2600.0,45.61
+Warszawa,Wola,27.0,1.0,2200.0,81.48
+Warszawa,Solec,34.0,2.0,4850.0,142.65
+Warszawa,Ochota,49.0,3.0,2650.0,54.08
+Warszawa,Wilanów,90.0,3.0,4500.0,50.0
+Warszawa,Mokotów,40.0,2.0,2500.0,62.5
+małopolskie,Kraków,80.86,4.0,3000.0,37.1
+Warszawa,Ochota,47.0,2.0,2300.0,48.94
+Warszawa,Szczęśliwice,37.47,2.0,2300.0,61.38
+Wrocław,Sołtysowice,60.0,3.0,2800.0,46.67
+Kraków,Krowodrza,34.0,2.0,1700.0,50.0
+Poznań,Chartowo,53.0,2.0,1800.0,33.96
+Warszawa,Mokotów,48.0,3.0,2200.0,45.83
+Warszawa,Bielany,41.5,2.0,1800.0,43.37
+Warszawa,Służew,40.0,2.0,1900.0,47.5
+Warszawa,Praga-Północ,62.0,3.0,2300.0,37.1
+Wrocław,Stare Miasto,57.0,3.0,2400.0,42.11
+Warszawa,Stara Praga,80.0,3.0,5900.0,73.75
+Warszawa,Mokotów,37.0,2.0,2000.0,54.05
+Wrocław,Stare Miasto,56.0,2.0,2900.0,51.79
+Poznań,Grunwald,69.0,3.0,2450.0,35.51
+Wrocław,Plac Grunwaldzki,25.0,1.0,1600.0,64.0
+Warszawa,Białołęka,82.46,3.0,3500.0,42.44
+Warszawa,Ochota,67.0,2.0,3000.0,44.78
+Wrocław,Śródmieście,47.0,2.0,2500.0,53.19
+Warszawa,Powiśle,73.0,2.0,5000.0,68.49
+Poznań,Stare Miasto,67.0,3.0,1900.0,28.36
+Warszawa,Służewiec,58.0,3.0,2800.0,48.28
+Szczecin,Stare Miasto,46.0,1.0,2140.0,46.52
+Kraków,Bronowice Małe,52.0,2.0,1700.0,32.69
+Warszawa,Śródmieście,98.0,4.0,9000.0,91.84
+Warszawa,Bemowo,52.9,2.0,2300.0,43.48
+Warszawa,Bielany,51.0,3.0,1500.0,29.41
+Gdańsk,Jelitkowo,66.0,2.0,4000.0,60.61
+Warszawa,Śródmieście,95.0,3.0,5500.0,57.89
+Kraków,Stare Miasto,71.0,3.0,3000.0,42.25
+zachodniopomorskie,Szczecin,125.0,5.0,4500.0,36.0
+Szczecin,Pogodno,65.37,3.0,4200.0,64.25
+Warszawa,Natolin,80.0,3.0,3000.0,37.5
+Gdańsk,Wrzeszcz,70.0,3.0,3600.0,51.43
+Warszawa,Bemowo,46.0,2.0,2000.0,43.48
+Wrocław,Stare Miasto,91.0,3.0,7500.0,82.42
+Wrocław,Kozanów,37.0,2.0,1450.0,39.19
+Szczecin,Centrum,120.4,2.0,2200.0,18.27
+Kraków,Górka Narodowa,90.0,4.0,2700.0,30.0
+Warszawa,Śródmieście,45.0,2.0,2700.0,60.0
+Gdańsk,Śródmieście,34.0,2.0,1600.0,47.06
+Kraków,Olsza,45.0,2.0,1000.0,22.22
+Kraków,Prądnik Czerwony,37.5,2.0,1450.0,38.67
+Warszawa,Stare Miasto,34.0,2.0,2500.0,73.53
+Kraków,Grzegórzki,41.0,2.0,2100.0,51.22
+Sopot,Górny,75.0,3.0,3600.0,48.0
+Warszawa,Ursynów,67.0,2.0,2300.0,34.33
+Kraków,Bieżanów-Prokocim,56.0,4.0,2500.0,44.64
+mazowieckie,Warszawa,70.0,2.0,5500.0,78.57
+Warszawa,Ursynów,51.9,2.0,3500.0,67.44
+Kraków,Krowodrza,20.0,1.0,1300.0,65.0
+Warszawa,Mokotów,93.0,3.0,5000.0,53.76
+Warszawa,Piaski,41.16,2.0,2000.0,48.59
+Warszawa,Mokotów,50.0,2.0,3200.0,64.0
+Warszawa,Mokotów,27.0,1.0,2200.0,81.48
+Warszawa,Śródmieście,45.0,2.0,2500.0,55.56
+Poznań,Winogrady,26.0,1.0,1100.0,42.31
+Warszawa,Bemowo,44.0,2.0,2500.0,56.82
+Wrocław,Stare Miasto,37.0,1.0,1700.0,45.95
+Wrocław,Krzyki,54.0,2.0,3000.0,55.56
+Kraków,Krowodrza,72.0,2.0,2500.0,34.72
+Kraków,Salwator,39.31,2.0,2300.0,58.51
+Poznań,Wilda,58.0,3.0,2300.0,39.66
+Warszawa,Mokotów,94.0,4.0,4900.0,52.13
+Łódź,Śródmieście,60.0,2.0,1500.0,25.0
+Warszawa,Śródmieście,99.23,3.0,6500.0,65.5
+Poznań,Wilda,58.0,3.0,2950.0,50.86
+Łódź,Śródmieście,52.0,2.0,1950.0,37.5
+Warszawa,Wola,105.0,3.0,4700.0,44.76
+Wrocław,Śródmieście,35.0,2.0,1750.0,50.0
+Warszawa,Ochota,52.0,2.0,1900.0,36.54
+Warszawa,Śródmieście,124.3,4.0,9000.0,72.41
+Warszawa,Śródmieście Południowe,125.0,3.0,8500.0,68.0
+Kraków,Krowodrza,47.0,2.0,1800.0,38.3
+Gdańsk,Śródmieście,43.0,2.0,2200.0,51.16
+Warszawa,Śródmieście Północne,41.0,2.0,2599.0,63.39
+Warszawa,Wilanów,40.0,2.0,2500.0,62.5
+Warszawa,Ochota,29.0,1.0,1550.0,53.45
+Kraków,Prądnik Biały,45.0,2.0,1500.0,33.33
+Wrocław,Stare Miasto,38.0,1.0,2000.0,52.63
+Poznań,Jeżyce,37.0,2.0,1500.0,40.54
+mazowieckie,Warszawa,144.0,4.0,5600.0,38.89
+Warszawa,Wola,58.4,2.0,3140.0,53.77
+Warszawa,Śródmieście,40.0,1.0,2300.0,57.5
+Warszawa,Śródmieście,90.0,3.0,7000.0,77.78
+Kraków,Os. Oficerskie,37.0,2.0,1700.0,45.95
+Warszawa,Śródmieście,92.0,3.0,7500.0,81.52
+Kraków,Grzegórzki,76.0,3.0,3800.0,50.0
+Wrocław,Huby,35.0,1.0,1400.0,40.0
+wielkopolskie,Poznań,70.0,2.0,1900.0,27.14
+mazowieckie,Warszawa,129.0,5.0,8900.0,68.99
+Warszawa,Mokotów,60.0,3.0,3750.0,62.5
+Warszawa,Śródmieście,35.0,2.0,2800.0,80.0
+Warszawa,Mokotów,29.0,2.0,2300.0,79.31
+Warszawa,Ursynów,51.0,3.0,3300.0,64.71
+Wrocław,Stare Miasto,48.0,2.0,2650.0,55.21
+Warszawa,Wyględów,89.0,3.0,5300.0,59.55
+mazowieckie,Warszawa,33.0,2.0,3000.0,90.91
+Kraków,Krowodrza,28.0,1.0,1350.0,48.21
+Warszawa,Mokotów,49.19,2.0,2700.0,54.89
+Warszawa,Śródmieście,53.05,2.0,7900.0,148.92
+Kraków,Krowodrza,28.0,1.0,1300.0,46.43
+Wrocław,Jagodno,50.0,2.0,2500.0,50.0
+Wrocław,Różanka,44.0,2.0,2400.0,54.55
+Wrocław,Śródmieście,23.0,1.0,1600.0,69.57
+Wrocław,Partynice,71.0,3.0,2600.0,36.62
+Poznań,Grunwald,47.0,2.0,2000.0,42.55
+małopolskie,Kraków,93.0,3.0,6200.0,66.67
+Warszawa,Mokotów,51.0,2.0,2000.0,39.22
+Kraków,Os. Prądnik Czerwony,47.0,2.0,2100.0,44.68
+Warszawa,Śródmieście,42.0,1.0,2200.0,52.38
+Warszawa,Mokotów,59.3,2.0,2300.0,38.79
+Wrocław,Gaj,50.0,2.0,1950.0,39.0
+Kraków,Prądnik Biały,45.0,2.0,1800.0,40.0
+małopolskie,Kraków,104.0,3.0,3300.0,31.73
+Warszawa,Bródno,30.4,1.0,1500.0,49.34
+Wrocław,Stare Miasto,69.76,3.0,5000.0,71.67
+Warszawa,Sady Żoliborskie,38.0,2.0,2400.0,63.16
+Kraków,Krowodrza,57.0,2.0,2500.0,43.86
+Szczecin,Stare Miasto,90.0,4.0,4500.0,50.0
+Warszawa,Śródmieście Północne,60.0,3.0,3200.0,53.33
+Kraków,Stare Miasto,78.0,2.0,2500.0,32.05
+Warszawa,Wierzbno,60.0,3.0,3160.0,52.67
+Warszawa,Targówek,33.0,2.0,2000.0,60.61
+Kraków,Kazimierz,55.0,2.0,2400.0,43.64
+Warszawa,Wilanów,80.0,3.0,9999.0,124.99
+Warszawa,Śródmieście,144.0,4.0,14000.0,97.22
+Łódź,Śródmieście,70.0,3.0,2500.0,35.71
+Warszawa,Mokotów,74.0,3.0,3150.0,42.57
+Kraków,Stare Miasto,70.0,2.0,2500.0,35.71
+Kraków,Prądnik Biały,50.0,2.0,1950.0,39.0
+Gdańsk,Przymorze,69.9,3.0,2900.0,41.49
+Gdańsk,Stare Miasto,55.0,2.0,2100.0,38.18
+Warszawa,Śródmieście,85.72,3.0,8500.0,99.16
+Warszawa,Wilanów,50.0,2.0,2650.0,53.0
+Warszawa,Śródmieście,63.46,2.0,4500.0,70.91
+Łódź,Stare Polesie,20.0,1.0,1200.0,60.0
+Warszawa,Wola,52.0,3.0,2550.0,49.04
+Łódź,Śródmieście,60.0,2.0,1700.0,28.33
+Warszawa,Sielce,134.0,4.0,10000.0,74.63
+Gdańsk,Śródmieście,50.0,2.0,2600.0,52.0
+Kraków,Prądnik Biały,38.0,2.0,1650.0,43.42
+łódzkie,Łódź,57.28,3.0,2200.0,38.41
+Kraków,Stare Miasto,112.0,3.0,4500.0,40.18
+Warszawa,Śródmieście,92.0,2.0,10900.0,118.48
+Kraków,Czyżyny,40.0,2.0,1800.0,45.0
+Kraków,Krowodrza,80.0,3.0,3400.0,42.5
+Kraków,Grzegórzki,47.4,2.0,2300.0,48.52
+Kraków,Podgórze,48.0,2.0,2300.0,47.92
+Warszawa,Mokotów,118.0,4.0,5600.0,47.46
+Wrocław,Gaj,64.0,3.0,2000.0,31.25
+Warszawa,Mokotów,16.5,1.0,1550.0,93.94
+małopolskie,Kraków,50.0,2.0,1700.0,34.0
+Kraków,Grzegórzki,49.0,2.0,2600.0,53.06
+Kraków,Bieńczyce,39.0,2.0,1890.0,48.46
+Warszawa,Żoliborz,89.21,4.0,4270.0,47.86
+mazowieckie,Warszawa,90.0,3.0,6750.0,75.0
+Kraków,Dębniki,105.0,4.0,2999.0,28.56
+Warszawa,Mokotów,62.0,2.0,3300.0,53.23
+Łódź,Widzew,16.0,1.0,950.0,59.38
+Kraków,Grzegórzki,70.0,3.0,4500.0,64.29
+Kraków,Kleparz,69.0,3.0,2850.0,41.3
+Kraków,Podgórze,107.0,4.0,7900.0,73.83
+Kraków,Krowodrza,34.0,1.0,1500.0,44.12
+Kraków,Grzegórzki,45.08,2.0,2500.0,55.46
+Wrocław,Śródmieście,28.0,1.0,1450.0,51.79
+Szczecin,Centrum,118.34,4.0,3500.0,29.58
+Gdańsk,Wrzeszcz Górny,42.0,2.0,2400.0,57.14
+Wrocław,Przedmieście Oławskie,53.0,2.0,2497.0,47.11
+Warszawa,Bielany,28.0,1.0,1900.0,67.86
+Warszawa,Bielany,41.0,2.0,2100.0,51.22
+małopolskie,Kraków,35.0,2.0,1200.0,34.29
+Kraków,Stare Miasto,46.0,2.0,2100.0,45.65
+Kraków,Podgórze,80.0,3.0,1700.0,21.25
+Wrocław,Krzyki,80.0,3.0,2900.0,36.25
+Warszawa,Praga-Północ,43.0,2.0,2200.0,51.16
+Warszawa,Wola,30.0,2.0,2700.0,90.0
+Kraków,Stare Miasto,55.0,2.0,2950.0,53.64
+Szczecin,Centrum,46.0,2.0,2500.0,54.35
+Łódź,Śródmieście,64.0,3.0,2300.0,35.94
+Kraków,Dębniki,43.0,2.0,1801.0,41.88
+Kraków,Podgórze,24.0,1.0,1150.0,47.92
+Warszawa,Mokotów,47.0,2.0,3500.0,74.47
+Kraków,Łobzów,26.0,1.0,1400.0,53.85
+Warszawa,Żoliborz,53.0,3.0,2500.0,47.17
+Kraków,Olsza,54.0,2.0,1700.0,31.48
+Gdańsk,Wrzeszcz,48.0,3.0,750.0,15.63
+Warszawa,Bielany,54.0,2.0,3500.0,64.81
+Warszawa,Praga-Południe,165.0,4.0,8500.0,51.52
+Kraków,Os. Ruczaj,35.0,1.0,1600.0,45.71
+Warszawa,Śródmieście,36.0,2.0,2200.0,61.11
+Warszawa,Mokotów,49.0,2.0,2800.0,57.14
+Kraków,Stare Miasto,103.97,5.0,4400.0,42.32
+Kraków,Stare Miasto,33.0,2.0,2300.0,69.7
+Łódź,Os. Katedralna,52.0,2.0,1799.0,34.6
+Kraków,Podgórze,41.0,2.0,1450.0,35.37
+Kraków,Os. Ruczaj,46.0,2.0,1950.0,42.39
+Kraków,Stare Miasto,33.0,2.0,2000.0,60.61
+Kraków,Stare Miasto (historyczne),31.0,1.0,1800.0,58.06
+Warszawa,Targówek,50.0,2.0,1800.0,36.0
+Poznań,Wilda,45.0,2.0,2800.0,62.22
+Łódź,Widzew,37.0,1.0,1200.0,32.43
+Warszawa,Mokotów,50.0,2.0,3300.0,66.0
+Warszawa,Stary Mokotów,81.0,3.0,5600.0,69.14
+Łódź,Polesie,21.0,1.0,980.0,46.67
+Kraków,Nowe Miasto,40.0,2.0,2000.0,50.0
+Warszawa,Mokotów,68.0,2.0,4500.0,66.18
+Kraków,Stradom,30.0,1.0,1500.0,50.0
+Kraków,Stare Miasto,54.0,2.0,2400.0,44.44
+Warszawa,Śródmieście,44.0,2.0,3750.0,85.23
+Kraków,Stare Miasto,32.0,1.0,1800.0,56.25
+małopolskie,Kraków,59.17,2.0,3400.0,57.46
+Łódź,Śródmieście,48.5,2.0,2300.0,47.42
+Kraków,Grzegórzki,43.9,1.0,2100.0,47.84
+dolnośląskie,Wrocław,50.0,2.0,2099.0,41.98
+małopolskie,Kraków,35.0,1.0,1400.0,40.0
+Kraków,Grzegórzki,43.0,2.0,2399.0,55.79
+Poznań,Piątkowo,49.0,2.0,1650.0,33.67
+Gdańsk,Śródmieście,45.15,2.0,2300.0,50.94
+Warszawa,Saska Kępa,53.0,2.0,2200.0,41.51
+Kraków,Stare Miasto,35.0,1.0,2100.0,60.0
+Warszawa,Mokotów,56.0,2.0,3200.0,57.14
+Warszawa,Śródmieście,25.0,1.0,1999.0,79.96
+Kraków,Krowodrza,34.0,1.0,1200.0,35.29
+Kraków,Borek Fałęcki,44.0,2.0,1600.0,36.36
+Kraków,Dąbie,48.0,3.0,1600.0,33.33
+Wrocław,Krzyki,46.0,2.0,1900.0,41.3
+Warszawa,Wola,25.0,1.0,2020.0,80.8
+Wrocław,Krzyki,46.0,3.0,1700.0,36.96
+Kraków,Krowodrza,20.0,1.0,1150.0,57.5
+Warszawa,Ksawerów,88.0,5.0,4500.0,51.14
+Kraków,Krowodrza,40.0,2.0,2100.0,52.5
+Kraków,Os. Prądnik Biały,44.0,2.0,1700.0,38.64
+Łódź,Śródmieście,84.0,3.0,3000.0,35.71
+Kraków,Podgórze,40.0,2.0,2300.0,57.5
+Warszawa,Śródmieście,94.0,3.0,10000.0,106.38
+Warszawa,Śródmieście,77.0,3.0,4499.0,58.43
+Wrocław,Krzyki,37.0,2.0,2000.0,54.05
+Kraków,Podgórze,28.0,1.0,1600.0,57.14
+Kraków,Bieżanów-Prokocim,35.0,1.0,1230.0,35.14
+Warszawa,Mokotów,49.0,3.0,2500.0,51.02
+Gdańsk,Wrzeszcz,57.42,2.0,2400.0,41.8
+Warszawa,Mirów,38.0,2.0,3200.0,84.21
+Kraków,Prądnik Biały,53.0,2.0,1700.0,32.08
+Kraków,Stare Miasto,120.0,4.0,3800.0,31.67
+dolnośląskie,Wrocław,63.0,3.0,3000.0,47.62
+Warszawa,Śródmieście,50.0,2.0,3900.0,78.0
+Kraków,Grzegórzki,70.0,2.0,2000.0,28.57
+Wrocław,Stare Miasto,70.0,3.0,3100.0,44.29
+Wrocław,Psie Pole,70.0,3.0,1900.0,27.14
+Wrocław,Śródmieście,72.0,4.0,2200.0,30.56
+Wrocław,Fabryczna,37.0,1.0,1650.0,44.59
+Warszawa,Ksawerów,44.0,2.0,2400.0,54.55
+Warszawa,Szczęśliwice,95.0,4.0,5500.0,57.89
+Kraków,Os. Ruczaj,50.0,2.0,1700.0,34.0
+Kraków,Stare Miasto,44.0,2.0,2250.0,51.14
+Warszawa,Grochów,59.0,3.0,3500.0,59.32
+Kraków,Dębniki,112.0,3.0,5700.0,50.89
+Warszawa,Mokotów,45.0,1.0,2300.0,51.11
+Warszawa,Śródmieście Południowe,45.0,2.0,3800.0,84.44
+Kraków,Grzegórzki Stare,28.0,1.0,2000.0,71.43
+Warszawa,Powiśle,29.0,1.0,1990.0,68.62
+Warszawa,Ursynów,77.6,3.0,3900.0,50.26
+Warszawa,Sielce,45.0,2.0,2500.0,55.56
+Kraków,Krowodrza,27.0,1.0,1500.0,55.56
+Gdańsk,Żabianka,57.8,4.0,3000.0,51.9
+Kraków,Stare Miasto,44.0,2.0,2700.0,61.36
+Warszawa,Wola,46.0,2.0,2300.0,50.0
+Kraków,Kazimierz,25.0,1.0,2000.0,80.0
+Warszawa,Wola,52.49,2.0,3500.0,66.68
+brak,,46.0,2.0,2000.0,43.48
+Kraków,Stare Miasto,70.0,3.0,4200.0,60.0
+Wrocław,Śródmieście,52.0,2.0,1800.0,34.62
+Wrocław,Partynice,52.0,2.0,2000.0,38.46
+Gdańsk,Śródmieście,88.0,3.0,3500.0,39.77
+Kraków,Zabłocie,37.0,2.0,2400.0,64.86
+Warszawa,Augustówka,26.0,1.0,3000.0,115.38
+dolnośląskie,Wrocław,72.0,3.0,2950.0,40.97
+Kraków,Krowodrza,55.0,2.0,2200.0,40.0
+Warszawa,Mokotów,57.0,2.0,4090.0,71.75
+Kraków,Podgórze,62.0,2.0,3100.0,50.0
+Łódź,Śródmieście,40.0,2.0,2000.0,50.0
+Warszawa,Praga-Północ,48.0,2.0,2200.0,45.83
+Kraków,Dębniki,49.3,3.0,1900.0,38.54
+Warszawa,Mokotów,64.0,3.0,3700.0,57.81
+Warszawa,Śródmieście,25.0,1.0,1750.0,70.0
+Kraków,Grzegórzki,56.0,2.0,2400.0,42.86
+Kraków,Grzegórzki,80.0,4.0,5300.0,66.25
+Warszawa,Mokotów,37.0,1.0,1900.0,51.35
+Warszawa,Śródmieście,126.0,3.0,8500.0,67.46
+Gdańsk,Śródmieście,117.37,4.0,8200.0,69.86
+Warszawa,Praga-Północ,90.0,3.0,5900.0,65.56
+Kraków,Krowodrza,83.0,2.0,2800.0,33.73
+Kraków,Olsza,39.97,2.0,1950.0,48.79
+Warszawa,Wola,187.0,5.0,8000.0,42.78
+Warszawa,Żoliborz,93.0,3.0,5200.0,55.91
+Kraków,Krowodrza,30.0,1.0,1000.0,33.33
+Gdańsk,Stare Miasto,40.0,2.0,2600.0,65.0
+Kraków,Prądnik Czerwony,40.0,2.0,1450.0,36.25
+Warszawa,Mokotów,40.0,2.0,2700.0,67.5
+Łódź,Śródmieście,23.0,1.0,1300.0,56.52
+Kraków,Krowodrza,53.0,2.0,2450.0,46.23
+Warszawa,Mokotów,76.0,2.0,4200.0,55.26
+Warszawa,Mokotów,82.0,3.0,3000.0,36.59
+Warszawa,Muranów,57.0,3.0,2800.0,49.12
+Kraków,Grzegórzki,85.0,3.0,3000.0,35.29
+Warszawa,Mokotów,192.0,5.0,19400.0,101.04
+małopolskie,Kraków,47.0,2.0,1900.0,40.43
+Warszawa,Mokotów,107.0,3.0,5500.0,51.4
+Wrocław,Stare Miasto,35.0,2.0,2500.0,71.43
+Kraków,Os. Podwawelskie,34.0,2.0,1350.0,39.71
+Warszawa,Mokotów,104.0,4.0,5000.0,48.08
+Warszawa,Szczęśliwice,86.0,3.0,4000.0,46.51
+Kraków,Azory,37.0,2.0,1300.0,35.14
+Warszawa,Śródmieście,40.0,2.0,2500.0,62.5
+Warszawa,Wola,36.0,2.0,2500.0,69.44
+Warszawa,Nowe Miasto,55.0,2.0,3500.0,63.64
+Warszawa,Wawer,155.0,3.0,4900.0,31.61
+Gdańsk,Piecki-Migowo,40.0,2.0,1500.0,37.5
+Warszawa,Praga-Południe,43.0,2.0,2600.0,60.47
+Warszawa,Mokotów,47.0,2.0,2700.0,57.45
+Łódź,Widzew,97.42,4.0,2590.0,26.59
+Warszawa,Wola,49.0,2.0,2850.0,58.16
+Kraków,Stare Miasto,18.0,3.0,999.0,55.5
+Poznań,Rataje,46.4,2.0,1250.0,26.94
+Kraków,Salwator,85.0,3.0,2400.0,28.24
+Kraków,Stare Miasto,125.0,4.0,3500.0,28.0
+Gdańsk,Śródmieście,50.0,2.0,2500.0,50.0
+Kraków,Kazimierz,71.12,3.0,4000.0,56.24
+Szczecin,Pomorzany,19.0,1.0,1000.0,52.63
+Kraków,Grzegórzki,54.0,2.0,2500.0,46.3
+Wrocław,Karłowice,44.0,2.0,1655.0,37.61
+Wrocław,Fabryczna,35.0,1.0,1700.0,48.57
+Kraków,Kleparz,43.0,2.0,1850.0,43.02
+Warszawa,Mokotów,70.0,3.0,4500.0,64.29
+Kraków,Stare Miasto,44.0,2.0,2200.0,50.0
+Warszawa,Mokotów,47.0,2.0,2550.0,54.26
+Warszawa,Śródmieście,38.0,2.0,2000.0,52.63
+Wrocław,Psie Pole,39.0,2.0,1840.0,47.18
+Kraków,Stare Miasto,42.0,2.0,2300.0,54.76
+Gdańsk,Śródmieście,57.5,3.0,2600.0,45.22
+Kraków,Stare Miasto,103.0,3.0,6000.0,58.25
+Kraków,Olsza,43.0,2.0,2300.0,53.49
+Kraków,Grzegórzki,38.0,2.0,1800.0,47.37
+Warszawa,Śródmieście,38.0,1.0,3200.0,84.21
+Kraków,Grzegórzki,43.0,1.0,1500.0,34.88
+Warszawa,Praga-Południe,35.0,2.0,2100.0,60.0
+Warszawa,Śródmieście,29.3,2.0,2200.0,75.09
+Warszawa,Śródmieście,70.0,3.0,4500.0,64.29
+pod budynkiem,,43.0,2.0,2150.0,50.0
+Kraków,Grzegórzki,50.0,2.0,1900.0,38.0
+Kraków,Dębniki,41.0,2.0,1950.0,47.56
+Kraków,Stare Miasto,50.0,2.0,2100.0,42.0
+Kraków,Os. Ruczaj,69.0,3.0,2500.0,36.23
+Warszawa,Mokotów,65.0,3.0,3500.0,53.85
+Kraków,Krowodrza,54.0,2.0,1800.0,33.33
+Poznań,Grunwald,17.0,1.0,1300.0,76.47
+Łódź,Widzew,63.0,3.0,1250.0,19.84
+Warszawa,Mokotów,119.68,4.0,7600.0,63.5
+Warszawa,Mokotów,118.0,3.0,9000.0,76.27
+Warszawa,Powiśle,78.0,4.0,6500.0,83.33
+małopolskie,Kraków,63.0,3.0,1600.0,25.4
+Warszawa,Mokotów,150.0,4.0,8500.0,56.67
+Warszawa,Żoliborz,37.0,2.0,2000.0,54.05
+Warszawa,Ochota,30.0,1.0,2200.0,73.33
+Warszawa,Powiśle,95.0,3.0,7000.0,73.68
+Warszawa,Śródmieście,133.0,3.0,18000.0,135.34
+Poznań,Rataje,30.0,1.0,1200.0,40.0
+Warszawa,Śródmieście,53.0,2.0,3200.0,60.38
+Łódź,Śródmieście,37.0,2.0,1900.0,51.35
+Warszawa,Muranów,37.0,2.0,2600.0,70.27
+Warszawa,Służewiec,33.0,1.0,4500.0,136.36
+Warszawa,Żoliborz,36.0,2.0,1900.0,52.78
+Kraków,Kazimierz,57.0,2.0,3200.0,56.14
+Warszawa,Mokotów,35.0,1.0,2000.0,57.14
+Warszawa,Stara Ochota,47.38,2.0,2000.0,42.21
+Wrocław,Stare Miasto,65.0,3.0,3300.0,50.77
+Warszawa,Czyste,37.0,1.0,4250.0,114.86
+Warszawa,Bemowo,97.0,4.0,4000.0,41.24
+Warszawa,Mokotów,114.0,4.0,7800.0,68.42
+Gdańsk,Piecki-Migowo,61.4,3.0,2580.0,42.02
+Warszawa,Śródmieście,40.0,2.0,2140.0,53.5
+Kraków,Stare Miasto,61.0,2.0,2140.0,35.08
+Kraków,Kazimierz,56.0,2.0,1800.0,32.14
+Warszawa,Śródmieście,36.0,1.0,1800.0,50.0
+łódzkie,Łódź,67.8,3.0,1500.0,22.12
+Warszawa,Mokotów,165.0,3.0,9000.0,54.55
+Warszawa,Stare Bielany,49.0,3.0,2990.0,61.02
+Kraków,Krowodrza,47.34,2.0,1700.0,35.91
+Kraków,Kazimierz,70.0,3.0,3650.0,52.14
+Kraków,Bronowice Małe,50.0,1.0,1350.0,27.0
+Warszawa,Mokotów,182.0,3.0,13500.0,74.18
+Warszawa,Wilanów,186.0,4.0,12000.0,64.52
+Gdańsk,Jasień,40.0,2.0,1950.0,48.75
+dolnośląskie,Wrocław,12.0,1.0,1200.0,100.0
+Łódź,Górna,39.0,2.0,1250.0,32.05
+Kraków,Krowodrza,43.0,2.0,1700.0,39.53
+Warszawa,Powiśle,94.2,3.0,7000.0,74.31
+Wrocław,Krzyki,25.0,1.0,1600.0,64.0
+Warszawa,Mokotów,50.35,3.0,2800.0,55.61
+Kraków,Olsza,120.0,4.0,2490.0,20.75
+Łódź,Bałuty,74.0,3.0,2000.0,27.03
+Kraków,Prądnik Czerwony,45.0,1.0,1500.0,33.33
+Kraków,Krowodrza,166.7,5.0,8500.0,50.99
+Kraków,Dębniki,36.0,1.0,1500.0,41.67
+Warszawa,Żoliborz,49.0,3.0,2400.0,48.98
+Kraków,Os. Prądnik Biały,59.0,3.0,2300.0,38.98
+Gdańsk,Łostowice,49.0,2.0,1900.0,38.78
+Warszawa,Śródmieście,138.0,3.0,8000.0,57.97
+Warszawa,Ochota,43.0,2.0,1850.0,43.02
+Szczecin,Stare Miasto,130.0,4.0,3900.0,30.0
+Warszawa,Bemowo,59.0,2.0,2200.0,37.29
+Kraków,Podgórze,43.81,2.0,2200.0,50.22
+Kraków,Grzegórzki,100.0,3.0,3000.0,30.0
+Kraków,Os. Prądnik Biały,60.0,3.0,2200.0,36.67
+Wrocław,Gaj,22.0,1.0,1400.0,63.64
+pod budynkiem,,36.0,1.0,2300.0,63.89
+Kraków,Os. Ruczaj,68.0,3.0,1600.0,23.53
+Poznań,Grunwald,66.7,4.0,1800.0,26.99
+Kraków,Kurdwanów,25.0,1.0,1400.0,56.0
+Warszawa,Śródmieście,70.0,2.0,5000.0,71.43
+Gdańsk,Śródmieście,41.0,2.0,2000.0,48.78
+Warszawa,Praga-Południe,44.0,2.0,2200.0,50.0
+małopolskie,Kraków,28.0,1.0,1500.0,53.57
+Kraków,Czyżyny,56.93,3.0,1600.0,28.1
+Poznań,Winogrady,69.0,3.0,2200.0,31.88
+Kraków,Prądnik Czerwony,31.0,1.0,1400.0,45.16
+Kraków,Krowodrza,37.0,1.0,1300.0,35.14
+małopolskie,Kraków,28.0,1.0,1500.0,53.57
+Warszawa,Śródmieście Północne,52.0,2.0,5450.0,104.81
+Poznań,Zawady,50.0,2.0,1900.0,38.0
+Kraków,Stare Miasto,45.0,2.0,2600.0,57.78
+wielkopolskie,Poznań,43.0,2.0,1900.0,44.19
+Poznań,Stare Miasto,37.0,1.0,1400.0,37.84
+Warszawa,Ochota,60.0,2.0,3500.0,58.33
+Warszawa,Śródmieście,40.6,2.0,2500.0,61.58
+wielkopolskie,Poznań,150.0,5.0,3500.0,23.33
+Warszawa,Stare Miasto,32.0,1.0,1900.0,59.38
+Łódź,Widzew,52.0,2.0,2500.0,48.08
+Kraków,Prądnik Biały,90.0,4.0,2700.0,30.0
+Gdańsk,Wrzeszcz,42.0,2.0,2000.0,47.62
+Warszawa,Śródmieście,48.0,2.0,2300.0,47.92
+Warszawa,Śródmieście Północne,36.0,2.0,2300.0,63.89
+małopolskie,Kraków,15.0,1.0,1200.0,80.0
+Kraków,Stare Miasto,44.0,2.0,2000.0,45.45
+Szczecin,Centrum,65.0,3.0,2800.0,43.08
+Poznań,Chartowo,62.9,3.0,1750.0,27.82
+Gdańsk,Śródmieście,65.0,2.0,3949.0,60.75
+Warszawa,Mokotów,44.5,2.0,3000.0,67.42
+Kraków,Prokocim,60.0,3.0,2000.0,33.33
+Gdańsk,Śródmieście,36.0,2.0,2200.0,61.11
+Warszawa,Nowe Miasto,132.7,3.0,17200.0,129.62
+Łódź,Śródmieście,42.0,2.0,2000.0,47.62
+Kraków,Grzegórzki,50.0,2.0,1200.0,24.0
+mazowieckie,Warszawa,137.2,3.0,18000.0,131.2
+Warszawa,Śródmieście,30.0,1.0,1800.0,60.0
+Kraków,Stare Miasto (historyczne),70.0,3.0,3500.0,50.0
+Wrocław,Muchobór Mały,50.0,2.0,2200.0,44.0
+Warszawa,Mokotów,78.0,3.0,4200.0,53.85
+Kraków,Podgórze,218.0,4.0,15000.0,68.81
+Kraków,Prądnik Biały,52.0,2.0,1800.0,34.62
+wielkopolskie,Poznań,54.0,3.0,2000.0,37.04
+Warszawa,Śródmieście,60.0,2.0,5000.0,83.33
+Warszawa,Służewiec,99.0,4.0,6200.0,62.63
+Szczecin,Warszewo,115.0,4.0,2700.0,23.48
+Kraków,Os. Ruczaj,37.0,1.0,1500.0,40.54
+Warszawa,Wola,47.54,2.0,3000.0,63.1
+Gdańsk,Śródmieście,100.0,3.0,5000.0,50.0
+Warszawa,Praga-Południe,18.0,1.0,1690.0,93.89
+Kraków,Grzegórzki,40.0,2.0,2200.0,55.0
+Warszawa,Wilanów,120.0,3.0,6000.0,50.0
+Łódź,Polesie,42.0,2.0,1900.0,45.24
+Warszawa,Nowolipki,44.0,2.0,2300.0,52.27
+Kraków,Podgórze,50.0,2.0,2000.0,40.0
+Warszawa,Gocław,48.0,2.0,2490.0,51.88
+brak,,67.5,2.0,1550.0,22.96
+Warszawa,Praga-Północ,54.0,2.0,2600.0,48.15
+Warszawa,Mokotów,230.0,6.0,12000.0,52.17
+Warszawa,Targówek,45.0,2.0,2300.0,51.11
+Kraków,Krowodrza,53.0,2.0,1900.0,35.85
+Warszawa,Mokotów,39.0,2.0,2800.0,71.79
+Warszawa,Mirów,54.0,2.0,3800.0,70.37
+Kraków,Nowa Huta,42.0,2.0,2000.0,47.62
+Kraków,Stare Miasto,50.0,2.0,2700.0,54.0
+Warszawa,Śródmieście,57.0,3.0,2360.0,41.4
+Warszawa,Śródmieście Południowe,160.0,5.0,8500.0,53.13
+Poznań,Naramowice,58.5,3.0,2200.0,37.61
+Warszawa,Śródmieście,72.0,2.0,5000.0,69.44
+Kraków,Kazimierz,38.0,1.0,1500.0,39.47
+Wrocław,Stare Miasto,45.0,3.0,2200.0,48.89
+Warszawa,Służewiec,54.0,3.0,2200.0,40.74
+Warszawa,Wola,31.0,2.0,2900.0,93.55
+Wrocław,Klecina,67.0,3.0,2350.0,35.07
+Warszawa,Mokotów,21.0,1.0,1800.0,85.71
+Warszawa,Wola,51.0,2.0,2750.0,53.92
+Kraków,Stare Miasto,65.0,2.0,1500.0,23.08
+Gdańsk,Jasień,30.0,1.0,1500.0,50.0
+Łódź,Śródmieście,40.0,1.0,1400.0,35.0
+Wrocław,Krzyki,48.0,2.0,2280.0,47.5
+Warszawa,Tarchomin,56.0,2.0,1900.0,33.93
+Warszawa,Wola,24.0,1.0,1500.0,62.5
+Kraków,Os. Ruczaj,52.0,2.0,1600.0,30.77
+Warszawa,Mokotów,75.0,3.0,3600.0,48.0
+Warszawa,Śródmieście,49.75,2.0,2700.0,54.27
+Warszawa,Praga-Południe,84.0,3.0,4900.0,58.33
+Kraków,Stare Miasto,100.0,4.0,2600.0,26.0
+Warszawa,Mokotów,92.0,3.0,6200.0,67.39
+Kraków,Bronowice,67.0,2.0,2500.0,37.31
+Warszawa,Wola,45.4,2.0,2300.0,50.66
+Poznań,Rataje,38.0,2.0,1000.0,26.32
+Warszawa,Mokotów,40.0,2.0,2400.0,60.0
+Gdańsk,Chełm,65.0,3.0,2000.0,30.77
+Kraków,Stare Miasto,38.0,2.0,1600.0,42.11
+Kraków,Os. Ruczaj,47.24,2.0,2100.0,44.45
+Warszawa,Śródmieście,127.0,5.0,6500.0,51.18
+Warszawa,Żoliborz,66.0,3.0,3800.0,57.58
+Łódź,Śródmieście,25.0,1.0,1400.0,56.0
+Kraków,Krowodrza,53.0,3.0,2650.0,50.0
+Kraków,Stare Miasto,64.0,3.0,4900.0,76.56
+Warszawa,Radiowo,55.0,2.0,2000.0,36.36
+Poznań,Stare Miasto,46.0,2.0,2000.0,43.48
+Kraków,Zabłocie,38.0,2.0,1900.0,50.0
+zachodniopomorskie,Szczecin,48.0,2.0,1300.0,27.08
+Warszawa,Stare Bielany,30.0,1.0,1600.0,53.33
+Warszawa,Śródmieście,61.0,3.0,3100.0,50.82
+mazowieckie,Warszawa,46.5,2.0,4700.0,101.08
+Warszawa,Bemowo,53.9,2.0,2100.0,38.96
+Warszawa,Wola,126.0,4.0,5300.0,42.06
+Kraków,Stare Miasto,80.0,2.0,4900.0,61.25
+Kraków,Os. Prądnik Czerwony,50.0,2.0,2100.0,42.0
+Warszawa,Mokotów,38.0,2.0,2200.0,57.89
+Wrocław,Krzyki,54.69,2.0,1800.0,32.91
+Warszawa,Ochota,65.0,3.0,3390.0,52.15
+Warszawa,Ursynów,122.0,4.0,5500.0,45.08
+Warszawa,Śródmieście,34.0,2.0,3200.0,94.12
+Warszawa,Praga-Południe,45.3,2.0,2000.0,44.15
+Kraków,Podgórze Stare,69.0,3.0,3000.0,43.48
+Wrocław,Śródmieście,43.0,2.0,2000.0,46.51
+Warszawa,Śródmieście,50.0,2.0,3000.0,60.0
+Kraków,Olsza,80.0,3.0,2999.0,37.49
+małopolskie,Kraków,60.0,3.0,1980.0,33.0
+Warszawa,Praga-Południe,58.0,3.0,1950.0,33.62
+Warszawa,Stary Imielin,110.0,4.0,4990.0,45.36
+Gdańsk,Przymorze,40.0,2.0,3700.0,92.5
+Warszawa,Śródmieście,48.0,2.0,2700.0,56.25
+Kraków,Krowodrza,56.0,2.0,2600.0,46.43
+Warszawa,Wola,49.11,2.0,3200.0,65.16
+Warszawa,Mokotów,55.0,2.0,2500.0,45.45
+Warszawa,Wola,53.0,2.0,3600.0,67.92
+wielkopolskie,Poznań,25.0,1.0,990.0,39.6
+Wrocław,Szczepin,66.0,3.0,2700.0,40.91
+Kraków,Krowodrza,35.0,1.0,1700.0,48.57
+Łódź,Śródmieście,100.0,3.0,3900.0,39.0
+małopolskie,Kraków,39.0,3.0,3500.0,89.74
+Warszawa,Natolin,43.3,2.0,2350.0,54.27
+Kraków,Os. Prądnik Czerwony,42.0,2.0,1500.0,35.71
+Warszawa,Mokotów,124.0,3.0,9500.0,76.61
+Kraków,Dębniki,28.0,1.0,1800.0,64.29
+Łódź,Górna,50.0,2.0,1750.0,35.0
+Warszawa,Służewiec,45.0,2.0,2699.0,59.98
+Warszawa,Praga-Południe,65.0,3.0,3300.0,50.77
+Łódź,Śródmieście,34.0,2.0,1800.0,52.94
+Gdańsk,Stare Miasto,35.0,2.0,2000.0,57.14
+Łódź,Śródmieście,90.0,4.0,2300.0,25.56
+Gdańsk,Śródmieście,54.0,2.0,2000.0,37.04
+Warszawa,Ochota,98.0,3.0,8500.0,86.73
+dolnośląskie,Wrocław,51.0,2.0,1700.0,33.33
+Kraków,Krowodrza,24.0,1.0,950.0,39.58
+Kraków,Stare Miasto,27.0,1.0,1700.0,62.96
+Gdańsk,Chełm,73.0,3.0,3900.0,53.42
+Poznań,Stare Miasto,18.0,1.0,1250.0,69.44
+Kraków,Os. Ruczaj,56.0,2.0,1650.0,29.46
+Warszawa,Ochota,86.0,2.0,3000.0,34.88
+Warszawa,Młynów,32.0,1.0,1950.0,60.94
+Gdańsk,Piecki-Migowo,44.73,2.0,2000.0,44.71
+Warszawa,Mokotów,160.0,4.0,8000.0,50.0
+Warszawa,Wilanów,120.0,4.0,9000.0,75.0
+Kraków,Prądnik Biały,65.0,3.0,2250.0,34.62
+Szczecin,Pomorzany,49.0,2.0,1400.0,28.57
+mazowieckie,Warszawa,20.0,1.0,1450.0,72.5
+Warszawa,Czyste,37.0,2.0,2500.0,67.57
+Gdańsk,Śródmieście,53.6,3.0,2800.0,52.24
+Kraków,Stare Miasto,64.0,2.0,2500.0,39.06
+małopolskie,Kraków,32.0,2.0,1500.0,46.88
+Kraków,Nowa Huta,19.0,1.0,1100.0,57.89
+Gdańsk,Wrzeszcz,48.0,3.0,900.0,18.75
+Wrocław,Stare Miasto,90.0,3.0,3500.0,38.0
+Kraków,Podgórze,37.0,1.0,1400.0,37.84
+Warszawa,Śródmieście Północne,153.0,3.0,8700.0,56.86
+Kraków,Stare Miasto,15.0,1.0,1000.0,66.67
+Gdańsk,Śródmieście,44.83,2.0,2450.0,54.65
+Warszawa,Wola,54.0,2.0,3800.0,70.37
+Łódź,Polesie,47.0,2.0,1800.0,38.3
+Łódź,Śródmieście,34.0,1.0,1700.0,50.0
+Poznań,Naramowice,71.0,3.0,3500.0,49.3
+Warszawa,Ursus,31.0,1.0,1550.0,50.0
+Warszawa,Śródmieście,39.2,2.0,2500.0,63.78
+Kraków,Stare Miasto,60.0,2.0,1900.0,31.67
+Warszawa,Szczęśliwice,44.7,2.0,2400.0,53.69
+Szczecin,Nowe Miasto,32.0,1.0,1650.0,51.56
+Kraków,Wawel,59.0,2.0,3000.0,50.85
+Kraków,Dębniki,40.5,2.0,1800.0,44.44
+Warszawa,Śródmieście Południowe,60.0,2.0,3700.0,61.67
+Warszawa,Targówek,56.44,3.0,2400.0,42.52
+Wrocław,Kozanów,76.0,5.0,3150.0,41.45
+Warszawa,Włochy,110.0,3.0,2650.0,24.09
+Kraków,Podgórze,25.0,1.0,1300.0,52.0
+Kraków,Grzegórzki,42.0,2.0,2500.0,59.52
+Warszawa,Natolin,75.0,3.0,3390.0,45.2
+Łódź,Bałuty,79.0,4.0,2900.0,36.71
+Kraków,Os. Na Kozłówce,30.0,2.0,1100.0,36.67
+Warszawa,Mokotów,55.0,2.0,2900.0,52.73
+Kraków,Żabiniec,58.0,3.0,1200.0,20.69
+Kraków,Łobzów,29.0,2.0,1600.0,55.17
+Gdańsk,Wrzeszcz,18.4,1.0,1550.0,84.24
+Łódź,Górna,43.0,2.0,1250.0,29.07
+Warszawa,Młynów,50.0,2.0,2950.0,59.0
+Warszawa,Ochota,49.0,2.0,3000.0,61.22
+Warszawa,Nowe Miasto,36.0,2.0,3000.0,83.33
+pod budynkiem,,63.0,2.0,2200.0,34.92
+Kraków,Wawel,102.0,4.0,3500.0,34.31
+Kraków,Stare Miasto,98.84,4.0,2450.0,24.79
+Warszawa,Śródmieście,48.0,2.0,3200.0,66.67
+Warszawa,Śródmieście,54.2,2.0,2600.0,47.97
+Kraków,Stare Miasto,62.0,3.0,4000.0,64.52
+Kraków,Dębniki,50.0,2.0,1900.0,38.0
+Warszawa,Bródno,75.0,3.0,3400.0,45.33
+Kraków,Prądnik Biały,57.0,3.0,2100.0,36.84
+Łódź,Widzew,25.0,1.0,1200.0,48.0
+Warszawa,Ochota,35.0,1.0,1900.0,54.29
+Wrocław,Stare Miasto,80.0,3.0,3850.0,48.13
+Poznań,Łazarz,21.0,1.0,1600.0,76.19
+Warszawa,Wola,36.0,2.0,2599.0,72.19
+Łódź,Śródmieście,51.0,2.0,2450.0,48.04
+Kraków,Stare Miasto,34.0,2.0,2300.0,67.65
+mazowieckie,Warszawa,70.0,3.0,6000.0,85.71
+Kraków,Stare Miasto,112.0,3.0,4500.0,40.18
+Warszawa,Ochota,72.0,3.0,4300.0,59.72
+Kraków,Krowodrza,48.0,2.0,2400.0,50.0
+Warszawa,Praga-Północ,62.0,2.0,1700.0,27.42
+Kraków,Krowodrza,25.0,1.0,1400.0,56.0
+Warszawa,Śródmieście,80.0,3.0,6500.0,81.25
+Kraków,Stare Miasto,19.0,1.0,1400.0,73.68
+Warszawa,Śródmieście,91.0,4.0,4500.0,49.45
+Warszawa,Kabaty,49.0,2.0,1700.0,34.69
+Kraków,Grzegórzki,98.0,3.0,6900.0,70.41
+Szczecin,Drzetowo-Grabowo,50.0,3.0,1800.0,36.0
+mazowieckie,Warszawa,90.0,3.0,4500.0,50.0
+dolnośląskie,Wrocław,48.0,2.0,2300.0,47.92
+Kraków,Grzegórzki,60.0,2.0,2300.0,38.33
+Warszawa,Wola,42.0,2.0,2250.0,53.57
+Warszawa,Praga-Południe,39.0,2.0,2450.0,62.82
+Warszawa,Mokotów,57.0,2.0,2800.0,49.12
+małopolskie,Kraków,25.0,1.0,1590.0,63.6
+Kraków,Podgórze,36.0,2.0,2100.0,58.33
+wielkopolskie,Poznań,51.6,2.0,1700.0,32.95
+Kraków,Prądnik Biały,40.0,2.0,1700.0,42.5
+Warszawa,Mirów,59.0,2.0,2799.0,47.44
+Kraków,Ugorek,49.0,2.0,1400.0,28.57
+Warszawa,Ujazdów,56.0,2.0,2800.0,50.0
+Warszawa,Ursynów,40.0,2.0,2100.0,52.5
+Warszawa,Powiśle,65.0,3.0,6000.0,92.31
+Warszawa,Ochota,45.0,2.0,3500.0,77.78
+Kraków,Wola Justowska,92.0,3.0,2500.0,27.17
+Warszawa,Śródmieście,60.06,2.0,4500.0,74.93
+Kraków,Czyżyny,35.0,2.0,1500.0,42.86
+Łódź,Radogoszcz,50.0,2.0,1800.0,36.0
+Warszawa,Śródmieście,57.0,2.0,3650.0,64.04
+Kraków,Podgórze,116.0,3.0,4500.0,38.79
+Wrocław,Stare Miasto,50.0,,1950.0,39.0
+Warszawa,Nowa Praga,26.4,1.0,1650.0,62.5
+Kraków,Krowodrza,20.0,1.0,1050.0,52.5
+Wrocław,Stare Miasto,50.0,2.0,1800.0,36.0
+Poznań,Winogrady,47.0,2.0,1400.0,29.79
+Poznań,Stare Miasto,46.0,2.0,2400.0,52.17
+Kraków,Stare Miasto,93.0,3.0,6900.0,74.19
+Gdańsk,Brzeźno,56.0,2.0,1650.0,29.46
+Kraków,Podgórze,23.0,1.0,1500.0,65.22
+Warszawa,Śródmieście,64.0,2.0,3600.0,56.25
+Kraków,Wola Justowska,75.0,2.0,2900.0,38.67
+Warszawa,Służew,85.5,3.0,3500.0,40.94
+Kraków,Mateczny,32.0,2.0,1900.0,59.38
+Kraków,Prokocim,55.0,2.0,2000.0,36.36
+Warszawa,Ochota,55.42,3.0,3400.0,61.35
+Kraków,Bieżanów,54.0,2.0,1750.0,32.41
+mazowieckie,Warszawa,30.0,1.0,3000.0,100.0
+Kraków,Stare Miasto,54.5,2.0,3500.0,64.22
+Kraków,Stare Miasto,57.0,2.0,2400.0,42.11
+Kraków,Żabiniec,40.0,2.0,1900.0,47.5
+Kraków,Grzegórzki,30.0,1.0,1800.0,60.0
+Warszawa,Praga-Południe,68.0,3.0,3000.0,44.12
+Warszawa,Czyste,44.0,2.0,2800.0,63.64
+mazowieckie,Warszawa,120.0,3.0,15000.0,125.0
+Warszawa,Żoliborz,38.0,2.0,2600.0,68.42
+Wrocław,Gądów Mały,41.0,2.0,1600.0,39.02
+Warszawa,Żoliborz,20.0,1.0,1250.0,62.5
+Poznań,Stare Miasto,70.0,3.0,2350.0,33.57
+Kraków,Dębniki,33.0,1.0,1190.0,36.06
+Łódź,Śródmieście,63.0,2.0,1700.0,26.98
+Warszawa,Mokotów,58.0,3.0,3850.0,66.38
+łódzkie,Łódź,43.0,2.0,1700.0,39.53
+Szczecin,Zdroje,62.78,3.0,2000.0,31.86
+Warszawa,Mokotów,180.0,4.0,13500.0,75.0
+Kraków,Stare Miasto,57.0,2.0,3200.0,56.14
+Warszawa,Mokotów,54.0,2.0,3000.0,55.56
+Kraków,Azory,75.0,3.0,1550.0,20.67
+Warszawa,Służewiec,90.0,3.0,4500.0,50.0
+Kraków,Krowodrza,55.0,2.0,1600.0,29.09
+Warszawa,Mokotów,45.0,2.0,2300.0,51.11
+Kraków,Mistrzejowice,40.0,2.0,1200.0,30.0
+Warszawa,Bemowo,65.0,3.0,2400.0,36.92
+małopolskie,Kraków,24.0,1.0,1240.0,51.67
+Kraków,Podgórze,48.0,2.0,2550.0,53.13
+Warszawa,Śródmieście,52.0,2.0,5500.0,105.77
+Warszawa,Wilanów,143.0,4.0,7500.0,52.45
+Wrocław,Stare Miasto,38.0,2.0,1800.0,47.37
+Gdańsk,Zaspa,49.0,2.0,2200.0,44.9
+Warszawa,Mokotów,119.0,4.0,8000.0,67.23
+Kraków,Stare Miasto,50.0,2.0,2300.0,46.0
+Warszawa,Mokotów,83.0,3.0,3900.0,46.99
+Warszawa,Mokotów,32.0,1.0,2200.0,68.75
+Warszawa,Śródmieście,180.0,5.0,22000.0,122.22
+Kraków,Stare Miasto,60.0,3.0,2200.0,36.67
+Kraków,Grzegórzki,60.0,2.0,2550.0,42.5
+Warszawa,Marymont-Potok,72.0,3.0,2900.0,40.28
+Warszawa,Ursynów,58.0,3.0,1850.0,31.9
+Łódź,Os. Katedralna,140.0,4.0,5000.0,35.71
+Warszawa,Wilanów,41.0,2.0,2800.0,68.29
+Warszawa,Śródmieście,36.06,2.0,2800.0,77.65
+małopolskie,Kraków,43.0,2.0,1650.0,38.37
+Warszawa,Śródmieście,80.3,1.0,8900.0,110.83
+Kraków,Olsza,80.0,3.0,2800.0,35.0
+Warszawa,Mirów,35.0,2.0,3800.0,108.57
+Warszawa,Praga-Północ,33.0,2.0,2600.0,78.79
+Poznań,Rataje,49.9,2.0,1500.0,30.06
+Warszawa,Śródmieście,90.0,3.0,10000.0,111.11
+Kraków,Krowodrza,39.5,2.0,1200.0,30.38
+Kraków,Os. Ruczaj,62.0,4.0,1750.0,28.23
+Gdańsk,Jelitkowo,100.0,4.0,4500.0,45.0
+Kraków,Os. Ruczaj,52.0,2.0,1600.0,30.77
+Kraków,Podgórze,35.0,2.0,1950.0,55.71
+Kraków,Kazimierz,50.0,2.0,3000.0,60.0
+Kraków,Wola Justowska,69.0,3.0,2200.0,31.88
+Kraków,Podgórze,40.0,2.0,2600.0,65.0
+Warszawa,Śródmieście,74.0,3.0,5000.0,67.57
+Warszawa,Ochota,69.0,2.0,2600.0,37.68
+Warszawa,Śródmieście Północne,45.79,2.0,3500.0,76.44
+Warszawa,Praga-Południe,33.0,2.0,2200.0,66.67
+Kraków,Kazimierz,38.0,1.0,1700.0,44.74
+Warszawa,Wola,67.0,2.0,4000.0,59.7
+Warszawa,Wilanów,36.0,2.0,2100.0,58.33
+małopolskie,Kraków,37.0,2.0,1300.0,35.14
+Gdańsk,Wrzeszcz,65.0,3.0,3200.0,49.23
+Warszawa,Wola,50.0,2.0,2700.0,54.0
+Warszawa,Śródmieście,25.0,1.0,2500.0,100.0
+Warszawa,Powiśle,32.8,1.0,2800.0,85.37
+Wrocław,Os. Psie Pole,40.0,1.0,1500.0,37.5
+Kraków,Stare Miasto,67.0,3.0,3500.0,52.24
+Kraków,Grzegórzki,68.0,3.0,3900.0,57.35
+małopolskie,Kraków,37.0,1.0,2200.0,59.46
+Warszawa,Praga-Południe,18.0,1.0,1400.0,77.78
+Warszawa,Bemowo,48.0,2.0,2500.0,52.08
+małopolskie,Kraków,160.37,5.0,5000.0,31.18
+Wrocław,Os. Stare Miasto,40.0,2.0,2000.0,50.0
+Kraków,Os. Ruczaj,250.0,5.0,11000.0,44.0
+Poznań,Łazarz,25.0,1.0,1300.0,52.0
+Warszawa,Wola,28.0,1.0,2300.0,82.14
+Warszawa,Śródmieście,99.5,5.0,6000.0,60.3
+Warszawa,Mokotów,87.0,3.0,4390.0,50.46
+Gdańsk,Ujeścisko-Łostowice,74.0,3.0,2000.0,27.03
+Warszawa,Śródmieście,26.2,1.0,1900.0,72.52
+Gdańsk,Przymorze,56.0,3.0,2000.0,35.71
+Kraków,Podgórze,77.0,3.0,3000.0,38.96
+Warszawa,Mokotów,60.0,3.0,3200.0,53.33
+małopolskie,Kraków,25.0,1.0,1100.0,44.0
+Warszawa,Mokotów,49.0,2.0,3700.0,75.51
+Wrocław,Klecina,43.0,2.0,1800.0,41.86
+Kraków,Dębniki,178.0,4.0,9000.0,50.56
+Wrocław,Os. Stare Miasto,30.0,1.0,3000.0,100.0
+Warszawa,Służew,78.0,3.0,3700.0,47.44
+Warszawa,Bielany,38.0,2.0,2000.0,52.63
+Wrocław,Stare Miasto,48.0,3.0,2500.0,52.08
+Szczecin,Stare Miasto,44.0,2.0,1700.0,38.64
+Warszawa,Wilanów,108.97,3.0,5700.0,52.31
+Warszawa,Mokotów,67.0,3.0,3200.0,47.76
+Gdańsk,Wrzeszcz,33.0,2.0,2500.0,75.76
+Kraków,Ugorek,80.0,4.0,3000.0,37.5
+Warszawa,Błonia Wilanowskie,64.0,2.0,3500.0,54.69
+Wrocław,Ołbin,38.0,2.0,2000.0,52.63
+Warszawa,Ochota,40.0,2.0,2250.0,56.25
+małopolskie,Kraków,67.0,2.0,1700.0,25.37
+Warszawa,Wilanów,35.0,1.0,2300.0,65.71
+Kraków,Bieżanów,35.0,2.0,1800.0,51.43
+Warszawa,Wilanów,104.0,4.0,6200.0,59.62
+Gdańsk,Stare Miasto,70.0,2.0,4500.0,64.29
+Kraków,Podgórze,43.0,2.0,1900.0,44.19
+Warszawa,Muranów,42.0,1.0,2200.0,52.38
+Warszawa,Wola,53.0,2.0,3000.0,56.6
+Wrocław,Biskupin,32.0,1.0,2200.0,68.75
+Szczecin,Centrum,35.0,2.0,2100.0,60.0
+Warszawa,Śródmieście,50.0,2.0,3600.0,72.0
+Warszawa,Mokotów,168.0,4.0,18900.0,112.5
+Kraków,Zwierzyniec,92.0,3.0,2500.0,27.17
+Warszawa,Śródmieście,60.0,2.0,2700.0,45.0
+Szczecin,Centrum,37.52,2.0,2150.0,57.3
+Kraków,Grzegórzki,38.0,2.0,1750.0,46.05
+Gdańsk,Śródmieście,34.0,1.0,1600.0,47.06
+Warszawa,Wola,41.0,1.0,1690.0,41.22
+Wrocław,Stare Miasto,80.0,4.0,4300.0,53.75
+Kraków,Krowodrza,30.0,1.0,1150.0,38.33
+Warszawa,Śródmieście,125.0,3.0,9900.0,79.2
+Gdańsk,Śródmieście,70.0,3.0,3000.0,42.86
+Kraków,Stare Miasto,33.0,1.0,2200.0,66.67
+Kraków,Zabłocie,94.0,3.0,3100.0,32.98
+Kraków,Stare Miasto,80.0,3.0,2400.0,30.0
+Warszawa,Nowe Miasto,182.0,5.0,13000.0,71.43
+Poznań,Grunwald,51.0,2.0,1800.0,35.29
+Wrocław,Muchobór Wielki,32.0,1.0,1250.0,39.06
+Warszawa,Bemowo,46.0,2.0,2000.0,43.48
+Warszawa,Wola,39.6,2.0,2500.0,63.13
+Warszawa,Mokotów,46.0,2.0,3500.0,76.09
+Kraków,Os. Ruczaj,44.0,2.0,2000.0,45.45
+Warszawa,Wilanów,120.0,3.0,4900.0,40.83
+Warszawa,Mokotów,45.0,2.0,2300.0,51.11
+Warszawa,Tarchomin,47.9,2.0,2000.0,41.75
+Warszawa,Natolin,85.0,4.0,3600.0,42.35
+Warszawa,Śródmieście,35.0,2.0,2400.0,68.57
+Warszawa,Bielany,47.87,3.0,2700.0,56.4
+Kraków,Krowodrza,64.0,3.0,2900.0,45.31
+Poznań,Stare Miasto,32.0,2.0,1450.0,45.31
+Kraków,Wawel,44.0,2.0,2100.0,47.73
+Kraków,Prądnik Czerwony,45.0,2.0,1650.0,36.67
+Gdańsk,Łostowice,34.0,2.0,1800.0,52.94
+Warszawa,Ochota,44.68,2.0,3600.0,80.57
+Kraków,Prądnik Biały,42.0,2.0,1890.0,45.0
+Łódź,Śródmieście,61.0,3.0,2900.0,47.54
+Kraków,Os. Ruczaj,31.0,1.0,1100.0,35.48
+Warszawa,Mokotów,77.0,2.0,3500.0,45.45
+Warszawa,Śródmieście,34.0,1.0,2700.0,79.41
+Warszawa,Bródno,29.0,1.0,1500.0,51.72
+Kraków,Prądnik Biały,51.0,2.0,2300.0,45.1
+Warszawa,Mokotów,76.0,2.0,4200.0,55.26
+Warszawa,Mirów,52.0,2.0,3799.0,73.06
+Kraków,Grzegórzki,47.0,2.0,2400.0,51.06
+Warszawa,Stary Żoliborz,155.0,5.0,12000.0,77.42
+Warszawa,Mokotów,79.0,3.0,4500.0,56.96
+Kraków,Czyżyny,43.0,2.0,2200.0,51.16
+Kraków,Czyżyny,45.0,2.0,2150.0,47.78
+Kraków,Czyżyny,58.0,3.0,2500.0,43.1
+Warszawa,Mokotów,34.0,2.0,2300.0,67.65
+Kraków,Łobzów,119.95,4.0,3600.0,30.01
+Warszawa,Stary Żoliborz,24.0,1.0,1800.0,75.0
+Szczecin,Centrum,88.78,3.0,1650.0,18.59
+Poznań,Piątkowo,48.0,2.0,1250.0,26.04
+Szczecin,Pomorzany,34.0,1.0,1300.0,38.24
+Warszawa,Mokotów,53.0,2.0,2700.0,50.94
+Gdańsk,Wrzeszcz,43.93,2.0,1950.0,44.39
+Warszawa,Śródmieście,84.0,3.0,3900.0,46.43
+Kraków,Bronowice,36.0,1.0,1700.0,47.22
+Warszawa,Mokotów,38.0,2.0,2300.0,60.53
+Warszawa,Powązki,83.49,4.0,4200.0,50.31
+Warszawa,Mokotów,70.0,3.0,4500.0,64.29
+Wrocław,Krzyki,17.41,1.0,1500.0,86.16
+Warszawa,Mokotów,54.0,2.0,2750.0,50.93
+Łódź,Górna,13.0,1.0,900.0,69.23
+Warszawa,Skorosze,60.0,2.0,2500.0,41.67
+Warszawa,Bielany,72.0,3.0,3000.0,41.67
+Poznań,Jeżyce,31.0,1.0,1700.0,54.84
+Warszawa,Saska Kępa,100.0,,4200.0,42.0
+Kraków,Kazimierz,56.0,3.0,4000.0,71.43
+Szczecin,Pogodno,36.0,2.0,1100.0,30.56
+Kraków,Krowodrza,55.0,2.0,1600.0,29.09
+Warszawa,Śródmieście,65.0,2.0,3000.0,46.15
+Warszawa,Stegny,43.0,2.0,2600.0,60.47
+mazowieckie,Warszawa,98.0,3.0,9000.0,91.84
+Warszawa,Wilanów,57.0,2.0,1990.0,34.91
+Warszawa,Szczęśliwice,60.0,2.0,3800.0,63.33
+pomorskie,Gdańsk,38.0,2.0,2600.0,68.42
+Kraków,Stare Miasto,112.0,3.0,4500.0,40.18
+Warszawa,Powiśle,74.0,2.0,6500.0,87.84
+Kraków,Os. Ruczaj,46.0,2.0,1400.0,30.43
+małopolskie,Kraków,67.0,2.0,2200.0,32.84
+Kraków,Os. Ruczaj,50.0,2.0,1800.0,36.0
+Warszawa,Śródmieście,164.7,8.0,10950.0,66.48
+Warszawa,Stary Imielin,54.0,2.0,2200.0,40.74
+Kraków,Stare Miasto,61.5,3.0,2900.0,47.15
+Warszawa,Ochota,96.0,5.0,6300.0,65.63
+Kraków,Stare Miasto,58.0,2.0,1650.0,28.45
+Łódź,Bałuty,197.4,6.0,8000.0,40.53
+Kraków,Stare Miasto,44.0,2.0,2300.0,52.27
+Kraków,Bronowice,30.0,1.0,2000.0,66.67
+Warszawa,Wola,52.0,2.0,2200.0,42.31
+Warszawa,Białołęka,151.2,4.0,5500.0,36.38
+Warszawa,Szczęśliwice,32.0,1.0,1800.0,56.25
+Kraków,Stare Miasto,96.0,3.0,8000.0,83.33
+Warszawa,Śródmieście,25.0,1.0,2000.0,80.0
+Poznań,Górczyn,32.0,1.0,1600.0,50.0
+Wrocław,Ołtaszyn,110.0,3.0,1890.0,17.18
+Wrocław,Biskupin,25.0,1.0,1600.0,64.0
+Kraków,Os. Prądnik Biały,60.0,3.0,2000.0,33.33
+Kraków,Grzegórzki,47.0,2.0,1950.0,41.49
+Warszawa,Śródmieście,67.0,3.0,3999.0,59.69
+dolnośląskie,Wrocław,41.0,2.0,2590.0,63.17
+Kraków,Nowa Huta,81.0,4.0,2200.0,27.16
+Warszawa,Śródmieście,104.5,4.0,5900.0,56.46
+Warszawa,Mokotów,65.0,2.0,4800.0,73.85
+małopolskie,Kraków,37.0,2.0,1800.0,48.65
+małopolskie,Kraków,100.0,5.0,830.0,8.3
+Warszawa,Stary Służew,38.0,2.0,2500.0,65.79
+Gdańsk,Przymorze,42.0,2.0,2300.0,54.76
+Poznań,Rataje,64.0,3.0,2000.0,31.25
+Kraków,Grzegórzki,56.0,2.0,2800.0,50.0
+Warszawa,Śródmieście,50.0,3.0,3500.0,70.0
+Kraków,Krowodrza,30.0,2.0,1350.0,45.0
+Kraków,Stare Miasto,70.0,2.0,2000.0,28.57
+Warszawa,Śródmieście,156.0,3.0,18200.0,116.67
+Kraków,Zabłocie,42.0,2.0,1900.0,45.24
+Szczecin,Niebuszewo,60.0,2.0,1400.0,23.33
+przy budynku,,48.0,2.0,1500.0,31.25
+Warszawa,Śródmieście,140.0,3.0,9700.0,69.29
+Warszawa,Śródmieście,105.0,3.0,5000.0,47.62
+Szczecin,Stare Miasto,70.0,3.0,2900.0,41.43
+Łódź,Widzew,81.0,3.0,2500.0,30.86
+Wrocław,Nowy Dwór,75.0,3.0,2500.0,33.33
+Wrocław,Nadodrze,36.0,2.0,2200.0,61.11
+Wrocław,Psie Pole,74.0,3.0,1700.0,22.97
+dolnośląskie,Wrocław,32.0,1.0,1600.0,50.0
+Kraków,Stare Miasto,109.0,3.0,2700.0,24.77
+Kraków,Os. Prądnik Biały,43.0,2.0,1550.0,36.05
+Warszawa,Służewiec,47.0,2.0,2300.0,48.94
+Warszawa,Wola,25.0,1.0,1700.0,68.0
+Poznań,Świerczewo,120.0,6.0,3500.0,29.17
+Kraków,Grzegórzki,52.0,2.0,2500.0,48.08
+zachodniopomorskie,Szczecin,42.0,2.0,1300.0,30.95
+Warszawa,Mokotów,60.0,3.0,3000.0,50.0
+Kraków,Grzegórzki,58.0,3.0,2750.0,47.41
+Warszawa,Mokotów,46.0,2.0,2700.0,58.7
+Warszawa,Śródmieście,41.0,1.0,3200.0,78.05
+Kraków,Os. Ruczaj,33.0,2.0,1400.0,42.42
+Kraków,Krowodrza,20.0,1.0,1400.0,70.0
+Kraków,Salwator,51.0,2.0,2450.0,48.04
+Kraków,Kazimierz,27.0,1.0,1500.0,55.56
+Warszawa,Mokotów,72.0,3.0,4200.0,58.33
+Warszawa,Wola,52.0,2.0,2750.0,52.88
+Łódź,Śródmieście,32.0,1.0,1700.0,53.13
+Wrocław,Stare Miasto,46.4,2.0,2700.0,58.19
+Łódź,Bałuty,25.21,1.0,1000.0,39.67
+Wrocław,Stare Miasto,50.0,2.0,1400.0,28.0
+Kraków,Nowe Miasto,68.0,6.0,3000.0,44.12
+Warszawa,Mokotów,88.0,3.0,5100.0,57.95
+Kraków,Grzegórzki,52.0,2.0,2500.0,48.08
+Poznań,Grunwald,90.0,3.0,2800.0,31.11
+Kraków,Salwator,33.0,1.0,2000.0,60.61
+małopolskie,Kraków,35.0,1.0,2000.0,57.14
+Kraków,Krowodrza,50.0,2.0,1700.0,34.0
+Kraków,Stare Miasto,70.0,3.0,4300.0,61.43
+Warszawa,Fort Bema,70.0,3.0,3800.0,54.29
+małopolskie,Kraków,56.0,3.0,2350.0,41.96
+Warszawa,Nowe Miasto,35.22,2.0,2000.0,56.79
+Warszawa,Śródmieście,100.0,3.0,4100.0,41.0
+Wrocław,Tarnogaj,51.0,2.0,2200.0,43.14
+Kraków,Os. Europejskie,50.0,3.0,2300.0,46.0
+Kraków,Stare Miasto,45.0,2.0,2000.0,44.44
+Warszawa,Wilanów,54.0,2.0,2700.0,50.0
+Warszawa,Śródmieście,50.0,2.0,4000.0,80.0
+Kraków,Grzegórzki Stare,62.6,2.0,3000.0,47.92
+Wrocław,Stare Miasto,34.44,1.0,1600.0,46.46
+Kraków,Grzegórzki,37.0,1.0,1690.0,45.68
+Kraków,Stare Miasto (historyczne),25.0,1.0,1500.0,60.0
+Warszawa,Wola,33.0,2.0,1500.0,45.45
+Gdańsk,Chełm,70.0,3.0,2500.0,35.71
+Kraków,Bronowice Wielkie,76.0,3.0,3350.0,44.08
+wielkopolskie,Poznań,83.0,3.0,2500.0,30.12
+Kraków,Krowodrza,58.0,2.0,2900.0,50.0
+Warszawa,Targówek,37.0,1.0,2200.0,59.46
+Gdańsk,Przymorze,38.0,2.0,2200.0,57.89
+małopolskie,Kraków,46.5,2.0,1674.0,36.0
+Warszawa,Śródmieście,110.0,5.0,8000.0,72.73
+Warszawa,Praga-Południe,48.0,2.0,2200.0,45.83
+Warszawa,Ochota,75.0,3.0,3000.0,40.0
+Kraków,Stare Miasto,30.0,1.0,1600.0,53.33
+Wrocław,Stare Miasto,25.0,1.0,1500.0,60.0
+Warszawa,Śródmieście,112.0,3.0,7200.0,64.29
+Wrocław,Stare Miasto,34.3,1.0,1700.0,49.56
+Kraków,Bronowice Małe,43.47,2.0,2100.0,48.31
+Warszawa,Bielany,50.0,2.0,2500.0,50.0
+Warszawa,Śródmieście,50.0,2.0,4800.0,96.0
+Warszawa,Targówek,71.4,2.0,2500.0,35.01
+Łódź,Górna,45.0,2.0,1200.0,26.67
+Warszawa,Wola,45.43,2.0,2600.0,57.23
+Kraków,Grzegórzki,40.0,1.0,1600.0,40.0
+Wrocław,Krzyki,20.0,1.0,1200.0,60.0
+Szczecin,Pomorzany,10.0,1.0,500.0,50.0
+Kraków,Stare Miasto,84.0,3.0,2800.0,33.33
+Kraków,Stare Miasto,92.62,3.0,6500.0,70.18
+Warszawa,Mokotów,65.0,3.0,3500.0,53.85
+Warszawa,Piaski,47.0,3.0,2400.0,51.06
+Kraków,Krowodrza,52.0,1.0,1500.0,28.85
+Wrocław,Plac Grunwaldzki,36.0,2.0,2200.0,61.11
+Kraków,Dąbie,25.0,1.0,1100.0,44.0
+Gdańsk,Oliwa,50.0,3.0,2600.0,52.0
+Warszawa,Bemowo,40.0,2.0,2100.0,52.5
+Warszawa,Śródmieście,90.0,3.0,8500.0,94.44
+Warszawa,Śródmieście,84.66,3.0,6500.0,76.78
+Szczecin,Pomorzany,40.0,2.0,2050.0,51.25
+Łódź,Bałuty,45.0,2.0,1500.0,33.33
+Warszawa,Ursus,54.0,3.0,1800.0,33.33
+Warszawa,Mokotów,64.0,2.0,3000.0,46.88
+Wrocław,Stare Miasto,50.0,2.0,2000.0,40.0
+Kraków,Grzegórzki,56.0,3.0,3100.0,55.36
+Kraków,Stare Miasto,37.0,2.0,2000.0,54.05
+Kraków,Płaszów,47.0,2.0,2000.0,42.55
+Kraków,Stare Miasto,63.0,3.0,3500.0,55.56
+Warszawa,Śródmieście,87.0,2.0,4500.0,51.72
+Warszawa,Śródmieście,70.0,3.0,4500.0,64.29
+Kraków,Grzegórzki,70.0,3.0,2900.0,41.43
+pod budynkiem,,37.0,2.0,1900.0,51.35
+Warszawa,Śródmieście,100.0,3.0,5700.0,57.0
+Kraków,Stare Miasto,40.0,2.0,3000.0,75.0
+Kraków,Dębniki,54.0,2.0,1500.0,27.78
+Kraków,Olsza,67.0,3.0,1950.0,29.1
+Kraków,Krowodrza,38.0,2.0,1700.0,44.74
+Kraków,Podgórze,60.0,3.0,2500.0,41.67
+Warszawa,Śródmieście,250.0,5.0,21500.0,86.0
+Warszawa,Śródmieście,48.0,2.0,2800.0,58.33
+Warszawa,Mokotów,143.0,4.0,6000.0,41.96
+Kraków,Stare Miasto,40.0,2.0,2300.0,57.5
+Wrocław,Krzyki,41.0,2.0,2200.0,53.66
+Kraków,Stare Miasto,95.0,2.0,3800.0,40.0
+Warszawa,Wawer,37.0,2.0,2500.0,67.57
+Kraków,Grzegórzki,110.0,5.0,3700.0,33.64
+Gdańsk,Stare Miasto,55.0,2.0,2900.0,52.73
+Kraków,Łobzów,75.0,3.0,3400.0,45.33
+Warszawa,Śródmieście,146.0,4.0,8000.0,54.79
+Warszawa,Mokotów,66.44,3.0,2600.0,39.13
+Wrocław,Śródmieście,91.0,4.0,8700.0,95.6
+Wrocław,Nadodrze,33.0,2.0,2450.0,74.24
+Warszawa,Śródmieście,125.4,3.0,21000.0,167.46
+Kraków,Stare Miasto,123.0,3.0,4400.0,35.77
+Wrocław,Stare Miasto,45.0,2.0,2100.0,46.67
+Wrocław,Psie Pole,41.0,2.0,1400.0,34.15
+Kraków,Grzegórzki,44.0,2.0,2700.0,61.36
+Warszawa,Wilanów,73.0,3.0,4200.0,57.53
+małopolskie,Kraków,35.0,2.0,1700.0,48.57
+Wrocław,Stare Miasto,80.0,3.0,3200.0,40.0
+Szczecin,Centrum,24.0,1.0,1400.0,58.33
+Kraków,Stare Miasto,85.0,3.0,3200.0,37.65
+Łódź,Śródmieście,47.0,2.0,2800.0,59.57
+Warszawa,Targówek,58.0,3.0,2500.0,43.1
+Warszawa,Zawady,144.0,4.0,9800.0,68.06
+Szczecin,Stare Miasto,46.0,1.0,1400.0,30.43
+Warszawa,Żoliborz,48.0,2.0,1800.0,37.5
+Warszawa,Śródmieście,90.0,3.0,10000.0,111.11
+Warszawa,Śródmieście,29.0,2.0,2200.0,75.86
+Warszawa,Koło,70.0,3.0,2500.0,35.71
+Poznań,Łazarz,20.5,1.0,1600.0,78.05
+Warszawa,Bemowo,44.0,2.0,2400.0,54.55
+Warszawa,Sadyba,75.0,3.0,3999.0,53.32
+Kraków,Stare Miasto,44.0,2.0,2690.0,61.14
+Warszawa,Saska Kępa,49.0,3.0,2200.0,44.9
+Kraków,Stare Miasto,23.6,1.0,1100.0,46.61
+Warszawa,Białołęka,31.0,1.0,2000.0,64.52
+Kraków,Górka Narodowa,50.0,2.0,2000.0,40.0
+mazowieckie,Warszawa,39.0,2.0,2800.0,71.79
+Warszawa,Wola,55.0,2.0,2900.0,52.73
+Kraków,Stare Miasto,66.0,3.0,3200.0,48.48
+Warszawa,Wilanów,151.0,5.0,9500.0,62.91
+Kraków,Stare Miasto,34.0,2.0,2800.0,82.35
+Warszawa,Stary Imielin,48.3,2.0,2000.0,41.41
+Kraków,Salwator,120.0,4.0,3200.0,26.67
+Warszawa,Powiśle,90.2,3.0,7000.0,77.61
+Kraków,Grzegórzki,45.0,2.0,2200.0,48.89
+Łódź,Polesie,20.0,1.0,1050.0,52.5
+dolnośląskie,Wrocław,80.8,3.0,3499.0,43.3
+Warszawa,Śródmieście Południowe,45.0,1.0,3000.0,66.67
+Warszawa,Śródmieście,191.0,9.0,15950.0,83.51
+Warszawa,Mokotów,72.36,3.0,3600.0,49.75
+Warszawa,Włochy,50.0,3.0,1790.0,35.8
+Warszawa,Mokotów,61.0,2.0,2360.0,38.69
+Warszawa,Odolany,44.0,2.0,2800.0,63.64
+Kraków,Krowodrza,55.0,2.0,1600.0,29.09
+Warszawa,Mokotów,192.0,5.0,18500.0,96.35
+Kraków,Grzegórzki,47.0,2.0,2100.0,44.68
+Warszawa,Praga-Południe,33.0,1.0,1900.0,57.58
+Łódź,Julianów-Marysin-Rogi,50.0,2.0,1700.0,34.0
+Wrocław,Stare Miasto,68.0,2.0,3000.0,44.12
+Kraków,Kazimierz,54.0,3.0,3500.0,64.81
+Warszawa,Śródmieście,50.0,2.0,3500.0,70.0
+Kraków,Krowodrza,49.0,2.0,1500.0,30.61
+Warszawa,Śródmieście,133.0,3.0,21000.0,157.89
+Kraków,Grzegórzki,57.0,2.0,2400.0,42.11
+Łódź,Śródmieście,126.0,4.0,2500.0,19.84
+Warszawa,Wola,56.0,2.0,3400.0,60.71
+Warszawa,Śródmieście,125.0,4.0,10000.0,80.0
+Wrocław,Stare Miasto,40.0,2.0,2500.0,62.5
+Łódź,Śródmieście,50.76,1.0,1500.0,29.55
+Warszawa,Nowe Miasto,236.2,4.0,48000.0,203.22
+Gdańsk,Wrzeszcz,50.0,2.0,2990.0,59.8
+Warszawa,Praga-Południe,40.0,2.0,2400.0,60.0
+Warszawa,Mokotów,109.0,4.0,10000.0,91.74
+Kraków,Krowodrza,33.0,1.0,1650.0,50.0
+Kraków,Stare Miasto,38.8,2.0,3000.0,77.32
+Wrocław,Fabryczna,44.0,2.0,2300.0,52.27
+Warszawa,Sielce,54.4,3.0,2100.0,38.6
+Szczecin,Pomorzany,39.0,2.0,2400.0,61.54
+Kraków,Os. Ruczaj,40.0,2.0,1950.0,48.75
+Wrocław,Ołtaszyn,74.0,3.0,2800.0,37.84
+Kraków,Łobzów,42.0,2.0,1900.0,45.24
+Warszawa,Śródmieście,200.0,6.0,11200.0,56.0
+dolnośląskie,Wrocław,39.0,2.0,1500.0,38.46
+Szczecin,Warszewo,75.0,4.0,3900.0,52.0
+małopolskie,Kraków,27.0,2.0,1600.0,59.26
+Kraków,Krowodrza,56.0,3.0,2000.0,35.71
+Warszawa,Szczęśliwice,39.0,2.0,2200.0,56.41
+Gdańsk,Orunia-Św. Wojciech-Lipce,70.0,3.0,2000.0,28.57
+Kraków,Kazimierz,65.0,3.0,4000.0,61.54
+Kraków,Kazimierz,45.0,2.0,2300.0,51.11
+małopolskie,Kraków,53.0,2.0,2800.0,52.83
+Szczecin,Bukowe-Klęskowo,29.36,1.0,1450.0,49.39
+Warszawa,Natolin,59.7,2.0,2300.0,38.53
+Warszawa,Wola,55.0,2.0,4000.0,72.73
+Warszawa,Czyste,42.0,2.0,2565.0,61.07
+małopolskie,Kraków,45.0,2.0,2300.0,51.11
+Kraków,Grzegórzki,46.0,2.0,1300.0,28.26
+Kraków,Grzegórzki,60.0,2.0,2600.0,43.33
+Szczecin,Centrum,69.0,3.0,2500.0,36.23
+Poznań,Stare Miasto,59.0,3.0,2000.0,33.9
+Warszawa,Mirów,41.0,2.0,3450.0,84.15
+Kraków,Stare Miasto,40.0,2.0,2590.0,64.75
+Łódź,Widzew,36.0,2.0,1800.0,50.0
+Warszawa,Mokotów,226.0,6.0,16000.0,70.8
+Łódź,Śródmieście,29.0,1.0,1500.0,51.72
+Warszawa,Mokotów,37.0,2.0,2600.0,70.27
+Wrocław,Fabryczna,43.0,2.0,2000.0,46.51
+Kraków,Bronowice,54.0,3.0,1740.0,32.22
+Kraków,Kazimierz,57.0,2.0,2100.0,36.84
+małopolskie,Kraków,32.0,1.0,2000.0,62.5
+Warszawa,Wola,55.0,2.0,2600.0,47.27
+Warszawa,Mokotów,56.0,1.0,4500.0,80.36
+Warszawa,Ursynów,46.0,2.0,2300.0,50.0
+Gdańsk,Wrzeszcz,69.0,3.0,2400.0,34.78
+Wrocław,Klecina,23.5,1.0,1600.0,68.09
+Gdańsk,Brzeźno,47.0,2.0,2200.0,46.81
+Warszawa,Kabaty,53.4,2.0,2500.0,46.82
+Warszawa,Śródmieście,52.0,2.0,2540.0,48.85
+Gdańsk,Wrzeszcz,44.0,2.0,2500.0,56.82
+Kraków,Zwierzyniec,59.0,2.0,4000.0,67.8
+Kraków,Zabłocie,50.0,2.0,2600.0,52.0
+Łódź,Śródmieście,33.57,2.0,1950.0,58.09
+Warszawa,Wilanów,73.0,4.0,3300.0,45.21
+Kraków,Stare Miasto,68.0,3.0,3300.0,48.53
+Warszawa,Praga-Południe,45.6,2.0,2100.0,46.05
+Kraków,Półwsie Zwierzynieckie,52.0,2.0,1700.0,32.69
+Kraków,Azory,45.0,2.0,1600.0,35.56
+Kraków,Prądnik Czerwony,25.0,1.0,1100.0,44.0
+Warszawa,Śródmieście,50.0,2.0,4200.0,84.0
+Gdańsk,Główne Miasto,35.0,2.0,1600.0,45.71
+Warszawa,Mokotów,55.0,2.0,2950.0,53.64
+Kraków,Krowodrza,20.0,1.0,950.0,47.5
+Warszawa,Wola,24.0,1.0,1950.0,81.25
+Łódź,Śródmieście,55.0,2.0,2000.0,36.36
+Warszawa,Śródmieście,65.0,3.0,6400.0,98.46
+Kraków,Podgórze,61.0,3.0,3000.0,49.18
+Poznań,Rataje,22.0,1.0,1150.0,52.27
+Gdańsk,Śródmieście,50.9,2.0,2700.0,53.05
+Wrocław,Partynice,50.95,2.0,1350.0,26.5
+Warszawa,Wola,39.0,2.0,2600.0,66.67
+Warszawa,Skorosze,47.0,2.0,1800.0,38.3
+Kraków,Bronowice Małe,33.0,1.0,1000.0,30.3
+Kraków,Stare Miasto,55.0,2.0,1800.0,32.73
+Wrocław,Śródmieście,55.0,2.0,3000.0,54.55
+Kraków,Krowodrza,70.0,2.0,1500.0,21.43
+Kraków,Stare Miasto,60.0,2.0,2700.0,45.0
+Kraków,Krowodrza,40.0,2.0,1950.0,48.75
+Wrocław,Szczepin,30.0,1.0,1400.0,46.67
+Warszawa,Wola,40.0,2.0,3200.0,80.0
+Warszawa,Śródmieście,200.0,6.0,,51.0
+Wrocław,Stare Miasto,22.0,1.0,2500.0,113.64
+Warszawa,Śródmieście,47.0,2.0,2000.0,42.55
+Kraków,Stare Miasto,48.0,2.0,2200.0,45.83
+Warszawa,Nowa Praga,50.0,2.0,2400.0,48.0
+Kraków,Stare Miasto,60.0,2.0,2000.0,33.33
+Kraków,Ludwinów,43.0,2.0,1800.0,41.86
+Warszawa,Wola,45.0,2.0,2700.0,60.0
+Warszawa,Służewiec,58.0,2.0,3000.0,51.72
+Wrocław,Popowice,41.0,2.0,2600.0,63.41
+Warszawa,Natolin,63.0,3.0,3000.0,47.62
+Warszawa,Śródmieście,48.0,1.0,2800.0,58.33
+małopolskie,Kraków,42.0,2.0,1400.0,33.33
+Kraków,Podgórze,58.0,2.0,3300.0,56.9
+Warszawa,Wola,47.0,2.0,2900.0,61.7
+Warszawa,Praga-Południe,45.37,2.0,2042.0,45.01
+Kraków,Dębniki,50.0,2.0,1800.0,36.0
+Kraków,Stare Miasto,40.0,2.0,1490.0,37.25
+Warszawa,Mokotów,45.0,2.0,2800.0,62.22
+Wrocław,Plac Grunwaldzki,54.0,2.0,1800.0,33.33
+Warszawa,Wola,65.0,3.0,3000.0,46.15
+Wrocław,Os. Stare Miasto,65.0,3.0,2900.0,44.62
+Szczecin,Centrum,60.0,3.0,3000.0,50.0
+Warszawa,Mirów,48.0,2.0,5000.0,104.17
+Poznań,Stare Miasto,31.0,1.0,1450.0,46.77
+Kraków,Os. Ruczaj,35.0,2.0,1400.0,40.0
+Kraków,Stare Miasto,45.0,2.0,2200.0,48.89
+Warszawa,Praga-Południe,38.0,2.0,2000.0,52.63
+Warszawa,Śródmieście,150.0,3.0,9500.0,63.33
+Warszawa,Śródmieście,138.8,3.0,7900.0,56.92
+Warszawa,Śródmieście Południowe,49.0,3.0,2800.0,57.14
+Kraków,Czyżyny,37.0,2.0,1400.0,37.84
+Kraków,Podgórze,54.0,3.0,2000.0,37.04
+Kraków,Pychowice,50.0,2.0,1400.0,28.0
+Gdańsk,Wrzeszcz,43.0,2.0,2300.0,53.49
+Łódź,Radogoszcz,74.0,3.0,1450.0,19.59
+Warszawa,Grochów,45.0,2.0,2400.0,53.33
+Kraków,Prokocim,41.0,2.0,1700.0,41.46
+Kraków,Łagiewniki-Borek Fałęcki,31.0,2.0,1500.0,48.39
+Wrocław,Stare Miasto,39.76,2.0,1900.0,47.79
+Gdańsk,Śródmieście,27.0,1.0,1900.0,70.37
+Warszawa,Wierzbno,40.0,2.0,2350.0,58.75
+Wrocław,Oporów,105.0,3.0,4000.0,38.1
+Warszawa,Powiśle,38.0,2.0,2800.0,73.68
+Szczecin,Nowe Miasto,35.0,2.0,2200.0,62.86
+mazowieckie,Warszawa,116.0,3.0,13000.0,112.07
+Kraków,Stare Miasto,47.0,1.0,1500.0,31.91
+Poznań,Jeżyce,90.0,2.0,3100.0,34.44
+Warszawa,Praga-Północ,47.0,2.0,3000.0,63.83
+Kraków,Prądnik Czerwony,85.0,3.0,2050.0,24.12
+Warszawa,Mokotów,51.5,2.0,2500.0,48.54
+Warszawa,Nowe Miasto,137.28,4.0,5800.0,42.25
+Warszawa,Żoliborz,50.0,2.0,2500.0,50.0
+Kraków,Prądnik Biały,75.0,3.0,2500.0,33.33
+Kraków,Os. Prądnik Biały,43.0,2.0,1250.0,29.07
+Warszawa,Saska Kępa,125.0,3.0,6500.0,52.0
+Łódź,Śródmieście,35.87,2.0,1750.0,48.79
+Warszawa,Bielany,45.0,2.0,1800.0,40.0
+Warszawa,Bemowo,51.0,2.0,2200.0,43.14
+Wrocław,Os. Stare Miasto,58.0,2.0,2350.0,40.52
+dolnośląskie,Wrocław,34.0,2.0,2500.0,73.53
+Warszawa,Włochy,53.3,2.0,2285.0,42.87
+Kraków,Os. Ruczaj,57.0,2.0,2000.0,35.09
+Warszawa,Mokotów,192.0,5.0,17500.0,91.15
+Warszawa,Powiśle,147.0,4.0,9500.0,64.63
+Warszawa,Mokotów,87.0,3.0,4390.0,50.46
+Kraków,Łagiewniki-Borek Fałęcki,46.0,3.0,2200.0,47.83
+Szczecin,Centrum,35.0,2.0,2200.0,62.86
+Kraków,Olsza,33.0,1.0,1400.0,42.42
+Poznań,Stary Grunwald,70.0,2.0,2000.0,28.57
+Kraków,Czyżyny,38.0,2.0,1600.0,42.11
+Warszawa,Ochota,75.0,3.0,3600.0,48.0
+mazowieckie,Warszawa,67.7,2.0,2600.0,38.4
+małopolskie,Kraków,34.0,1.0,1500.0,44.12
+wielkopolskie,Poznań,42.0,2.0,1400.0,33.33
+Kraków,Stare Miasto,52.0,1.0,1800.0,34.62
+Kraków,Dębniki,40.0,2.0,1700.0,42.5
+Warszawa,Ochota,69.0,4.0,4200.0,60.87
+Kraków,Stare Miasto,50.0,2.0,2500.0,50.0
+Warszawa,Żoliborz,41.0,2.0,2300.0,56.1
+dolnośląskie,Wrocław,35.0,1.0,1500.0,42.86
+Gdańsk,Wrzeszcz,45.84,2.0,2200.0,47.99
+Warszawa,Wola,47.24,2.0,4000.0,84.67
+Warszawa,Wilanów,95.0,3.0,4900.0,51.58
+Kraków,Prądnik Biały,35.0,2.0,1399.0,39.97
+Wrocław,Śródmieście,55.0,2.0,1800.0,32.73
+Kraków,Podgórze Duchackie,40.0,2.0,1400.0,35.0
+Wrocław,Nadodrze,102.0,3.0,4200.0,41.18
+Warszawa,Natolin,78.0,3.0,3500.0,44.87
+Wrocław,Stare Miasto,30.0,1.0,1750.0,58.33
+Kraków,Krowodrza,36.0,2.0,2100.0,58.33
+Kraków,Zwierzyniec,72.0,3.0,3200.0,44.44
+Warszawa,Mokotów,63.0,1.0,2700.0,42.86
+Gdańsk,Oliwa,56.6,2.0,2700.0,47.7
+Warszawa,Bielany,94.0,3.0,2600.0,27.66
+mazowieckie,Warszawa,53.0,2.0,8500.0,160.38
+Kraków,Nowa Huta,33.64,2.0,1600.0,47.56
+Warszawa,Mokotów,192.0,5.0,17500.0,91.15
+Wrocław,Krzyki,25.0,1.0,1790.0,71.6
+Warszawa,Wola,58.0,2.0,2600.0,44.83
+Gdańsk,Przymorze,37.0,2.0,2200.0,59.46
+Gdańsk,Śródmieście,32.0,2.0,2100.0,65.63
+Kraków,Podgórze,38.0,2.0,2150.0,56.58
+Poznań,Łazarz,102.0,4.0,2950.0,28.92
+Warszawa,Mokotów,120.0,3.0,7500.0,62.5
+Kraków,Stare Miasto,61.97,2.0,1600.0,25.82
+Warszawa,Szczęśliwice,53.0,2.0,2000.0,37.74
+Gdańsk,Wrzeszcz,56.8,2.0,1800.0,31.69
+Szczecin,Centrum,40.0,2.0,1600.0,40.0
+Poznań,Grunwald,49.37,2.0,1700.0,34.43
+Warszawa,Młynów,43.0,2.0,2500.0,58.14
+Gdańsk,Przymorze,41.0,2.0,2600.0,63.41
+Warszawa,Mokotów,230.94,6.0,14500.0,62.79
+Warszawa,Mokotów,228.0,6.0,11900.0,52.19
+Warszawa,Saska Kępa,180.0,5.0,9500.0,52.78
+Kraków,Krowodrza,65.0,3.0,2600.0,40.0
+Wrocław,Krzyki,40.0,2.0,2200.0,55.0
+Kraków,Kazimierz,36.0,2.0,1650.0,45.83
+Wrocław,Stare Miasto,45.0,2.0,2250.0,50.0
+Gdańsk,Śródmieście,60.9,2.0,3500.0,57.47
+Warszawa,Czyste,62.0,2.0,2850.0,45.97
+Kraków,Prądnik Biały,32.4,1.0,1350.0,41.67
+Kraków,Stare Miasto,35.0,2.0,1800.0,51.43
+Warszawa,Bemowo,46.5,1.0,2200.0,47.31
+Kraków,Dąbie,47.7,3.0,1700.0,35.64
+Wrocław,Szczepin,45.0,2.0,2400.0,53.33
+Kraków,Stare Miasto,35.0,2.0,2150.0,61.43
+Warszawa,Wilanów,118.0,5.0,4000.0,33.9
+Warszawa,Bródno,45.0,2.0,2000.0,44.44
+Szczecin,Centrum,75.0,3.0,3300.0,44.0
+małopolskie,Kraków,42.0,2.0,1950.0,46.43
+Warszawa,Wola,55.0,2.0,2500.0,45.45
+Kraków,Stare Miasto,50.34,2.0,2300.0,45.69
+Gdańsk,Śródmieście,45.0,2.0,3500.0,77.78
+Kraków,Krowodrza,30.0,1.0,1400.0,46.67
+Warszawa,Śródmieście,100.5,3.0,3200.0,31.84
+Kraków,Stare Miasto,135.0,4.0,9000.0,66.67
+Poznań,Grunwald,17.0,1.0,900.0,52.94
+Warszawa,Żoliborz,105.0,4.0,5000.0,47.62
+Kraków,Stare Miasto,32.0,1.0,1600.0,50.0
+Łódź,Śródmieście,18.0,1.0,1300.0,72.22
+Łódź,Widzew,54.0,2.0,1700.0,31.48
+Kraków,Krowodrza,18.0,1.0,1000.0,55.56
+pomorskie,Gdańsk,33.0,2.0,1700.0,51.52
+Kraków,Podgórze,32.0,2.0,1800.0,56.25
+Gdańsk,Zaspa,42.0,2.0,1500.0,35.71
+Kraków,Stare Miasto,149.0,4.0,7900.0,53.02
+Szczecin,Stare Miasto,30.0,2.0,1500.0,50.0
+Warszawa,Sielce,41.0,2.0,2700.0,65.85
+Łódź,Górna,18.0,1.0,950.0,52.78
+Kraków,Stare Miasto,64.0,2.0,2700.0,42.19
+Warszawa,Ochota,110.0,5.0,4900.0,44.55
+Warszawa,Stary Imielin,41.0,2.0,2000.0,48.78
+Szczecin,Stare Miasto,70.0,3.0,2800.0,40.0
+Wrocław,Gądów Mały,54.0,2.0,1200.0,22.22
+Wrocław,Stare Miasto,57.0,3.0,2600.0,45.61
+Warszawa,Ursynów,67.0,3.0,3000.0,44.78
+Wrocław,Krzyki,68.0,3.0,2200.0,32.35
+Wrocław,Stare Miasto,39.0,2.0,1900.0,48.72
+Warszawa,Mirów,143.0,4.0,5600.0,39.16
+Kraków,Nowa Huta,32.68,1.0,1100.0,33.66
+Łódź,Polesie,17.0,1.0,1150.0,67.65
+Gdańsk,Oliwa,48.0,2.0,2100.0,43.75
+Kraków,Stare Miasto,29.0,1.0,2000.0,68.97
+Warszawa,Bemowo,41.6,2.0,2000.0,48.08
+Warszawa,Sadyba,76.81,3.0,4000.0,52.08
+Warszawa,Mokotów,50.0,3.0,2600.0,52.0
+Warszawa,Mokotów,46.0,2.0,2400.0,52.17
+Wrocław,Stare Miasto,44.0,2.0,4400.0,100.0
+Kraków,Łobzów,56.0,3.0,2500.0,44.64
+Kraków,Kazimierz,40.0,1.0,1900.0,47.5
+Kraków,Stare Miasto,42.0,2.0,2300.0,54.76
+Warszawa,Ochota,140.0,5.0,4200.0,30.0
+Warszawa,Górce,63.0,3.0,3000.0,47.62
+Kraków,Stare Miasto,60.0,2.0,3000.0,50.0
+Kraków,Kleparz,55.0,2.0,2600.0,47.27
+Warszawa,Nowolipki,47.0,3.0,4600.0,97.87
+Łódź,Śródmieście,27.0,1.0,1400.0,51.85
+Warszawa,Siekierki,36.0,1.0,1800.0,50.0
+Warszawa,Anin,20.0,2.0,1200.0,60.0
+Wrocław,Krzyki,65.0,3.0,2500.0,38.46
+Warszawa,Tarchomin,55.8,3.0,2200.0,39.43
+Warszawa,Rakowiec,76.0,3.0,3400.0,44.74
+Kraków,Czyżyny,31.0,2.0,1790.0,57.74
+Warszawa,Mokotów,80.0,3.0,6800.0,85.0
+Warszawa,Służew,63.0,4.0,3000.0,47.62
+Warszawa,Śródmieście,90.6,3.0,6750.0,74.5
+Poznań,Łazarz,12.23,1.0,750.0,61.32
+Kraków,Czyżyny,49.0,2.0,1600.0,32.65
+Kraków,Dębniki,99.0,4.0,6800.0,68.69
+Kraków,Stare Miasto,35.0,1.0,2200.0,62.86
+Warszawa,Praga-Północ,44.0,2.0,2850.0,64.77
+Kraków,Zwierzyniec,58.0,2.0,1500.0,25.86
+Warszawa,Fort Bema,110.0,5.0,4700.0,42.73
+Poznań,Jeżyce,23.0,1.0,1600.0,69.57
+Warszawa,Mirów,30.0,1.0,4300.0,143.33
+Kraków,Swoszowice,62.0,2.0,1300.0,20.97
+Kraków,Prądnik Czerwony,55.0,2.0,1890.0,34.36
+Kraków,Prądnik Biały,44.0,2.0,1600.0,36.36
+Kraków,Łobzów,53.0,2.0,2000.0,37.74
+małopolskie,Kraków,19.0,1.0,1080.0,56.84
+wielkopolskie,Poznań,32.0,1.0,1200.0,37.5
+Kraków,Stare Miasto,114.0,4.0,7000.0,61.4
+Warszawa,Wola,47.0,2.0,2600.0,55.32
+Kraków,Prądnik Biały,35.0,2.0,1700.0,48.57
+Kraków,Podgórze,28.0,2.0,1750.0,62.5
+Warszawa,Śródmieście,60.0,2.0,4500.0,75.0
+Warszawa,Bielany,58.0,3.0,2500.0,43.1
+Kraków,Stare Miasto,200.0,6.0,9000.0,45.0
+Wrocław,Huby,36.0,2.0,1850.0,51.39
+Wrocław,Przedmieście Oławskie,70.0,3.0,1600.0,22.86
+Warszawa,Powiśle,41.0,1.0,4800.0,117.07
+Warszawa,Nowy Rembertów,65.0,3.0,2100.0,32.31
+Warszawa,Mokotów,54.1,2.0,3500.0,64.7
+Kraków,Bronowice,53.0,3.0,1500.0,28.3
+Warszawa,Mokotów,80.0,3.0,5500.0,68.75
+Kraków,Grzegórzki,63.0,3.0,3300.0,52.38
+Kraków,Kazimierz,38.0,2.0,2100.0,55.26
+Wrocław,Stare Miasto,45.0,3.0,3000.0,66.67
+Warszawa,Praga-Południe,29.0,1.0,1700.0,58.62
+Kraków,Os. Ruczaj,42.0,2.0,2200.0,52.38
+Warszawa,Mokotów,38.0,1.0,2500.0,65.79
+mazowieckie,Warszawa,60.0,2.0,6000.0,100.0
+Gdańsk,Orunia,42.0,2.0,1500.0,35.71
+Kraków,Dębniki,80.0,3.0,2300.0,28.75
+Poznań,Rataje,35.2,2.0,1200.0,34.09
+Wrocław,Śródmieście,44.0,2.0,2100.0,47.73
+Warszawa,Śródmieście,54.0,2.0,5000.0,92.59
+Stare Miasto,Stary Rynek,36.0,1.0,1800.0,50.0
+Kraków,Os. Prądnik Czerwony,46.0,2.0,1800.0,39.13
+Kraków,Grzegórzki,74.0,3.0,3000.0,40.54
+Warszawa,Wola,52.0,2.0,2300.0,44.23
+Kraków,Dębniki,55.0,2.0,1800.0,32.73
+Warszawa,Żoliborz,27.0,1.0,1900.0,70.37
+małopolskie,Kraków,150.0,4.0,5000.0,33.33
+Warszawa,Górce,70.0,3.0,3200.0,45.71
+Wrocław,Plac Grunwaldzki,38.0,1.0,1490.0,39.21
+Warszawa,Ochota,79.0,4.0,3700.0,46.84
+Łódź,Złotno,42.5,2.0,1800.0,42.35
+Warszawa,Mokotów,158.5,5.0,10000.0,63.09
+Kraków,Grzegórzki,45.0,2.0,2200.0,48.89
+Warszawa,Żoliborz,63.0,3.0,3500.0,55.56
+Warszawa,Sielce,134.0,4.0,7500.0,55.97
+Warszawa,Praga-Południe,38.0,2.0,2200.0,57.89
+Łódź,Polesie,42.0,2.0,2150.0,51.19
+Kraków,Krowodrza,47.0,2.0,1700.0,36.17
+Łódź,Górna,43.0,2.0,1900.0,44.19
+Kraków,Stare Miasto,30.0,1.0,3000.0,100.0
+Kraków,Podgórze,35.0,1.0,1400.0,40.0
+Warszawa,Praga-Północ,58.0,2.0,3000.0,51.72
+Warszawa,Śródmieście,50.0,2.0,3500.0,70.0
+Warszawa,Śródmieście,53.0,2.0,8500.0,160.38
+Wrocław,Stare Miasto,18.0,1.0,1760.0,97.78
+Warszawa,Śródmieście,28.0,1.0,1800.0,64.29
+Kraków,Bieńczyce,34.5,2.0,1600.0,46.38
+Kraków,Stare Miasto,53.13,3.0,2500.0,47.05
+Warszawa,Włochy,52.0,2.0,2500.0,48.08
+małopolskie,Kraków,26.0,1.0,1800.0,69.23
+Warszawa,Targówek,55.0,1.0,2250.0,40.91
+Warszawa,Mokotów,59.0,2.0,3500.0,59.32
+Warszawa,Mokotów,95.0,4.0,5300.0,55.79
+Kraków,Os. Ruczaj,12.0,3.0,700.0,58.33
+Kraków,Salwator,45.0,2.0,3800.0,84.44
+Kraków,Stare Miasto,95.0,3.0,3000.0,31.58
+Warszawa,Mokotów,42.0,2.0,1900.0,45.24
+Warszawa,Ochota,79.8,2.0,2900.0,36.34
+Wrocław,Krzyki,42.17,2.0,2500.0,59.28
+Kraków,Os. Podwawelskie,33.0,1.0,1400.0,42.42
+małopolskie,Kraków,55.0,3.0,2500.0,45.45
+Kraków,Krowodrza,28.0,1.0,1200.0,42.86
+Łódź,Polesie,38.02,1.0,1800.0,47.34
+Kraków,Podgórze,20.0,1.0,1350.0,67.5
+Warszawa,Mokotów,120.0,4.0,10500.0,87.5
+Kraków,Dębniki,140.0,3.0,7000.0,50.0
+Warszawa,Wilanów,42.0,2.0,2200.0,52.38
+Wrocław,Stare Miasto,50.0,2.0,1550.0,31.0
+Kraków,Grzegórzki,51.0,2.0,1900.0,37.25
+Kraków,Stare Miasto,70.0,2.0,1999.0,28.56
+Łódź,Śródmieście,60.0,2.0,1640.0,27.33
+wielkopolskie,Poznań,37.0,2.0,1800.0,48.65
+Kraków,Stare Miasto,48.0,2.0,2150.0,44.79
+Kraków,Stare Miasto,65.0,3.0,4900.0,75.38
+Wrocław,Szczepin,79.0,3.0,2500.0,31.65
+Łódź,Śródmieście,90.0,3.0,2200.0,24.44
+Warszawa,Śródmieście,90.0,3.0,4500.0,50.0
+Gdańsk,Suchanino,63.0,4.0,2800.0,44.44
+Wrocław,Krzyki,56.0,2.0,5000.0,89.29
+Poznań,Jeżyce,51.0,2.0,2500.0,49.02
+Warszawa,Mokotów,38.0,2.0,1800.0,47.37
+Poznań,Jeżyce,40.0,2.0,1100.0,27.5
+Łódź,Śródmieście,64.0,3.0,2900.0,45.31
+Warszawa,Słodowiec,48.0,2.0,2400.0,50.0
+Warszawa,Śródmieście,40.0,2.0,2700.0,67.5
+Warszawa,Ochota,36.88,2.0,2150.0,58.3
+Kraków,Prądnik Biały,43.0,2.0,1900.0,44.19
+Poznań,Łazarz,74.0,2.0,1500.0,20.27
+Szczecin,Stare Miasto,89.72,4.0,4500.0,50.16
+Warszawa,Mirów,50.0,2.0,2300.0,46.0
+Warszawa,Wola,55.0,2.0,1800.0,32.73
+Warszawa,Służewiec,148.0,5.0,6000.0,40.54
+Warszawa,Wawrzyszew,63.0,3.0,2400.0,38.1
+Warszawa,Śródmieście,54.0,2.0,8800.0,162.96
+Warszawa,Mokotów,47.0,2.0,2500.0,53.19
+Kraków,Prądnik Biały,60.0,3.0,2100.0,35.0
+Kraków,Podgórze,44.63,1.0,2100.0,47.05
+Warszawa,Ochota,22.0,1.0,1500.0,68.18
+Wrocław,Stare Miasto,34.0,1.0,1700.0,50.0
+Kraków,Łagiewniki-Borek Fałęcki,42.0,2.0,2000.0,47.62
+Warszawa,Bielany,49.0,2.0,2400.0,48.98
+małopolskie,Kraków,43.0,2.0,2100.0,48.84
+Szczecin,Centrum,82.91,4.0,3200.0,38.6
+Wrocław,Os. Powstańców Śląskich,48.0,2.0,1500.0,31.25
+małopolskie,Kraków,33.0,1.0,1850.0,56.06
+Wrocław,Stare Miasto,58.0,2.0,2800.0,48.28
+Kraków,Krowodrza,66.0,4.0,2300.0,34.85
+Warszawa,Saska Kępa,35.0,2.0,2600.0,74.29
+Kraków,Grzegórzki,80.0,3.0,2500.0,31.25
+Warszawa,Śródmieście,100.0,3.0,3200.0,32.0
+dolnośląskie,Wrocław,40.0,1.0,1900.0,47.5
+Poznań,Podolany,32.0,1.0,1100.0,34.38
+Gdańsk,Stare Miasto,37.43,1.0,2100.0,56.1
+Kraków,Stare Miasto,58.0,3.0,3300.0,56.9
+Kraków,Stare Miasto,30.0,1.0,1600.0,53.33
+Warszawa,Wola,52.0,2.0,3900.0,75.0
+Warszawa,Wola,47.0,2.0,3500.0,74.47
+Gdynia,Witomino,38.0,2.0,1500.0,39.47
+Kraków,Os. Na Kozłówce,43.0,3.0,2000.0,46.51
+Poznań,Ogrody,74.06,2.0,4500.0,60.76
+Warszawa,Śródmieście,28.0,1.0,2400.0,85.71
+Warszawa,Mokotów,62.0,2.0,2750.0,44.35
+Kraków,Stare Miasto,50.0,2.0,1950.0,39.0
+Kraków,Stare Miasto,89.0,3.0,5000.0,56.18
+małopolskie,Kraków,50.0,2.0,1500.0,30.0
+Warszawa,Śródmieście,63.0,2.0,2900.0,46.03
+Kraków,Prądnik Czerwony,19.0,1.0,1100.0,57.89
+mazowieckie,Warszawa,91.5,5.0,3600.0,39.34
+Warszawa,Wilanów,90.0,3.0,4500.0,50.0
+Warszawa,Śródmieście,54.0,2.0,2400.0,44.44
+Gdańsk,Wrzeszcz,65.0,3.0,2400.0,36.92
+Kraków,Grzegórzki,27.0,1.0,1700.0,62.96
+Kraków,Krowodrza,52.0,1.0,1600.0,30.77
+Kraków,Os. Ruczaj,58.0,3.0,1400.0,24.14
+Kraków,Dębniki,48.0,2.0,1750.0,36.46
+Kraków,Ludwinów,115.0,3.0,5000.0,43.48
+Warszawa,Wierzbno,41.5,2.0,2280.0,54.94
+Kraków,Stare Miasto,47.0,2.0,2000.0,42.55
+Kraków,Podgórze,37.0,2.0,1750.0,47.3
+Kraków,Os. Prądnik Czerwony,120.0,4.0,2490.0,20.75
+Warszawa,Bemowo,45.0,2.0,2800.0,62.22
+pomorskie,Gdańsk,52.0,2.0,2200.0,42.31
+Warszawa,Włochy,35.0,1.0,2200.0,62.86
+Wrocław,Fabryczna,52.0,3.0,1700.0,32.69
+Warszawa,Sadyba,125.0,4.0,8000.0,64.0
+Szczecin,Żelechowa,52.0,2.0,1600.0,30.77
+Warszawa,Stary Mokotów,30.0,1.0,1900.0,63.33
+Wrocław,Psie Pole,52.0,2.0,1500.0,28.85
+Kraków,Stare Miasto,60.0,5.0,5000.0,83.33
+Gdańsk,Wrzeszcz,50.0,2.0,2100.0,42.0
+Kraków,Stare Miasto,63.4,4.0,5700.0,89.91
+Warszawa,Śródmieście,53.0,2.0,8500.0,160.38
+Gdańsk,Śródmieście,35.0,2.0,2000.0,57.14
+Wrocław,Fabryczna,37.0,2.0,1600.0,43.24
+zachodniopomorskie,Szczecin,80.0,2.0,2500.0,31.25
+Gdańsk,Przymorze,58.04,3.0,3000.0,51.69
+Warszawa,Wola,71.18,3.0,6200.0,87.1
+Kraków,Grzegórzki,55.0,3.0,3000.0,54.55
+Warszawa,Śródmieście,51.22,3.0,4300.0,83.95
+Warszawa,Mokotów,98.0,3.0,4499.0,45.91
+Warszawa,Śródmieście,59.0,2.0,2800.0,47.46
+Warszawa,Wilanów,104.0,4.0,6500.0,62.5
+Kraków,Stare Miasto,74.5,3.0,4700.0,63.09
+mazowieckie,Warszawa,180.0,4.0,9900.0,55.0
+Warszawa,Muranów,157.27,5.0,11400.0,72.49
+Wrocław,Plac Grunwaldzki,52.0,2.0,1900.0,36.54
+Warszawa,Wilanów,52.1,2.0,3500.0,67.18
+Kraków,Os. Nowy Prokocim,40.78,2.0,1811.0,44.41
+dolnośląskie,Wrocław,24.0,1.0,1600.0,66.67
+Warszawa,Śródmieście,275.0,11.0,17875.0,65.0
+Poznań,Stare Miasto,55.94,3.0,3800.0,67.93
+Kraków,Stare Miasto,125.0,7.0,3500.0,28.0
+Warszawa,Śródmieście,39.0,1.0,2480.0,63.59
+Warszawa,Bielany,38.19,2.0,1900.0,49.75
+Warszawa,Stare Miasto,36.0,1.0,2150.0,59.72
+Wrocław,Karłowice,120.0,4.0,6800.0,56.67
+Kraków,Nowa Huta,48.0,2.0,1500.0,31.25
+Warszawa,Stary Żoliborz,64.0,2.0,3100.0,48.44
+Warszawa,Służewiec,80.0,3.0,3900.0,48.75
+Poznań,Naramowice,40.0,2.0,1700.0,42.5
+Wrocław,Stare Miasto,61.0,2.0,2800.0,45.9
+Warszawa,Służewiec,42.0,2.0,1990.0,47.38
+małopolskie,Kraków,133.0,4.0,7900.0,59.4
+Warszawa,Stara Ochota,60.0,3.0,3100.0,51.67
+Łódź,Polesie,50.0,3.0,2100.0,42.0
+Kraków,Os. Ruczaj,37.0,2.0,1800.0,48.65
+Warszawa,Wola,38.0,1.0,2200.0,57.89
+Warszawa,Śródmieście,52.0,2.0,2950.0,56.73
+Poznań,Stare Miasto,27.0,1.0,1050.0,38.89
+Kraków,Bieżanów-Prokocim,24.0,1.0,1200.0,50.0
+Kraków,Dębniki,42.0,2.0,1450.0,34.52
+Warszawa,Ursynów,84.0,3.0,3000.0,35.71
+Łódź,Śródmieście,61.0,2.0,3000.0,49.18
+Wrocław,Fabryczna,39.0,2.0,1930.0,49.49
+Kraków,Stare Miasto,48.0,2.0,2200.0,45.83
+Warszawa,Śródmieście,33.0,2.0,2000.0,60.61
+Warszawa,Śródmieście,60.0,2.0,2900.0,48.33
+Poznań,Rataje,52.0,2.0,1700.0,32.69
+Kraków,Dębniki,45.0,3.0,2600.0,57.78
+Kraków,Os. Prądnik Czerwony,45.0,2.0,2000.0,44.44
+Gdańsk,Wrzeszcz,112.29,4.0,4000.0,35.62
+Warszawa,Śródmieście,120.0,4.0,4500.0,37.5
+Warszawa,Stegny,250.0,5.0,14000.0,56.0
+Gdańsk,Śródmieście,44.0,2.0,2300.0,52.27
+Łódź,Śródmieście,61.16,2.0,2300.0,37.61
+Wrocław,Tarnogaj,48.0,2.0,2000.0,41.67
+małopolskie,Kraków,40.0,3.0,3000.0,75.0
+Warszawa,Śródmieście,50.0,2.0,3500.0,70.0
+Warszawa,Bemowo,30.3,1.0,2300.0,75.91
+Warszawa,Stary Żoliborz,45.0,2.0,5300.0,117.78
+Warszawa,Bielany,42.0,2.0,2300.0,54.76
+Kraków,Kazimierz,48.0,2.0,2100.0,43.75
+małopolskie,Kraków,65.0,2.0,2300.0,35.38
+Kraków,Salwator,43.0,2.0,2200.0,51.16
+Warszawa,Wola,100.0,3.0,7500.0,75.0
+Warszawa,Śródmieście,40.0,1.0,4300.0,107.5
+Kraków,Dębniki,47.0,2.0,1650.0,35.11
+Wrocław,Śródmieście,63.0,3.0,2599.0,41.25
+Kraków,Bronowice Małe,64.0,3.0,3000.0,46.88
+Poznań,Stare Miasto,90.0,4.0,2500.0,27.78
+Łódź,Widzew,60.0,3.0,1700.0,28.33
+Kraków,Grzegórzki,42.0,2.0,2000.0,47.62
+Kraków,Rakowice,66.0,3.0,2000.0,30.3
+Kraków,Łobzów,40.0,2.0,1300.0,32.5
+Warszawa,Mokotów,84.0,3.0,4700.0,55.95
+Warszawa,Ursynów,104.0,3.0,3200.0,30.77
+Szczecin,Centrum,80.0,3.0,4500.0,56.25
+Gdańsk,Śródmieście,56.0,3.0,2700.0,48.21
+Wrocław,Muchobór Wielki,35.0,1.0,1650.0,47.14
+Poznań,Łazarz,49.0,3.0,1200.0,24.49
+Warszawa,Mokotów,76.0,3.0,5000.0,65.79
+Wrocław,Grabiszyn-Grabiszynek,43.0,2.0,1800.0,41.86
+Warszawa,Śródmieście,54.0,4.0,2500.0,46.3
+Wrocław,Śródmieście,44.0,2.0,2280.0,51.82
+Wrocław,Gaj,50.0,2.0,1800.0,36.0
+Warszawa,Natolin,50.0,2.0,2400.0,48.0
+małopolskie,Kraków,58.0,2.0,3100.0,53.45
+małopolskie,Kraków,33.6,2.0,1700.0,50.6
+Wrocław,Grabiszyn-Grabiszynek,52.0,2.0,2600.0,50.0
+Warszawa,Śródmieście,39.0,2.0,2900.0,74.36
+Warszawa,Saska Kępa,84.0,3.0,3990.0,47.5
+Wrocław,Stare Miasto,30.0,1.0,1500.0,50.0
+Kraków,Stare Miasto,71.0,2.0,3900.0,54.93
+Kraków,Stare Miasto,60.0,2.0,1900.0,31.67
+Kraków,Bronowice,98.0,3.0,3000.0,30.61
+Warszawa,Wola,39.0,1.0,2450.0,62.82
+Warszawa,Bielany,48.82,2.0,1700.0,34.82
+Kraków,Stare Miasto,35.0,2.0,2200.0,62.86
+Warszawa,Wilanów,101.0,3.0,6900.0,68.32
+Wrocław,Krzyki,62.41,3.0,3500.0,56.08
+Poznań,Wilda,32.5,2.0,1500.0,46.15
+małopolskie,Kraków,69.0,3.0,2500.0,36.23
+Warszawa,Śródmieście,93.5,3.0,9500.0,101.6
+Szczecin,Niebuszewo,38.0,2.0,1400.0,36.84
+Gdańsk,Jelitkowo,71.0,3.0,3400.0,47.89
+Wrocław,Śródmieście,50.0,2.0,2200.0,44.0
+małopolskie,Kraków,140.0,4.0,4000.0,28.57
+małopolskie,Kraków,93.0,3.0,5250.0,56.45
+Warszawa,Śródmieście,90.1,3.0,8000.0,88.79
+wielkopolskie,Poznań,54.33,2.0,3500.0,64.42
+Warszawa,Nowolipki,38.0,1.0,5500.0,144.74
+mazowieckie,Warszawa,226.0,8.0,18000.0,79.65
+Kraków,Podgórze,23.0,1.0,1500.0,65.22
+Gdańsk,Śródmieście,57.0,3.0,3000.0,52.63
+Łódź,Śródmieście,43.28,2.0,1700.0,39.28
+mazowieckie,Warszawa,34.0,1.0,2800.0,82.35
+Warszawa,Praga-Południe,28.0,1.0,2000.0,71.43
+Warszawa,Muranów,45.0,2.0,4500.0,100.0
+mazowieckie,Warszawa,36.0,2.0,4000.0,111.11
+Gdańsk,Wrzeszcz,46.0,2.0,2800.0,60.87
+Łódź,Śródmieście,39.0,2.0,1200.0,30.77
+Warszawa,Śródmieście,38.0,2.0,4000.0,105.26
+Warszawa,Gocław,47.0,2.0,2000.0,42.55
+Wrocław,Psie Pole,51.0,2.0,1500.0,29.41
+małopolskie,Kraków,53.0,2.0,1750.0,33.02
+brak,,56.0,3.0,2100.0,37.5
+Kraków,Grzegórzki,76.0,3.0,2500.0,32.89
+Kraków,Olsza,53.0,2.0,2000.0,37.74
+Kraków,Os. Prądnik Biały,33.0,1.0,1200.0,36.36
+Warszawa,Mokotów,78.07,3.0,5000.0,64.05
+Kraków,Borek Fałęcki,42.0,2.0,1500.0,35.71
+Kraków,Kleparz,49.5,2.0,2150.0,43.43
+Kraków,Kazimierz,39.75,2.0,1600.0,40.25
+Kraków,Łobzów,55.0,2.0,2200.0,40.0
+Warszawa,Praga-Północ,101.0,4.0,6000.0,59.41
+Warszawa,Mokotów,115.6,4.0,4950.0,42.82
+Poznań,Stare Miasto,41.6,2.0,1490.0,35.82
+Warszawa,Śródmieście,39.0,2.0,2500.0,64.1
+Gdańsk,Piecki-Migowo,60.87,3.0,2300.0,37.79
+Kraków,Dębniki,52.0,2.0,2800.0,53.85
+Warszawa,Mokotów,108.0,4.0,4000.0,37.04
+Warszawa,Śródmieście,30.0,1.0,1800.0,60.0
+Warszawa,Mokotów,115.0,3.0,8000.0,69.57
+Warszawa,Śródmieście,69.0,2.0,4800.0,69.57
+Gdańsk,Stare Miasto,42.0,2.0,1800.0,42.86
+Łódź,Os. Katedralna,21.0,1.0,1100.0,52.38
+Kraków,Prądnik Czerwony,63.0,3.0,2400.0,38.1
+Poznań,Grunwald,70.0,3.0,2200.0,31.43
+Gdańsk,Jelitkowo,50.0,2.0,2200.0,44.0
+Łódź,Bałuty,60.0,2.0,1700.0,28.33
+Wrocław,Stare Miasto,54.0,2.0,2400.0,44.44
+Kraków,Stare Miasto,36.0,2.0,1800.0,50.0
+Warszawa,Śródmieście,49.0,2.0,3600.0,73.47
+Kraków,Krowodrza,54.0,3.0,2400.0,44.44
+Łódź,Chojny-Dąbrowa,37.0,2.0,1500.0,40.54
+Kraków,Olsza,46.0,2.0,1600.0,34.78
+Łódź,Bałuty,45.0,2.0,1000.0,22.22
+Warszawa,Mokotów,20.0,1.0,1500.0,75.0
+Szczecin,Warszewo,63.0,3.0,2200.0,34.92
+Kraków,Podgórze,43.0,1.0,800.0,18.6
+Kraków,Dębniki,60.0,3.0,2000.0,33.33
+Warszawa,Mirów,50.5,2.0,4300.0,85.15
+Wrocław,Nowy Dwór,30.0,1.0,1600.0,53.33
+Warszawa,Ochota,60.0,2.0,3900.0,65.0
+Kraków,Prądnik Biały,60.0,4.0,3000.0,50.0
+wielkopolskie,Poznań,13.0,2.0,640.0,49.23
+Warszawa,Mokotów,75.0,3.0,4800.0,64.0
+Warszawa,Włochy,38.0,1.0,2400.0,63.16
+Warszawa,Wilanów,37.0,2.0,2800.0,75.68
+Kraków,Stare Miasto,50.0,2.0,2500.0,50.0
+Kraków,Kazimierz,24.0,1.0,1099.0,45.79
+Kraków,Mistrzejowice,63.0,2.0,1400.0,22.22
+Kraków,Wawel,53.25,2.0,2400.0,45.07
+Kraków,Bronowice Małe,41.0,2.0,1800.0,43.9
+Wrocław,Psie Pole,12.0,3.0,970.0,80.83
+Kraków,Krowodrza,30.0,1.0,1700.0,56.67
+Warszawa,Stare Miasto,38.0,2.0,5000.0,131.58
+Warszawa,Natolin,76.0,3.0,3200.0,42.11
+Poznań,Śródka,51.1,2.0,1300.0,25.44
+Kraków,Os. Prądnik Biały,56.0,3.0,2500.0,44.64
+mazowieckie,Warszawa,54.0,2.0,10000.0,185.19
+Wrocław,Śródmieście,55.0,2.0,1900.0,34.55
+małopolskie,Kraków,67.0,2.0,2500.0,37.31
+Warszawa,Mokotów,21.0,1.0,1600.0,76.19
+Kraków,Krowodrza,16.0,1.0,1190.0,74.38
+Kraków,Salwator,64.0,2.0,3000.0,46.88
+Kraków,Os. Ruczaj,60.0,3.0,2100.0,35.0
+Warszawa,Wawrzyszew,42.0,2.0,2300.0,54.76
+Poznań,Stare Miasto,70.0,3.0,2100.0,30.0
+Łódź,Polesie,45.51,2.0,1500.0,32.96
+Warszawa,Żoliborz,64.0,2.0,3100.0,48.44
+Warszawa,Bielany,38.66,2.0,1955.0,50.57
+Łódź,Śródmieście,34.0,1.0,1300.0,38.24
+Warszawa,Praga-Południe,56.0,2.0,3000.0,53.57
+Gdańsk,Jelitkowo,79.4,3.0,4500.0,56.68
+Warszawa,Mirów,46.0,2.0,5300.0,115.22
+Warszawa,Służewiec,56.66,3.0,3200.0,56.48
+Kraków,Krowodrza,30.0,1.0,1200.0,40.0
+Warszawa,Wola,48.6,2.0,2800.0,57.61
+Warszawa,Mokotów,75.0,3.0,5000.0,66.67
+Warszawa,Śródmieście,51.13,2.0,4000.0,78.23
+małopolskie,Kraków,50.0,2.0,2200.0,44.0
+Kraków,Kazimierz,20.0,1.0,1500.0,75.0
+Warszawa,Bemowo,64.0,3.0,2500.0,39.06
+Warszawa,Powiśle,101.0,2.0,6500.0,64.36
+Warszawa,Śródmieście,56.69,2.0,2600.0,45.86
+Warszawa,Grochów,55.0,2.0,2700.0,49.09
+Kraków,Kleparz,26.0,1.0,1150.0,44.23
+Gdańsk,Śródmieście,41.0,2.0,2100.0,51.22
+Warszawa,Mokotów,45.0,2.0,3100.0,68.89
+Kraków,Prądnik Czerwony,113.0,4.0,3950.0,34.96
+Kraków,Stare Miasto,43.0,2.0,2100.0,48.84
+Kraków,Krowodrza,33.0,1.0,1350.0,40.91
+Poznań,Jeżyce,10.0,1.0,800.0,80.0
+Warszawa,Białołęka,42.0,2.0,1900.0,45.24
+Warszawa,Mokotów,78.98,3.0,6500.0,82.3
+Kraków,Krowodrza,100.0,3.0,4000.0,40.0
+Poznań,Wilda,36.14,2.0,2400.0,66.41
+Poznań,Rataje,55.0,3.0,2000.0,36.36
+Kraków,Grzegórzki,56.0,3.0,3400.0,60.71
+Warszawa,Śródmieście,78.0,3.0,7500.0,96.15
+Warszawa,Wola,52.0,2.0,3000.0,57.69
+Kraków,Stare Miasto,54.0,2.0,2500.0,46.3
+Gdańsk,Piecki-Migowo,50.79,2.0,1900.0,37.41
+Warszawa,Śródmieście,74.0,2.0,5000.0,67.57
+Szczecin,Pogodno,39.0,2.0,1900.0,48.72
+Łódź,Śródmieście,49.0,2.0,2000.0,40.82
+Warszawa,Mokotów,89.0,3.0,5300.0,59.55
+Gdańsk,Śródmieście,65.0,2.0,2700.0,41.54
+Warszawa,Nowolipki,27.0,2.0,1950.0,72.22
+małopolskie,Kraków,30.0,2.0,1700.0,56.67
+małopolskie,Kraków,37.0,2.0,1450.0,39.19
+Łódź,Śródmieście,35.0,1.0,1500.0,42.86
+Kraków,Zakrzówek,37.0,2.0,1750.0,47.3
+brak,,31.0,1.0,1400.0,45.16
+Warszawa,Śródmieście,104.5,4.0,4700.0,44.98
+Poznań,Wilda,54.0,3.0,2100.0,38.89
+Gdańsk,Oliwa,42.0,2.0,2000.0,47.62
+Warszawa,Śródmieście,44.0,2.0,2600.0,59.09
+Warszawa,Mokotów,40.0,2.0,2900.0,72.5
+Warszawa,Śródmieście,28.0,1.0,2399.0,85.68
+Warszawa,Wilanów,30.0,2.0,1300.0,43.33
+Kraków,Os. Ruczaj,55.5,3.0,1700.0,30.63
+Warszawa,Ochota,61.0,3.0,2500.0,40.98
+Kraków,Prądnik Biały,73.0,3.0,2100.0,28.77
+Kraków,Podgórze,69.0,3.0,4000.0,57.97
+wielkopolskie,Poznań,58.0,3.0,1800.0,31.03
+Warszawa,Wola,30.5,1.0,1600.0,52.46
+Warszawa,Mokotów,99.0,4.0,6200.0,62.63
+Wrocław,Huby,35.73,2.0,1500.0,41.98
+Warszawa,Śródmieście,70.0,3.0,3200.0,45.71
+Warszawa,Śródmieście,145.0,3.0,8300.0,57.24
+Warszawa,Grochów,36.0,2.0,2100.0,58.33
+Warszawa,Stegny,77.5,3.0,4900.0,63.23
+Warszawa,Praga-Południe,44.0,2.0,2850.0,64.77
+Szczecin,Stare Miasto,80.0,3.0,3400.0,42.5
+Warszawa,Mokotów,56.0,2.0,3200.0,57.14
+małopolskie,Kraków,62.0,2.0,3300.0,53.23
+Warszawa,Śródmieście,47.0,2.0,2300.0,48.94
+Warszawa,Wola,53.0,2.0,3200.0,60.38
+małopolskie,Kraków,58.0,2.0,3000.0,51.72
+małopolskie,Kraków,25.0,1.0,1600.0,64.0
+Warszawa,Mirów,24.0,1.0,1700.0,70.83
+Warszawa,Mokotów,180.0,3.0,13900.0,77.22
+Szczecin,Gumieńce,73.0,2.0,2850.0,39.04
+Warszawa,Ursynów,35.6,2.0,2100.0,58.99
+Kraków,Olsza,46.0,2.0,1600.0,34.78
+Warszawa,Wilanów,40.0,2.0,2500.0,62.5
+Kraków,Grzegórzki,133.0,4.0,10000.0,75.19
+Warszawa,Wilanów,110.0,3.0,5000.0,45.45
+Warszawa,Mokotów,98.4,3.0,5000.0,50.81
+Kraków,Łobzów,25.0,1.0,1400.0,56.0
+Szczecin,Słoneczne,34.6,1.0,1400.0,40.46
+Szczecin,Centrum,50.0,2.0,3000.0,60.0
+małopolskie,Kraków,42.0,2.0,2590.0,61.67
+mazowieckie,warszawski zachodni,43.0,2.0,5300.0,123.26
+Gdańsk,Stare Miasto,30.0,2.0,1600.0,53.33
+Kraków,Stare Miasto,37.0,2.0,2800.0,75.68
+Kraków,Podgórze,55.0,2.0,2700.0,49.09
+Łódź,Śródmieście,59.0,2.0,1580.0,26.78
+Warszawa,Śródmieście Północne,32.0,1.0,5500.0,171.88
+Kraków,Krowodrza,60.0,3.0,2500.0,41.67
+Warszawa,Powiśle,113.2,3.0,7500.0,66.25
+Kraków,Prądnik Czerwony,45.0,2.0,1800.0,40.0
+Kraków,Podgórze,39.0,1.0,1500.0,38.46
+Wrocław,Os. Stare Miasto,39.0,2.0,2000.0,51.28
+Warszawa,Bielany,170.0,6.0,7500.0,44.12
+małopolskie,Kraków,65.0,3.0,4000.0,61.54
+pod budynkiem,,47.0,2.0,2100.0,44.68
+Warszawa,Żoliborz,38.0,2.0,1600.0,42.11
+Kraków,Zabłocie,38.0,2.0,2000.0,52.63
+dolnośląskie,Wrocław,58.0,2.0,2000.0,34.48
+Kraków,Kazimierz,51.22,2.0,2700.0,52.71
+małopolskie,Kraków,59.0,2.0,3500.0,59.32
+Gdańsk,Śródmieście,60.0,2.0,1800.0,30.0
+Warszawa,Śródmieście,38.0,2.0,2300.0,60.53
+Warszawa,Białołęka,54.0,3.0,2200.0,40.74
+Kraków,Stare Miasto,68.0,3.0,7000.0,102.94
+Gdańsk,Jelitkowo,66.0,3.0,2800.0,42.42
+Kraków,Prądnik Czerwony,55.0,2.0,1350.0,24.55
+Warszawa,Targówek,30.2,2.0,1300.0,43.05
+Kraków,Nowa Huta,45.0,3.0,1500.0,33.33
+Kraków,Grzegórzki,42.0,2.0,2100.0,50.0
+Poznań,Stare Miasto,25.0,1.0,1200.0,48.0
+Warszawa,Mokotów,71.0,3.0,4000.0,56.34
+Gdańsk,Śródmieście,45.0,2.0,2200.0,48.89
+Warszawa,Mokotów,200.0,4.0,12000.0,60.0
+Wrocław,Fabryczna,68.0,3.0,2700.0,39.71
+Kraków,Prądnik Czerwony,46.0,2.0,1500.0,32.61
+Kraków,Salwator,37.0,1.0,1650.0,44.59
+Warszawa,Powiśle,70.0,3.0,3500.0,50.0
+Wrocław,Stare Miasto,72.0,2.0,4300.0,59.72
+Kraków,Dębniki,62.0,1.0,2000.0,32.26
+Warszawa,Wola,28.0,1.0,2000.0,71.43
+Kraków,Stare Miasto,57.0,2.0,2800.0,49.12
+Kraków,Podgórze,55.0,2.0,1300.0,23.64
+Warszawa,Młynów,76.0,3.0,3000.0,39.47
+Warszawa,Bemowo,57.0,2.0,2300.0,40.35
+Szczecin,Centrum,37.0,2.0,1700.0,45.95
+Wrocław,Os. Powstańców Śląskich,100.0,3.0,3200.0,32.0
+Kraków,Stare Miasto,45.0,1.0,1500.0,33.33
+Warszawa,Mokotów,72.0,3.0,3000.0,41.67
+Kraków,Stare Miasto,50.0,2.0,1800.0,36.0
+Warszawa,Mokotów,57.0,2.0,3500.0,61.4
+Wrocław,Krzyki,67.0,3.0,2400.0,35.82
+Kraków,Os. Ruczaj,47.0,2.0,1900.0,40.43
+Wrocław,Krzyki,25.0,1.0,1400.0,56.0
+Warszawa,Mokotów,89.0,4.0,5900.0,66.29
+Warszawa,Muranów,122.0,3.0,4300.0,35.25
+Łódź,Śródmieście,46.0,2.0,1800.0,39.13
+Kraków,Grzegórzki,49.0,2.0,2200.0,44.9
+Kraków,Krowodrza,47.34,2.0,2150.0,45.42
+Warszawa,Śródmieście,90.0,3.0,6750.0,75.0
+Warszawa,Kabaty,70.0,3.0,2880.0,41.14
+Kraków,Stare Miasto,33.0,2.0,2100.0,63.64
+Kraków,Podgórze,83.0,3.0,3000.0,36.14
+Kraków,Os. Nowy Prokocim,25.9,1.0,1328.0,51.27
+Kraków,Stare Miasto,26.0,1.0,1600.0,61.54
+Kraków,Stare Miasto,60.0,2.0,1800.0,30.0
+Warszawa,Śródmieście,21.93,1.0,2000.0,91.2
+małopolskie,Kraków,40.0,2.0,1800.0,45.0
+Szczecin,Warszewo,49.88,2.0,2900.0,58.14
+Szczecin,Pogodno,53.0,2.0,1600.0,30.19
+Łódź,Polesie,36.0,2.0,1700.0,47.22
+Kraków,Stare Miasto,110.0,3.0,4980.0,45.27
+Warszawa,Ursynów,35.0,1.0,1800.0,51.43
+Kraków,Krowodrza,37.0,2.0,2000.0,54.05
+Wrocław,Różanka,36.43,2.0,2200.0,60.39
+Warszawa,Mokotów,160.0,4.0,9500.0,59.38
+Warszawa,Mokotów,58.0,2.0,2400.0,41.38
+Warszawa,Śródmieście,50.0,2.0,2800.0,56.0
+Warszawa,Stary Imielin,61.0,2.0,2850.0,46.72
+Kraków,Stare Miasto,88.0,4.0,3500.0,39.77
+Kraków,Stare Miasto,35.0,1.0,1500.0,42.86
+poznański,Tarnowo Podgórne,320.0,6.0,11000.0,34.38
+Warszawa,Wola,54.0,2.0,3600.0,66.67
+Kraków,Os. Prądnik Czerwony,34.0,1.0,1900.0,55.88
+Kraków,Prądnik Czerwony,54.0,3.0,2200.0,40.74
+Gdańsk,Wrzeszcz,33.0,2.0,2500.0,75.76
+Warszawa,Wola,40.0,2.0,2600.0,65.0
+Gdańsk,Śródmieście,65.0,3.0,2000.0,30.77
+Warszawa,Czyste,31.0,2.0,2100.0,67.74
+Kraków,Prądnik Biały,41.0,2.0,1800.0,43.9
+Warszawa,Praga-Północ,30.0,1.0,2000.0,66.67
+Szczecin,Gumieńce,74.0,2.0,2850.0,38.51
+Warszawa,Mokotów,134.0,4.0,7500.0,55.97
+Warszawa,Włochy,26.0,1.0,1650.0,63.46
+Warszawa,Śródmieście,38.8,2.0,2200.0,56.7
+Kraków,Dębniki,30.0,2.0,1700.0,56.67
+Warszawa,Sielce,43.0,2.0,2800.0,65.12
+Gdańsk,Śródmieście,65.0,4.0,2500.0,38.46
+małopolskie,Kraków,80.0,5.0,4000.0,50.0
+Kraków,Krowodrza,36.0,1.0,1550.0,43.06
+Wrocław,Os. Stare Miasto,43.0,2.0,1950.0,45.35
+Wrocław,Krzyki,37.0,2.0,2297.0,62.08
+Warszawa,Wilanów,49.0,2.0,2500.0,51.02
+Warszawa,Ochota,34.0,1.0,2000.0,58.82
+Wrocław,Śródmieście,44.18,2.0,2290.0,51.83
+Warszawa,Śródmieście,39.0,2.0,2100.0,53.85
+Łódź,Polesie,46.32,2.0,2000.0,43.18
+Warszawa,Mokotów,48.0,2.0,3200.0,66.67
+Kraków,Dębniki,54.0,2.0,2300.0,42.59
+Warszawa,Praga-Południe,60.0,2.0,4200.0,70.0
+Kraków,Krowodrza,63.0,3.0,2200.0,34.92
+Szczecin,Centrum,42.0,2.0,2400.0,57.14
+Poznań,Grunwald,55.0,3.0,1800.0,32.73
+Wrocław,Stare Miasto,34.0,2.0,1500.0,44.12
+Warszawa,Śródmieście,92.0,3.0,7500.0,81.52
+Kraków,Stare Miasto,38.35,2.0,2700.0,70.4
+Warszawa,Śródmieście,60.0,3.0,2600.0,43.33
+Wrocław,Śródmieście,57.75,3.0,2600.0,45.02
+Kraków,Os. Ruczaj,40.0,2.0,1300.0,32.5
+łódzkie,Łódź,114.96,3.0,3500.0,30.45
+Wrocław,Fabryczna,50.0,3.0,1800.0,36.0
+Warszawa,Praga-Północ,64.0,3.0,4000.0,62.5
+Kraków,Dębniki,28.0,2.0,1300.0,46.43
+łódzkie,Łódź,50.0,3.0,1700.0,34.0
+Warszawa,Targówek,55.43,2.0,2100.0,37.89
+Gdańsk,Przymorze,74.0,3.0,3600.0,48.65
+Warszawa,Wilanów,143.0,4.0,6000.0,41.96
+Kraków,Salwator,40.0,1.0,1650.0,41.25
+Warszawa,Ochota,55.0,2.0,2800.0,50.91
+Warszawa,Wyczółki,64.0,3.0,4500.0,70.31
+Warszawa,Bielany,39.52,2.0,1955.0,49.47
+Kraków,Os. Ruczaj,30.0,1.0,1200.0,40.0
+Wrocław,Gaj,37.0,1.0,2000.0,54.05
+Wrocław,Ołtaszyn,80.0,3.0,2500.0,31.25
+Kraków,Grzegórzki,45.0,2.0,2400.0,53.33
+Gdańsk,Przymorze,47.0,2.0,2000.0,42.55
+Warszawa,Śródmieście,94.2,4.0,4900.0,52.02
+Warszawa,Służewiec,45.0,2.0,2900.0,64.44
+Kraków,Łagiewniki-Borek Fałęcki,35.0,2.0,1300.0,37.14
+Warszawa,Wola,30.34,1.0,2700.0,88.99
+Warszawa,Targówek,39.34,2.0,2400.0,61.01
+Kraków,Krowodrza,125.0,4.0,2500.0,20.0
+Poznań,Grunwald,28.0,2.0,1150.0,41.07
+Warszawa,Śródmieście,40.0,2.0,2500.0,62.5
+Łódź,Śródmieście,45.0,2.0,1900.0,42.22
+Kraków,Os. Ruczaj,29.0,1.0,1499.0,51.69
+Kraków,Prądnik Czerwony,18.0,1.0,1350.0,75.0
+Wrocław,Szczepin,26.0,1.0,1700.0,65.38
+Warszawa,Mokotów,47.0,2.0,3120.0,66.38
+Warszawa,Wilanów,135.0,4.0,4500.0,33.33
+Łódź,Śródmieście,47.0,2.0,2300.0,48.94
+Kraków,Podgórze,40.0,2.0,2300.0,57.5
+Kraków,Stare Miasto,55.0,2.0,2300.0,41.82
+Warszawa,Mokotów,27.0,1.0,1750.0,64.81
+Kraków,Stare Miasto,60.0,2.0,2400.0,40.0
+Warszawa,Czyste,41.98,2.0,3700.0,88.14
+Warszawa,Mokotów,137.0,6.0,9600.0,70.07
+Kraków,Os. Prądnik Biały,100.0,3.0,2600.0,26.0
+małopolskie,Kraków,44.0,2.0,2500.0,56.82
+Warszawa,Praga-Północ,36.0,2.0,2100.0,58.33
+Warszawa,Grochów,70.0,2.0,1700.0,24.29
+Kraków,Kurdwanów,33.5,1.0,1350.0,40.3
+Kraków,Grzegórzki Stare,42.0,2.0,2800.0,66.67
+Poznań,Sołacz,100.0,1.0,350.0,3.5
+Łódź,Widzew,52.0,2.0,1800.0,34.62
+Warszawa,Śródmieście,40.0,2.0,2900.0,72.5
+Warszawa,Stare Bielany,88.0,3.0,3600.0,40.91
+Gdańsk,Łostowice,52.0,2.0,2100.0,40.38
+pod budynkiem,,27.0,1.0,1600.0,59.26
+Warszawa,Jelonki Południowe,35.0,1.0,2500.0,71.43
+małopolskie,Kraków,27.0,1.0,2000.0,74.07
+Kraków,Dębniki,36.0,2.0,1700.0,47.22
+Warszawa,Praga-Południe,60.0,3.0,2500.0,41.67
+Kraków,Krowodrza,30.0,2.0,1800.0,60.0
+Warszawa,Ochota,69.0,2.0,2900.0,42.03
+Warszawa,Mokotów,39.0,2.0,2800.0,71.79
+Warszawa,Ochota,44.0,2.0,3100.0,70.45
+Łódź,Śródmieście,30.0,1.0,1700.0,56.67
+Kraków,Stare Miasto,35.0,1.0,2200.0,62.86
+Warszawa,Śródmieście,152.6,3.0,20200.0,132.37
+Warszawa,Praga-Południe,64.0,3.0,1950.0,30.47
+Warszawa,Śródmieście,56.0,2.0,4300.0,76.79
+Kraków,Os. Krowodrza Górka,40.0,2.0,1700.0,42.5
+Warszawa,Wola,53.0,2.0,4200.0,79.25
+Warszawa,Włochy,36.0,2.0,1600.0,44.44
+Kraków,Krowodrza,90.0,3.0,2500.0,27.78
+Warszawa,Ochota,46.0,1.0,4600.0,100.0
+Warszawa,Śródmieście,40.0,2.0,2300.0,57.5
+łódzkie,Łódź,48.0,2.0,1800.0,37.5
+Warszawa,Bielany,48.0,3.0,1900.0,39.58
+Poznań,Wilda,34.0,1.0,690.0,20.29
+Kraków,Os. Krowodrza Górka,45.0,2.0,1600.0,35.56
+Warszawa,Ursynów,70.0,2.0,3430.0,49.0
+dolnośląskie,Wrocław,65.0,2.0,2000.0,30.77
+Wrocław,Krzyki,52.0,3.0,1800.0,34.62
+Warszawa,Śródmieście,50.0,2.0,4300.0,86.0
+Kraków,Krowodrza,34.0,2.0,1650.0,48.53
+małopolskie,Kraków,52.0,2.0,1700.0,32.69
+Warszawa,Bielany,46.0,2.0,1950.0,42.39
+Warszawa,Filtry,56.0,3.0,3700.0,66.07
+Warszawa,Mokotów,96.0,3.0,7500.0,78.13
+Wrocław,Gaj,48.0,2.0,1700.0,35.42
+Warszawa,Mokotów,40.0,2.0,2600.0,65.0
+Wrocław,Plac Grunwaldzki,40.23,2.0,2400.0,59.66
+Kraków,Os. Ruczaj-Zaborze,16.0,3.0,600.0,37.5
+Warszawa,Nowolipki,55.0,4.0,3200.0,58.18
+Wrocław,Psie Pole,36.0,1.0,1400.0,38.89
+Warszawa,Wola,76.0,3.0,5500.0,72.37
+Wrocław,Krzyki,35.0,1.0,2800.0,80.0
+Warszawa,Mokotów,100.0,3.0,11500.0,115.0
+Kraków,Prądnik Biały,35.0,2.0,1300.0,37.14
+Kraków,Grzegórzki,40.0,2.0,2150.0,53.75
+Poznań,Górczyn,38.0,2.0,1250.0,32.89
+Kraków,Podgórze,88.0,3.0,8900.0,101.14
+Warszawa,Wilanów,60.0,2.0,3000.0,50.0
+Kraków,Stare Miasto,95.26,3.0,6167.0,64.74
+Warszawa,Wola,51.0,2.0,4000.0,78.43
+Wrocław,Przedmieście Oławskie,25.0,1.0,2000.0,80.0
+Warszawa,Śródmieście,61.0,2.0,4500.0,73.77
+wielkopolskie,Poznań,56.0,2.0,3100.0,55.36
+Warszawa,Błonia Wilanowskie,95.0,4.0,3800.0,40.0
+dolnośląskie,Wrocław,50.0,2.0,2400.0,48.0
+Warszawa,Mokotów,57.0,3.0,2000.0,35.09
+Warszawa,Śródmieście,35.0,2.0,2700.0,77.14
+Gdańsk,Śródmieście,25.32,1.0,2400.0,94.79
+Kraków,Prądnik Biały,45.0,2.0,2100.0,46.67
+Szczecin,Centrum,37.5,2.0,1600.0,42.67
+Warszawa,Mokotów,61.1,2.0,3600.0,58.92
+Warszawa,Wola,29.0,1.0,1700.0,58.62
+Warszawa,Żoliborz,47.0,2.0,2450.0,52.13
+Warszawa,Śródmieście,121.0,4.0,7000.0,57.85
+Warszawa,Saska Kępa,40.0,2.0,4800.0,120.0
+Gdańsk,Piecki-Migowo,60.0,3.0,2300.0,38.33
+Warszawa,Śródmieście,52.0,2.0,3200.0,61.54
+pomorskie,Gdańsk,45.0,2.0,1800.0,40.0
+Kraków,Krowodrza,36.0,1.0,1350.0,37.5
+Warszawa,Ksawerów,180.0,4.0,9900.0,55.0
+Kraków,Krowodrza,22.0,1.0,1150.0,52.27
+Warszawa,Powiśle,93.0,3.0,5000.0,53.76
+Warszawa,Wierzbno,79.0,4.0,4000.0,50.63
+Kraków,Krowodrza,31.0,2.0,1200.0,38.71
+Poznań,Jeżyce,42.6,2.0,2200.0,51.64
+Warszawa,Praga-Południe,13.0,1.0,1300.0,100.0
+Kraków,Dębniki,35.0,2.0,1500.0,42.86
+Kraków,Grzegórzki,22.0,1.0,1500.0,68.18
+Łódź,Górna,36.0,2.0,2000.0,55.56
+Kraków,Os. Ruczaj,32.0,1.0,1200.0,37.5
+Warszawa,Ochota,61.0,2.0,2500.0,40.98
+małopolskie,Kraków,40.0,2.0,1700.0,42.5
+Warszawa,Wola,58.0,2.0,3200.0,55.17
+Warszawa,Bemowo,40.0,2.0,1650.0,41.25
+Warszawa,Mokotów,82.0,3.0,7000.0,85.37
+Kraków,Azory,50.0,1.0,1500.0,30.0
+Kraków,Stare Miasto,50.0,2.0,2200.0,44.0
+Kraków,Os. Podwawelskie,39.0,1.0,1600.0,41.03
+Kraków,Krowodrza,57.0,2.0,2500.0,43.86
+Warszawa,Muranów,81.0,3.0,4600.0,56.79
+Warszawa,Śródmieście,38.0,1.0,3200.0,84.21
+Łódź,Bałuty,65.0,2.0,2500.0,38.46
+Warszawa,Ochota,17.0,1.0,1700.0,100.0
+Warszawa,Śródmieście,53.0,3.0,2750.0,51.89
+małopolskie,Kraków,45.0,2.0,1700.0,37.78
+Warszawa,Wola,47.0,2.0,2200.0,46.81
+Kraków,Stare Miasto,53.0,2.0,1850.0,34.91
+Warszawa,Praga-Południe,42.0,2.0,2000.0,47.62
+Kraków,Stare Miasto,45.0,2.0,2300.0,51.11
+Kraków,Górka Narodowa,32.0,1.0,1200.0,37.5
+Kraków,Stare Miasto,50.0,2.0,2100.0,42.0
+Łódź,Karolew-Retkinia Wschód,36.0,2.0,1100.0,30.56
+Wrocław,Śródmieście,33.0,2.0,1700.0,51.52
+Kraków,Podgórze,29.0,1.0,1500.0,51.72
+Wrocław,Stare Miasto,170.0,4.0,,58.0
+Wrocław,Sępolno,25.0,1.0,700.0,28.0
+Warszawa,Śródmieście,91.0,4.0,4700.0,51.65
+Warszawa,Mokotów,54.0,2.0,3200.0,59.26
+Kraków,Podgórze,53.0,3.0,2800.0,52.83
+Kraków,Zakrzówek,33.0,2.0,1300.0,39.39
+Warszawa,Włochy,34.0,1.0,1800.0,52.94
+Warszawa,Młociny,50.0,2.0,3000.0,60.0
+Wrocław,Stare Miasto,40.0,1.0,2000.0,50.0
+Warszawa,Mokotów,56.0,2.0,2900.0,51.79
+Kraków,Stare Miasto,87.0,3.0,3900.0,44.83
+Szczecin,Śródmieście,30.3,1.0,1500.0,49.5
+Wrocław,Plac Grunwaldzki,17.0,1.0,1400.0,82.35
+Kraków,Łobzów,37.0,2.0,1200.0,32.43
+Wrocław,Krzyki,49.0,2.0,2300.0,46.94
+Kraków,Os. Podwawelskie,52.0,2.0,2100.0,40.38
+Szczecin,Słoneczne,48.5,2.0,1700.0,35.05
+Warszawa,Mokotów,36.0,2.0,2500.0,69.44
+dolnośląskie,Wrocław,45.0,2.0,2000.0,44.44
+Kraków,Łobzów,39.0,2.0,2000.0,51.28
+Kraków,Stare Miasto,57.0,2.0,2800.0,49.12
+Warszawa,Mokotów,70.0,3.0,3000.0,42.86
+Warszawa,Wola,49.0,2.0,3700.0,75.51
+Warszawa,Wola,74.5,4.0,5000.0,67.11
+Kraków,Grzegórzki,30.0,1.0,1300.0,43.33
+Łódź,Śródmieście,28.0,1.0,1500.0,53.57
+Warszawa,Śródmieście,112.06,4.0,5300.0,47.3
+Wrocław,Stare Miasto,25.0,1.0,2100.0,84.0
+Warszawa,Szczęśliwice,63.5,3.0,3600.0,56.69
+Kraków,Podgórze,50.0,2.0,2600.0,52.0
+Kraków,Krowodrza,51.46,3.0,2000.0,38.87
+Warszawa,Białołęka,54.0,2.0,2800.0,51.85
+Wrocław,Krzyki,83.87,4.0,6700.0,79.89
+Łódź,Bałuty,37.0,2.0,1800.0,48.65
+Wrocław,Stare Miasto,75.0,3.0,3000.0,40.0
+Kraków,Podgórze,47.0,2.0,1999.0,42.53
+Wrocław,Plac Grunwaldzki,54.0,3.0,2300.0,42.59
+Warszawa,Chomiczówka,56.0,2.0,2500.0,44.64
+Warszawa,Czyste,62.0,3.0,4499.0,72.56
+Kraków,Stare Miasto,22.0,1.0,1550.0,70.45
+Kraków,Stare Miasto,46.0,2.0,2000.0,43.48
+dolnośląskie,Wrocław,27.0,1.0,1400.0,51.85
+Kraków,Stare Miasto,45.0,2.0,2000.0,44.44
+Kraków,Stare Miasto,20.0,1.0,1500.0,75.0
+Warszawa,Ochota,70.0,3.0,3600.0,51.43
+Warszawa,Czyste,76.0,4.0,5600.0,73.68
+Kraków,Podgórze,31.0,1.0,2000.0,64.52
+małopolskie,Kraków,38.0,2.0,2100.0,55.26
+Kraków,Prądnik Czerwony,37.0,2.0,1650.0,44.59
+dolnośląskie,Wrocław,30.0,1.0,1750.0,58.33
+małopolskie,Kraków,48.0,2.0,2700.0,56.25
+Łódź,Chojny-Dąbrowa,36.0,2.0,1400.0,38.89
+Warszawa,Bemowo,61.62,3.0,2150.0,34.89
+Warszawa,Wawer,150.0,3.0,4500.0,30.0
+Warszawa,Powiśle,71.0,3.0,4400.0,61.97
+Warszawa,Śródmieście,103.0,3.0,5200.0,50.49
+Kraków,Podgórze Stare,30.0,1.0,1000.0,33.33
+Szczecin,Stare Miasto,41.97,2.0,2300.0,54.8
+Kraków,Dębniki,60.3,2.0,2300.0,38.14
+Kraków,Os. Ruczaj,40.0,2.0,1500.0,37.5
+Warszawa,Szczęśliwice,59.0,3.0,2800.0,47.46
+Warszawa,Nowe Miasto,95.7,3.0,6500.0,67.92
+Warszawa,Żoliborz,262.0,4.0,24000.0,91.6
+brak,,35.0,2.0,2200.0,62.86
+Warszawa,Śródmieście,50.0,2.0,3500.0,70.0
+dolnośląskie,Wrocław,40.0,2.0,1950.0,48.75
+Warszawa,Białołęka,50.0,2.0,1600.0,32.0
+Wrocław,Stare Miasto,41.69,2.0,1700.0,40.78
+Warszawa,Wawrzyszew,35.0,1.0,1800.0,51.43
+Kraków,Stare Miasto,68.0,3.0,2700.0,39.71
+Gdańsk,Śródmieście,60.0,2.0,2500.0,41.67
+Kraków,Bronowice Małe,45.0,2.0,1500.0,33.33
+Poznań,Maltańskie,64.0,3.0,2200.0,34.37
+Kraków,Podgórze,75.0,3.0,2700.0,36.0
+Warszawa,Targówek,55.0,2.0,2150.0,39.09
+Warszawa,Wola,28.0,2.0,2400.0,85.71
+Kraków,Stare Miasto,41.0,2.0,2200.0,53.66
+Wrocław,Szczepin,47.0,2.0,1900.0,40.43
+Warszawa,Wola,53.0,2.0,4900.0,92.45
+Wrocław,Krzyki,41.0,2.0,2100.0,51.22
+Kraków,Ludwinów,112.0,3.0,5900.0,52.68
+Warszawa,Kabaty,40.0,1.0,1950.0,48.75
+Kraków,Prądnik Biały,39.0,2.0,1450.0,37.18
+Gdańsk,Brzeźno,40.0,2.0,1750.0,43.75
+Kraków,Piasek,31.0,1.0,1700.0,54.84
+Warszawa,Grochów,49.61,2.0,2800.0,56.44
+Wrocław,Kowale,420.0,4.0,5000.0,11.9
+Kraków,Olsza,55.0,2.0,1400.0,25.45
+małopolskie,Kraków,42.0,2.0,3100.0,73.81
+Poznań,Jeżyce,35.0,1.0,1600.0,45.71
+Kraków,Kazimierz,55.0,3.0,3000.0,54.55
+Szczecin,Podjuchy,37.0,2.0,1900.0,51.35
+Warszawa,Wola,43.0,2.0,3500.0,81.4
+Warszawa,Wilanów,38.0,2.0,2300.0,60.53
+Gdańsk,Żabianka-Wejhera-Jelitkowo-Tysiąclecia,42.0,2.0,1900.0,45.24
+Wrocław,Popowice,64.0,3.0,1800.0,28.13
+Wrocław,Psie Pole,53.0,2.0,2000.0,37.74
+Kraków,Stare Miasto,114.0,3.0,8000.0,70.18
+Warszawa,Śródmieście,134.0,3.0,7900.0,58.96
+Wrocław,Plac Grunwaldzki,29.0,1.0,1400.0,48.28
+Kraków,Os. Europejskie,33.0,1.0,1150.0,34.85
+Warszawa,Wilanów,179.0,4.0,12500.0,69.83
+Warszawa,Sady Żoliborskie,68.0,3.0,3500.0,51.47
+Kraków,Krowodrza,67.0,3.0,2500.0,37.31
+małopolskie,Kraków,91.0,3.0,4950.0,54.4
+mazowieckie,Warszawa,50.0,2.0,2300.0,46.0
+Kraków,Stare Miasto,35.0,2.0,2000.0,57.14
+Warszawa,Mokotów,200.0,3.0,10000.0,50.0
+Warszawa,Okęcie,56.0,2.0,3200.0,57.14
+Warszawa,Mirów,42.0,2.0,2550.0,60.71
+Kraków,Salwator,65.0,2.0,2250.0,34.62
+Kraków,Grzegórzki,55.0,3.0,2400.0,43.64
+Kraków,Stare Miasto,80.0,3.0,6000.0,75.0
+Kraków,Borek Fałęcki,75.84,3.0,2300.0,30.33
+Kraków,Prądnik Biały,56.0,2.0,1900.0,33.93
+małopolskie,Kraków,35.0,1.0,2200.0,62.86
+małopolskie,Kraków,50.0,2.0,2500.0,50.0
+Wrocław,Nowy Dwór,67.0,3.0,1950.0,29.1
+Gdańsk,Śródmieście,32.0,2.0,2200.0,68.75
+Wrocław,Plac Grunwaldzki,61.0,2.0,2400.0,39.34
+małopolskie,Kraków,35.0,2.0,1800.0,51.43
+Kraków,Stare Miasto,23.0,1.0,1050.0,45.65
+Warszawa,Śródmieście,59.0,3.0,5300.0,89.83
+Warszawa,Mokotów,46.0,2.0,3700.0,80.43
+Kraków,Krowodrza,80.0,3.0,2200.0,27.5
+Warszawa,Powiśle,34.0,1.0,2500.0,73.53
+Kraków,Krowodrza,25.0,1.0,1500.0,60.0
+Warszawa,Wilanów,115.0,3.0,5000.0,43.48
+Wrocław,Krzyki,28.0,1.0,2000.0,71.43
+Gdańsk,Wrzeszcz,62.8,3.0,3500.0,55.73
+Warszawa,Mokotów,38.0,1.0,2200.0,57.89
+Warszawa,Bemowo,36.0,2.0,1850.0,51.39
+Kraków,Prądnik Biały,53.0,3.0,2300.0,43.4
+Kraków,Stare Miasto,180.0,4.0,5500.0,30.56
+Warszawa,Śródmieście,28.0,2.0,1750.0,62.5
+Szczecin,Pogodno,63.1,3.0,4200.0,66.56
+Kraków,Bieżanów-Prokocim,33.0,2.0,1900.0,57.58
+Warszawa,Saska Kępa,49.0,2.0,1900.0,38.78
+Warszawa,Anin,56.0,2.0,2600.0,46.43
+Kraków,Grzegórzki,120.0,4.0,7500.0,62.5
+Warszawa,Wilanów,108.3,3.0,7000.0,64.64
+Kraków,Dębniki,37.0,2.0,1600.0,43.24
+pod budynkiem,,35.0,2.0,2400.0,68.57
+Warszawa,Praga-Północ,115.0,4.0,6000.0,52.17
+Kraków,Podgórze,19.0,1.0,1400.0,73.68
+Kraków,Os. Ruczaj,45.0,2.0,2000.0,44.44
+Warszawa,Chrzanów,46.0,2.0,2500.0,54.35
+Kraków,Stare Miasto,35.0,1.0,1700.0,48.57
+Kraków,Podgórze,50.0,2.0,2500.0,50.0
+Kraków,Podgórze,52.0,2.0,2650.0,50.96
+Warszawa,Wilanów,47.5,2.0,3200.0,67.37
+pomorskie,Gdańsk,68.5,3.0,2200.0,32.12
+Gdańsk,Piecki-Migowo,52.0,3.0,2300.0,44.23
+Warszawa,Mokotów,93.0,4.0,5900.0,63.44
+Warszawa,Ursus,60.0,3.0,2800.0,46.67
+Warszawa,Śródmieście,100.0,4.0,7500.0,75.0
+Warszawa,Mokotów,57.0,3.0,2700.0,47.37
+Kraków,Stare Miasto,18.0,1.0,1200.0,66.67
+Warszawa,Powiśle,29.0,1.0,1800.0,62.07
+Kraków,Grzegórzki,42.0,1.0,2200.0,52.38
+małopolskie,Kraków,40.0,2.0,1700.0,42.5
+Kraków,Łobzów,80.0,3.0,2000.0,25.0
+Kraków,Grzegórzki,73.0,2.0,2500.0,34.25
+małopolskie,Kraków,20.0,1.0,1400.0,70.0
+Warszawa,Powiśle,118.7,3.0,6000.0,50.55
+małopolskie,Kraków,45.0,2.0,2500.0,55.56
+Warszawa,Praga-Północ,52.0,2.0,3500.0,67.31
+Warszawa,Bródno,54.5,4.0,2400.0,44.04
+Wrocław,Stare Miasto,52.0,2.0,2100.0,40.38
+Warszawa,Mokotów,103.0,3.0,4500.0,43.69
+Warszawa,Ursus,38.0,2.0,2100.0,55.26
+Warszawa,Śródmieście,87.5,3.0,6000.0,68.57
+małopolskie,Kraków,44.0,2.0,1299.0,29.52
+Łódź,Śródmieście,37.0,2.0,1500.0,40.54
+Warszawa,Mokotów,50.0,2.0,2550.0,51.0
+Warszawa,Żoliborz,20.0,1.0,1500.0,75.0
+Warszawa,Szczęśliwice,45.0,2.0,2890.0,64.22
+Warszawa,Mokotów,64.0,2.0,3200.0,50.0
+Warszawa,Śródmieście,75.0,4.0,3950.0,52.67
+Kraków,Krowodrza,39.0,1.0,1500.0,38.46
+Warszawa,Bielany,30.0,1.0,2100.0,70.0
+Łódź,Widzew,59.43,3.0,2000.0,33.65
+Kraków,Grzegórzki,70.0,3.0,4200.0,60.0
+Warszawa,Żoliborz,70.0,3.0,3800.0,54.29
+Warszawa,Praga-Północ,39.0,2.0,3000.0,76.92
+Warszawa,Młociny,170.0,5.0,6250.0,36.76
+Poznań,Winogrady,50.0,2.0,1500.0,30.0
+Warszawa,Śródmieście,106.0,3.0,5600.0,52.83
+Warszawa,Wilanów,76.0,3.0,5900.0,77.63
+Warszawa,Targówek,46.46,2.0,2500.0,53.81
+Kraków,Olsza,65.0,3.0,2400.0,36.92
+Warszawa,Praga-Południe,84.0,3.0,4400.0,52.38
+zachodniopomorskie,Szczecin,70.0,2.0,3000.0,42.86
+Kraków,Płaszów,25.0,1.0,800.0,32.0
+Warszawa,Saska Kępa,140.0,6.0,6900.0,49.29
+Gdańsk,Jelitkowo,120.0,4.0,9998.0,83.32
+Kraków,Stare Miasto,67.0,3.0,3000.0,44.78
+Szczecin,Centrum,93.0,3.0,3000.0,32.26
+Kraków,Kleparz,15.0,1.0,1350.0,90.0
+Kraków,Dębniki,133.0,4.0,7400.0,55.64
+Kraków,Krowodrza,85.0,4.0,4500.0,52.94
+Łódź,Górna,104.0,4.0,3000.0,28.85
+Gdańsk,Zaspa,47.0,2.0,2250.0,47.87
+Kraków,Stare Miasto,70.0,2.0,2400.0,34.29
+Wrocław,Stare Miasto,120.93,3.0,15900.0,131.48
+Warszawa,Wawrzyszew,54.0,3.0,2700.0,50.0
+Warszawa,Grochów,50.0,2.0,2700.0,54.0
+Wrocław,Krzyki,49.0,2.0,1970.0,40.2
+Wrocław,Grabiszyn-Grabiszynek,36.78,2.0,1550.0,42.14
+Warszawa,Wola,43.0,2.0,2300.0,53.49
+Warszawa,Śródmieście,45.0,2.0,2700.0,60.0
+Kraków,Dębniki,37.0,1.0,1650.0,44.59
+Kraków,Stare Miasto,25.0,1.0,1700.0,68.0
+Wrocław,Fabryczna,29.0,1.0,1900.0,65.52
+Kraków,Kleparz,69.0,3.0,3150.0,45.65
+Warszawa,Mokotów,176.0,4.0,9900.0,56.25
+Kraków,Krowodrza,46.0,2.0,1850.0,40.22
+małopolskie,Kraków,100.0,3.0,1500.0,15.0
+Warszawa,Śródmieście,51.0,2.0,3150.0,61.76
+Warszawa,Mokotów,125.0,4.0,10000.0,80.0
+Kraków,Podgórze,35.0,1.0,1450.0,41.43
+Wrocław,Tarnogaj,40.0,2.0,1900.0,47.5
+Kraków,Stare Miasto,55.0,2.0,2400.0,43.64
+Łódź,Śródmieście,65.0,3.0,5000.0,76.92
+Warszawa,Nowa Praga,45.0,2.0,2600.0,57.78
+Kraków,Bronowice,63.0,3.0,2200.0,34.92
+Warszawa,Mokotów,124.0,4.0,7500.0,60.48
+Warszawa,Mokotów,162.5,5.0,7800.0,48.0
+Łódź,Górna,35.0,2.0,1200.0,34.29
+brak,,26.0,1.0,1300.0,50.0
+Kraków,Grzegórzki,44.53,2.0,1800.0,40.42
+Warszawa,Ursynów,37.0,1.0,2000.0,54.05
+Kraków,Dębniki,43.0,2.0,3950.0,91.86
+Gdańsk,Śródmieście,58.0,2.0,2300.0,39.66
+Szczecin,Centrum,35.0,1.0,1450.0,41.43
+Kraków,Stare Miasto,43.0,2.0,2100.0,48.84
+Wrocław,Huby,60.0,3.0,2100.0,35.0
+Łódź,Śródmieście,65.0,2.0,2400.0,36.92
+Wrocław,Stare Miasto,47.0,2.0,1800.0,38.3
+Poznań,Jeżyce,37.0,2.0,1200.0,32.43
+Warszawa,Mokotów,32.0,1.0,1700.0,53.13
+Warszawa,Targówek,33.0,2.0,2000.0,60.61
+mazowieckie,Warszawa,215.0,4.0,11000.0,51.16
+Warszawa,Wilanów,75.0,3.0,4300.0,57.33
+Warszawa,Ursynów,74.0,4.0,3600.0,48.65
+Poznań,Wilda,27.0,1.0,1500.0,55.56
+Kraków,Prądnik Biały,60.0,3.0,2400.0,40.0
+Warszawa,Białołęka,51.0,3.0,1950.0,38.24
+Łódź,Polesie,57.0,2.0,2200.0,38.6
+Wrocław,Popowice,62.0,3.0,1900.0,30.65
+Wrocław,Gądów Mały,60.0,2.0,1900.0,31.67
+Poznań,Grunwald,75.0,3.0,3500.0,46.67
+Warszawa,Śródmieście,38.3,2.0,2810.0,73.37
+Kraków,Kazimierz,42.0,,2900.0,69.05
+Warszawa,Śródmieście,59.0,2.0,2990.0,50.68
+małopolskie,Kraków,50.0,2.0,1900.0,38.0
+Wrocław,Śródmieście,47.55,2.0,1999.0,42.04
+Warszawa,Mokotów,71.0,3.0,3200.0,45.07
+Wrocław,Krzyki,54.0,2.0,2040.0,37.78
+Kraków,Krowodrza,20.0,1.0,1250.0,62.5
+Gdańsk,Dolne Miasto,40.0,2.0,1800.0,45.0
+Gdańsk,Stare Miasto,50.0,2.0,2100.0,42.0
+Warszawa,Mokotów,55.0,2.0,2800.0,50.91
+Warszawa,Targówek,40.0,2.0,1800.0,45.0
+Warszawa,Ksawerów,30.0,1.0,1800.0,60.0
+Warszawa,Mokotów,74.0,3.0,4000.0,54.05
+Gdańsk,Stare Miasto,50.0,2.0,2500.0,50.0
+Kraków,Stare Miasto,83.0,3.0,5300.0,63.86
+Kraków,Krowodrza,60.0,3.0,2100.0,35.0
+Kraków,Krowodrza,80.0,3.0,2650.0,33.13
+Warszawa,Ochota,51.29,2.0,2100.0,40.94
+Kraków,Salwator,36.2,2.0,1850.0,51.1
+Warszawa,Śródmieście,30.65,2.0,1700.0,55.46
+Wrocław,Maślice,57.0,3.0,2000.0,35.09
+małopolskie,Kraków,39.0,2.0,2300.0,58.97
+Warszawa,Ursynów,68.0,3.0,3100.0,45.59
+Kraków,Azory,80.0,3.0,2500.0,31.25
+Warszawa,Szczęśliwice,70.0,3.0,2800.0,40.0
+Łódź,Bałuty,34.0,2.0,1800.0,52.94
+Łódź,Śródmieście,37.7,1.0,1400.0,37.14
+Warszawa,Wilanów,120.0,3.0,4500.0,37.5
+Warszawa,Mokotów,30.0,1.0,2300.0,76.67
+Warszawa,Mokotów,79.0,3.0,4000.0,50.63
+Łódź,Śródmieście,48.6,2.0,2000.0,41.15
+Wrocław,Stare Miasto,107.0,3.0,6500.0,60.75
+Kraków,Ludwinów,37.0,2.0,1750.0,47.3
+Kraków,Mistrzejowice,49.0,3.0,1800.0,36.73
+Kraków,Czyżyny,58.0,3.0,3000.0,51.72
+Warszawa,Saska Kępa,140.0,6.0,6950.0,49.64
+Warszawa,Bielany,46.0,2.0,2600.0,56.52
+małopolskie,Kraków,42.0,2.0,2390.0,56.9
+Warszawa,Mokotów,65.0,3.0,3500.0,53.85
+Warszawa,Stare Miasto,32.0,1.0,2200.0,68.75
+Kraków,Krowodrza,75.0,3.0,3000.0,40.0
+Warszawa,Ursynów,105.0,5.0,4500.0,42.86
+mazowieckie,Warszawa,55.0,2.0,2700.0,49.09
+Kraków,Stare Miasto,35.0,2.0,2200.0,62.86
+Gdańsk,Chełm,40.0,2.0,1900.0,47.5
+Warszawa,Powiśle,59.0,2.0,3400.0,57.63
+Kraków,Os. Ruczaj,31.0,1.0,1500.0,48.39
+Kraków,Stare Miasto,33.0,1.0,1800.0,54.55
+Warszawa,Bemowo,41.0,2.0,2700.0,65.85
+Kraków,Stare Miasto,30.0,1.0,1800.0,60.0
+Warszawa,Mokotów,45.1,1.0,2300.0,51.0
+Warszawa,Ochota,18.0,1.0,1500.0,83.33
+Kraków,Łobzów,36.0,2.0,1400.0,38.89
+Kraków,Podgórze,42.0,2.0,2100.0,50.0
+Kraków,Stare Miasto,40.0,2.0,2100.0,52.5
+Warszawa,Stare Bielany,35.0,1.0,1700.0,48.57
+Kraków,Stare Miasto,75.0,2.0,3000.0,40.0
+Warszawa,Czyste,31.0,1.0,1650.0,53.23
+Warszawa,Wola,70.0,3.0,4000.0,57.14
+Wrocław,Śródmieście,37.0,2.0,1650.0,44.59
+Kraków,Nowa Huta,32.0,1.0,1400.0,43.75
+Kraków,Dębniki,52.0,2.0,1400.0,26.92
+Warszawa,Bemowo,65.0,3.0,1750.0,26.92
+Kraków,Stare Miasto,66.0,3.0,2300.0,34.85
+małopolskie,Kraków,55.0,2.0,2300.0,41.82
+Kraków,Stare Miasto,35.0,1.0,1600.0,45.71
+Łódź,Śródmieście,57.63,3.0,2300.0,39.91
+Poznań,Stare Miasto,29.55,2.0,1850.0,62.61
+pomorskie,Gdańsk,53.0,2.0,2400.0,45.28
+Warszawa,Żoliborz,48.0,3.0,2300.0,47.92
+Gdańsk,Wrzeszcz,59.0,3.0,3200.0,54.24
+Warszawa,Wierzbno,50.0,2.0,2800.0,56.0
+wielkopolskie,Poznań,86.1,3.0,4500.0,52.26
+Warszawa,Ochota,45.0,2.0,2470.0,54.89
+Warszawa,Ochota,102.0,4.0,4000.0,39.22
+Kraków,Os. Ruczaj,50.0,2.0,2350.0,47.0
+Warszawa,Stare Miasto,24.0,1.0,1800.0,75.0
+Kraków,Stare Miasto,65.0,2.0,2200.0,33.85
+Kraków,Stare Miasto,95.0,2.0,2500.0,26.32
+małopolskie,Kraków,90.0,4.0,3900.0,43.33
+Warszawa,Śródmieście,58.0,2.0,7500.0,129.31
+Kraków,Podgórze,70.0,2.0,8500.0,121.43
+Warszawa,Kabaty,47.0,2.0,2300.0,48.94
+Poznań,Grunwald,46.2,2.0,1500.0,32.47
+Warszawa,Wola,71.6,3.0,3500.0,48.88
+Warszawa,Ursynów,86.0,3.0,3800.0,44.19
+Kraków,Stare Miasto,68.62,2.0,2100.0,30.6
+Kraków,Olsza,56.0,2.0,1850.0,33.04
+Kraków,Podgórze,63.0,3.0,2500.0,39.68
+Kraków,Zabłocie,43.0,2.0,2000.0,46.51
+Warszawa,Powiśle,100.0,3.0,6000.0,60.0
+Kraków,Stare Miasto,135.0,4.0,10500.0,77.78
+Kraków,Mydlniki,41.0,2.0,1600.0,39.02
+Warszawa,Ursynów,61.0,2.0,2700.0,44.26
+Warszawa,Praga-Południe,98.14,4.0,3000.0,30.57
+Gdańsk,Przymorze,39.2,2.0,2300.0,58.67
+Kraków,Bronowice,96.0,3.0,3000.0,31.25
+Warszawa,Śródmieście,46.0,2.0,2990.0,65.0
+Łódź,Widzew,37.0,1.0,1400.0,37.84
+Warszawa,Włochy,47.6,2.0,2600.0,54.62
+Warszawa,Mirów,60.0,2.0,2800.0,46.67
+wielkopolskie,Poznań,62.0,3.0,2700.0,43.55
+Kraków,Bronowice,67.0,2.0,2600.0,38.81
+Gdańsk,Przymorze,33.0,4.0,2500.0,75.76
+Kraków,Kazimierz,36.0,2.0,1650.0,45.83
