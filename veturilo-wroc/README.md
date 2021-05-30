@@ -1,7 +1,18 @@
 
 ## Dane Veturilo (Wrocławski Rower Miejski)
 
-Skompresowany plik ZIP zawiera dane pobrane ze strony WWW operatora Wrocławskiego Roweru Miejskiego z dostępnością rowerów.
+Skompresowany plik <a href='https://github.com/marianwitkowski/python-data/raw/master/veturilo-wroc/veturilo-wroc.csv.zip'>ZIP</a> zawiera dane pobrane ze strony WWW operatora Wrocławskiego Roweru Miejskiego na temat dostępności rowerów.
 
 Zgromadzone dane obejmują daty od 06.03.2021 do 29.05.2021
+
+**Format CSV**
+
+Kolumny:
+- uid - numer stacji
+- ts - znacznik czasu pomiaru YYYYMMDDHHmmSS
+- bikes - liczba dostępnych rowerów
+
+Plik:
+
+https://github.com/marianwitkowski/python-data/raw/master/veturilo-wroc/veturilo-wroc.csv.zip (16,2MB)
 
