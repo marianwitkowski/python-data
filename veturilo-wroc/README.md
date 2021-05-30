@@ -12,7 +12,7 @@ Kolumny:
 - ts - znacznik czasu pomiaru YYYYMMDDHHmmSS
 - bikes - liczba dostępnych rowerów
 
-Plik:
+Pliki:
 
-https://github.com/marianwitkowski/python-data/raw/master/veturilo-wroc/veturilo-wroc.csv.zip (16,2MB)
-
+- https://github.com/marianwitkowski/python-data/raw/master/veturilo-wroc/veturilo-wroc.csv.zip (16,2MB)
+- https://github.com/marianwitkowski/python-data/blob/master/veturilo-wroc/veturilo-prophet.ipynb (Jupyter Notebook)
